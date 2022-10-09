@@ -8,12 +8,12 @@ parent: Heretics Players Guide
 {% include toc.html %}
 
 # Character Creation
-1. Choose or roll your ability scores (bonuses and defenses) by adding 3 points and subtracting 1 point or rolling 1d4 in order to add or subtract each point and assigning a number to each of the abilities. 
-2. Roll for your grit (hit protection) and flesh (wounds) by rolling 1d8, 1d8 rerolling 1's and 2's, or rolling 2d4. 
-3. Choose or roll 1d6 by 1d8 for 2 backgrounds and receive the starting equipment for both backgrounds. 
+1. Choose or roll your [ability scores](/abilities) (bonuses and defenses) by adding 3 points and subtracting 1 point or rolling 1d4 in order to add or subtract each point and assigning a number to each of the abilities. 
+2. Roll for your [grit (hit protection) and flesh (wounds)](/damage) by rolling 1d8, 1d8 rerolling 1's and 2's, or rolling 2d4. 
+3. Choose or roll 1d6 by 1d8 for [2 backgrounds](#3-background-starting-gear) and receive the starting [equipment](/items) for both backgrounds. 
 4. Choose or roll *n*d20 for adventuring equipment up to your maximum inventory load (equal to your strength defense).
-5. Choose or roll for your character traits and relationships by rolling 1d4, 1d6, 1d8, 2d10, 1d12, and 1d20. 
-6. Choose or roll for name
+5. Choose or roll for your [character traits and relationships](#5-traits) by rolling 1d4, 1d6, 1d8, 2d10, 1d12, and 1d20. 
+6. Choose or roll for [name](/namestables)
 
 These steps are described in more detail below. 
 
@@ -89,16 +89,16 @@ Actions performed using skills or tools relevant to a character's background are
 
 ## 4. Adventuring Gear
 You start with your choice from the following list, up to as many of each thing as you can carry, duplicates allowed. You can also roll d20 until your inventory is full. You do not have to pay for these items:
-   1. 3d6 x 10 coins
-   2. rations, 2/2 (taking up 1 slot total)
+   1. 3d6 x 10 [coins](/items#currency)
+   2. [rations](/items#food-and-rations), 2/2 (taking up 1 slot total)
    3. rope, 50 feet
    4. torches, 2/2 (taking up 1 slot total)
-   5. shield or helmet
-   6. a random spell
-   7. any starting armor or simple ward
-   8. any weapon
+   5. [shield or helmet](/items#armor)
+   6. [a random spell](/spellcasting#d100-spells)
+   7. any starting [armor](/items#armor) or [simple ward](/items#wards)
+   8. any [weapon](/items#weapons)
    9. quiver of 20/20 arrows
-   10. a random medicinal
+   10. a random [medicinal](/items#medicinals)
    11. tent
    12. lantern
    13. chalk, 10/10
@@ -106,7 +106,7 @@ You start with your choice from the following list, up to as many of each thing 
    15. chain, 10 feet
    16. crowbar
    17. grappling hook
-   18. supply 5/5
+   18. [supply](/items#supply) 5/5
    19. candles, 10/10
    20. caltrops, 10/10
 
@@ -224,7 +224,7 @@ All creatures can be expressed in a single stat line.
 6. MV # (#): Movement, in feet. The first number is exploration (10 minutes in a dungeon), second number combat movement (10 seconds). Usually omitted if it is 120 (40).
 7. Att: Attacks, usually followed by a to-hit bonus, a die (damage), and a parenthetical indicating the weapon, or spell. 
 8. Items: List of all items that the creature carries. 
-9. *Special ability*: Any additional abilities. Knacks can appear here. Monsters have their abilities here as well. 
+9. *Special ability*: Any additional abilities. [Knacks](/xp#knacks) can appear here. Monsters have their abilities here as well. 
 
 **Example:** 
 

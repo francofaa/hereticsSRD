@@ -23,7 +23,7 @@ This money should not be spent on usable objects but on special interests:
 7. Training 
 8. Hobbies: Animal husbandry, robotics, device creation, languages, brewing, hunting, art, spell research, item creation (smithing, for example).
 
-**Optional rule: Special Interest Bonus and Deficit.** Characters can be rewarded / punished for spending their special interests in certain ways. At the beginning of the game, they can roll or choose their strong interest and weak interest, and apply a bonus and penalty to each, respectively.
+**Optional rule: Special Interest Bonus and Penalty.** Characters can be rewarded / punished for spending their special interests in certain ways. At the beginning of the game, they can roll or choose their strong interest and weak interest, and apply a bonus and penalty to each, respectively.
 
 For example:
 - Strong: Philanthropy (120%)

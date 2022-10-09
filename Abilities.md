@@ -55,7 +55,7 @@ Armored defense represents your ability to avoid damage via reflexes, dodging, o
    - Doing a backflip
    - Trip
    - Disarm
-   - Taking something out of deep inventory during combat
+   - Taking something out of [deep inventory](/items#quick-slots-and-deep-slots) during combat
 
 ### Saves
 - Escaping

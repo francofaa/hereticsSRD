@@ -3,6 +3,7 @@ title: Combat
 layout: default
 permalink: /combat
 nav_order: 12
+parent: Heretics Players Guide
 ---
 
 {% include toc.html %}

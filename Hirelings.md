@@ -3,6 +3,7 @@ title: Hirelings
 layout: default
 permalink: /hirelings
 nav_order: 8
+parent: Heretics Players Guide
 ---
 {% include toc.html %}
 

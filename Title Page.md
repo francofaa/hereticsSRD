@@ -1,8 +1,9 @@
 ---
-title: Heretics, Players Guide, Title Page
+title: Heretics Players Guide
 layout: default
 permalink: /
 nav_order: 1
+has_children: true
 ---
 
 Heretics, Player Guide

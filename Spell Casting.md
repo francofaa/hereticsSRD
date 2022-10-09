@@ -2,6 +2,7 @@
 title: Spell Casting
 layout: default
 permalink: /spellcasting
+parent: Heretics Players Guide
 nav_order: 9
 ---
 {% include toc.html %}

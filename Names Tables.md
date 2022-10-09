@@ -2,6 +2,7 @@
 title: Names Tables
 layout: default
 permalink: /namestables
+parent: Heretics Players Guide
 nav_order: 14
 ---
 {% include toc.html %}

@@ -3,6 +3,7 @@ title: Abilities
 layout: default
 permalink: /abilities
 nav_order: 4
+parent: Heretics Players Guide
 ---
 {% include toc.html %}
 

@@ -10,7 +10,8 @@ nav_order: 14
 # Names Tables
 For the default setting of Isurholm, you can choose from the below names.
 
-Roll 1d4 to determine ethnic background. 
+Roll 1d4 to determine your origins.
+
 1. **Isuri:** Inhabitants of Isurholm, descended from humans who invaded from across the sea after the Werriadi civilization collapsed centuries before. The Otani call them Galoli, meaning foreigner.
 2. **Otani:** Original inhabitants of Isurholm, which they call Otyde. Called Strangers by the Isuri. They claim descent from the Disirlings.
 3. **Aegerlings:** Exonym for the invaders from across the sea. Also called Outlanders. Originally from Attaland, and they call themselves Attalanders. 
@@ -37,6 +38,7 @@ Given names
 | 11     | Cleopha   | Esme      | Jiles     | Orchid   | Silas     | Wendy     |
 | 12     | Clover    | Faustus   | Jilly     | Orion    | Silence   | Zora      |
 
+Surnames
 
 | d12/d6 | 1           | 2         | 3         | 4          | 5            | 6           |
 | ------ | ----------- | --------- | --------- | ---------- | ------------ | ----------- |
@@ -53,7 +55,7 @@ Given names
 | 11     | Chips       | Febland   | Hartshorn | Onymous    | Skorbeck     | Wexley      |
 | 12     | Clutterbuck | Fernsby   | Hatman    | Pestle     | Slee         | Wilberforce |
 
-Surnames
+
 
 ### Aegirling Names
 

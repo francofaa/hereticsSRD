@@ -2,8 +2,9 @@
 title: Character Creation
 layout: default
 permalink: /charactercreation
-nav_order: 3
-parent: Heretics Players Guide
+nav_order: 2
+parent: Players Guide
+grand_parent: Heretics
 ---
 {% include toc.html %}
 

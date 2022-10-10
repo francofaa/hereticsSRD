@@ -1,8 +1,9 @@
 ---
+grand_parent: Heretics
 title: Spell Casting
 layout: default
 permalink: /spellcasting
-parent: Heretics Players Guide
+parent: Players Guide
 nav_order: 9
 ---
 {% include toc.html %}

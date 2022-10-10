@@ -2,8 +2,9 @@
 title: Introduction
 layout: default
 permalink: /intro
-nav_order: 2
-parent: Heretics Players Guide
+nav_order: 1
+grand_parent: Heretics
+parent: Players Guide
 ---
 {% include toc.html %}
 

@@ -2,8 +2,9 @@
 title: Downtime
 layout: default
 permalink: /downtime
-nav_order: 13
-parent: Heretics Players Guide
+nav_order: 14
+grand_parent: Heretics
+parent: Players Guide
 ---
 {% include toc.html %}
 

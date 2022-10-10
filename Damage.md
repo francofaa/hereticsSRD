@@ -2,8 +2,9 @@
 title: Damage
 layout: default
 permalink: /damage
-nav_order: 5
-parent: Heretics Players Guide
+nav_order: 4
+grand_parent: Heretics
+parent: Players Guide
 ---
 {% include toc.html %}
 

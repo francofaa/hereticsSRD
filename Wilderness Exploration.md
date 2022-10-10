@@ -2,8 +2,9 @@
 title: Wilderness Exploration
 layout: default
 permalink: /wilderness
-nav_order: 11
-parent: Heretics Players Guide
+nav_order: 12
+parent: Players Guide
+grand_parent: Heretics
 ---
 {% include toc.html %}
 

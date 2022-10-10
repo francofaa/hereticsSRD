@@ -2,8 +2,9 @@
 title: Dungeon Exploration
 layout: default
 permalink: /dungeon
-nav_order: 10
-parent: Heretics Players Guide
+nav_order: 11
+grand_parent: Heretics
+parent: Players Guide
 ---
 {% include toc.html %}
 

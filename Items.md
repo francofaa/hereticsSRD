@@ -2,8 +2,9 @@
 title: Items
 layout: default
 permalink: /items
-parent: Heretics Players Guide
-nav_order: 7
+parent: Players Guide
+nav_order: 8
+grand_parent: Heretics
 ---
 {% include toc.html %}
 

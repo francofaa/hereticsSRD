@@ -2,8 +2,9 @@
 title: Experience and Advancement
 layout: default
 permalink: /xp
-nav_order: 6
-parent: Heretics Players Guide
+nav_order: 5
+grand_parent: Heretics
+parent: Players Guide
 ---
 {% include toc.html %}
 

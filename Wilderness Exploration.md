@@ -49,7 +49,7 @@ On a failed navigation check, the referee should roll 1d10 in secret.
 Characters can spend a full watch in a 30 square mile area (6 mile hex) in order to forage or explore. 
 
 ### Exploring 
-Players spending time exploring find points of interest that wouldn't be identified while traveling right through a hex. 
+Players spending time exploring and find points of interest that wouldn't be identified while traveling right through a hex. If there are multiple points of interest, randomly determine one. 
 
 ### Foraging  
 Characters may forage and hunt for food. This requires a +int check depending on the environment. Such a check may also be impossible in certain environments. 
@@ -101,15 +101,15 @@ At the end of every watch, roll 1d6.
 
 | d6  | Result                                                                                                                                         |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | Encounter. Determined by the hex's encounter tables. Refer also to vibe check table                                                            |
+| 1   | Encounter 2d6 x 10 feet away in locations with obstructed lines of sight, 2d6 x 40 feet away on flat terrains. Determined by the hex's encounter tables. Refer also to vibe check table                                                            |
 | 2   | Fatigue. Each character suffers 1 point of direct damage unless they rest on the next watch. Ignore while camping.                             |
 | 3   | Signs. Characters find signs of an encounter (based on encounter tables and environment).                                                      |
 | 4   | Weather. Roll again on the weather table.                                                                                                      |
 | 5   | Depletion. Each character rolls 1d10 + 10 and loses the item in that slot. They must spend the next watch recovering it. Ignore while camping. |
-| 6   | Nothing happens.                                                                                                                                               |
+| 6   | A keyed location is found, or nothing happens.                                                                                                                                               |
 
 #### Encounter Vibe Check
-When rolling a hex's encounter, roll on the below table to determine the disposition of the creatures in the hex. Modify when it is more interesting. 
+When rolling a hex's encounter, roll on the below table to determine the disposition of the creatures in the hex. Modify when necessary or when an alternative would be more interesting. 
 
 
 | d12 | Activity / Desire             | d10 | Complication          |
@@ -126,6 +126,16 @@ When rolling a hex's encounter, roll on the below table to determine the disposi
 | 10  | Setting Trap                  | 10  | *Roll NPC*            |
 | 11  | Celebrating                   |     |                       |
 | 12  | Eating                        |     |                       |
+
+Disposition can be determined with a 2d6 roll: 
+
+| 2d6   | Disposition  |
+| ----- | ------------ |
+| 2-3   | Hostile      |
+| 4-5   | Unfriendly   |
+| 6-8   | Uninterested |
+| 9-10  | Polite       |
+| 11-12 | Friendly     |
 
 
 ### Camping 

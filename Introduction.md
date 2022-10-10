@@ -2,9 +2,8 @@
 title: Introduction
 layout: default
 permalink: /intro
-nav_order: 1
-grand_parent: Heretics
-parent: Players Guide
+nav_order: 2
+parent: Heretics
 ---
 {% include toc.html %}
 
@@ -16,7 +15,7 @@ The characters are in a low magic world, secret followers of a heretical religio
 
 - **Danger is real.** Make a few characters to start with. Choosing combat is always the most dangerous option. 
 - **Quick character creation.** Characters can be randomly generated in a few minutes, with abilities, equipment, hit protection, names, and even personality traits. 
-- **Story, not backstory.** It is not recommended to come in with a big rich backstory because of how dangerous and deadly the game came be. The game should be about the game you are creating together, not the novel you brought in. Even if your character dies, any backstory can be revealed through the diary they kept with them, small personal effects, or stories your character's sibling tells when they inevitably join the party.  
+- **Story, not backstory.** It is not recommended to come in with a big rich backstory because of how dangerous and deadly the game came be. The game should be about the story you are telling together, not the novel you brought in. Even if your character dies, any backstory can be revealed through the diary they kept with them, small personal effects, or stories your character's sibling tells when they inevitably join the party.  
 - **Down to clown, adventure-wise.** Make sure you make a character who *wants* to be out here, delving into dungeons, uncovering ancient secrets. If the character no longer wants to do that, there is a retirement mechanic.
 - **Hit protection is not health. Health is health.** Your hit protection is divided into two: Grit and flesh. Flesh is your body, grit is your stamina, more or less. You can't swim across a pool of lava and quaff a health potion. Also, there are no health potions. Let's just get that out of the way.
 - **Player ingenuity over character abilities.** As in real life, the only way to guarantee victory is with ingenuity, cunning, cleverness, planning, and overwhelming force. Luck is fickle and your modifiers aren't that good.

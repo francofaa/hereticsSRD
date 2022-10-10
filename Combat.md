@@ -12,12 +12,17 @@ grand_parent: Heretics
 # Combat 
 
 ## Initiative 
-The characters roll 1d6. On a 4 and above, the player characters go first; on a 3 and below, the enemy goes first. Creatures on each side go at the same time, deciding and declaring their actions together. Initiative is re-rolled every round. 
+
+Both sides roll 1d6. On a 1 or 2, that side is **surprised** and the other side may have a free round before initiative begins. If both sides roll 1 or 2, neither is surprised. 
+
+After surprise is determined and, if applicable, the surprise round ends, the characters roll 1d6. On a 4 and above, the player characters go first; on a 3 and below, the enemy goes first. Creatures on each side go at the same time, deciding and declaring their actions together. Initiative is re-rolled every round. 
 
 **Optional rule: Dex check against enemy dex score.** Alternatively each character must roll +dex against the dexterity defense of the enemy with the highest dexterity defense. Every character who rolls at or above that number goes ahead of the enemies, while every character who rolls under that number goes after the enemies. Initiative is not re-rolled. 
 
-## Turns 
-Turns consist of movements and actions and free actions. Reactions may also occur during the opposing turn when relevant. Movement away from an enemy does not provoke attacks of opportunity unless the enemy has a skill that says it does. 
+**Optional rule: Leader initiative and surprise.** Alternatively, both sides' leaders roll initiative, higher +dex winning ties. If one side beats the other by 10, the winning side gets a surprise round. Initiative is re-rolled every round (without the surprise effect possible).
+
+## Rounds
+Rounds consist of movements and actions and free actions. Reactions may also occur during the opposing turn when relevant. Movement away from an enemy does not provoke attacks of opportunity unless the enemy has a skill that says it does. 
 
 Movement is 40 feet, typically. A single action may be performed which could be
 
@@ -34,7 +39,7 @@ Movement is 40 feet, typically. A single action may be performed which could be
 Or anything else the referee may deem acceptable. 
 
 ### Attacking
-Melee attacks may be made within 5-10 feet. Ranged attacks cannot be made within melee range. Make a melee or ranged attack by rolling 1d20 and adding the relevant bonus (usually str, but sometimes int or dex). If this value is equal to or over the enemy's armored defense score, the attack hits. The attacker then rolls the weapon's damage die. 
+Melee attacks may be made within 5-10 feet. Ranged attacks cannot be made within melee range. Make a melee or ranged attack by rolling 1d20 and adding the relevant bonus (usually str, but sometimes int or dex if doing a subtle or stealthy attack). If this value is equal to or over the enemy's armored defense score, the attack hits. The attacker then rolls the weapon's damage die. 
 
 #### Sundering Attack 
 Before rolling damage for a melee attack, a character may choose to destroy their weapon in order to inflict double the dice in damage. 
@@ -63,20 +68,11 @@ The requesting character must make a +wil check against the enemy leader's (or s
 
 ### Retreating
 
-A side may retreat on their turn. Choosing to retreat forces a check against the opponent's relevant defense, depending on the nature of the retreat. 
+Characters may break and flee, which causes concentration to drop for any spells and for retainers to make morale checks. 
 
-Concentration is broken and no other actions may be taken if a side chooses to retreat. On a successful retreat check, the character manages to escape. On a failed retreat check, they stop moving, unable to escape. Retreated characters move twice their speed in their chosen direction, as long as it is not through an enemy space. 
+Retainers and allies must make a +wil save using the commander character's +wil bonus against the strongest enemy's wil defense or rout and flee. When their commander has already left battle, they make this save at disadvantage. 
 
-Any retainers or allies must make a wil save (morale) at disadvantage versus the strongest enemy's wil defense. On a failure, they rout and try to flee, often dying in the panic. 
-
-#### Chase
-1. Before anything else, a **pursued** may drop an item. If it is something a **pursuer** desires, roll willpower (morale) to see if the pursuer stops pursuit to take the item.
-2. To flee or pursue, the party member with the lowest Dexterity in the party does an **opposed Dexterity save** against the enemy's Dexterity.
-3. Find the difference between the rolled result and the Dexterity score. The player party gains that many "**steps**" if they succeed. The enemy gains that many "**steps**" if they succeed.
-4. **A.** If the pursued are 5 steps ahead, they've lost the pursuers. If the player party has  
-    successfully fled, check the enemy's morale to determine whether they search for the player party.  **B.** If the pursuers catch up to the pursued, the chase is over and the pursuers automatically win initiative.
-
-Pursuit requires line of sight from the monster. If the characters are able to duck around a corner, the monster may avoid this combat. 
+Creatures may choose to pursue the characters if they are still within line of sight. 
 
 ## Critical Hits
 On a natural 20, an attack inflicts twice the dice in damage. On a natural 1, the attack may provide an opening to the opposing side, granting an advantageous position to the opposing side, unless it is mitigated by something else. 

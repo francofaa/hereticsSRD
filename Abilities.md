@@ -27,6 +27,7 @@ The abilities are paired in two ways: Strength and Dexterity are the physical ab
 - Attacks that are powerful or obvious 
 - Feats of strength
 - Brawling
+- Recovery during short rests
 
 ### Saves
 - Poison

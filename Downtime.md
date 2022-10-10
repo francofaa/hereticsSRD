@@ -24,3 +24,15 @@ You spend time with a master crafter to improve your weapons. Applying additiona
 
 ## Brewing and Crafting
 Inventing potions is dangerous. When working to invent a potion, spend 1,000 coins in research activities and resources, spend a week in time, and roll +int against a DC 20. On a success, you gain potions 5/5. On a failure, your brewing goes wrong and you suffer a mishap, adjudicated by the referee. 
+
+## Socializing 
+
+When socializing with people in the world during downtime, disposition can be determined with a 2d6 roll, unless it is already obvious for whatever reason: 
+
+| 2d6   | Disposition  |
+| ----- | ------------ |
+| 2-3   | Hostile      |
+| 4-5   | Unfriendly   |
+| 6-8   | Uninterested |
+| 9-10  | Polite       |
+| 11-12 | Friendly     |

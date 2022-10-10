@@ -45,3 +45,6 @@ This game is intended to be compatible with material written for Old School Revi
   - Quickstart guide
   - God building tools
 - Explanation of the basics (explaining dice notation, rolling to hit, etc)
+- Add familiar rules
+- Loot tables
+- Settlement tables

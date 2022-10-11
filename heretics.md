@@ -8,9 +8,11 @@ has_children: true
 
 # Heretics
 
+<!-- ![Heretics](Untitled.png) -->
+
 Franco A. Alvarado
 
-Version 0.1 (initial play testing materials)
+Version 0.1.1 (initial play testing materials)
 
 [CC BY-SA 4.0 License](https://creativecommons.org/licenses/by-sa/4.0/)
 

@@ -1,3 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Telugu:wght@400;500;600;700;800;900&family=Pirata+One&family=Roboto:ital,wght@0,400;0,500;0,700;0,900;1,400;1,500;1,700;1,900&display=swap');
+
+$bgc: #A9B44E;
+$bgch: darken($bgc, 15);
+$bgcmain: white;
+$body: #354242 ;
+$link: #4F5B01;
+$th: #354242;
+$h: #7D9100;
+
+.site-title {
+  font-size: 32px !important;
+}
+
+body {
+  color: $body;
+}
+.main-content ol > li::before {
+  color: $body;
+}
+
+.site-footer, .site-footer a {
+  color: $body;
+}
+
+a {
+  color: $link;
+}
+
+nav a {
+  color: black;
+}
+
+.main {
+  background-color: $bgcmain;
+}
+
+.main-header, .search-input-wrap, 
+.search-input {
+  background-color: $bgcmain;
+}
+
+.site-header {
+  background-color: $bgc;
+  color: white;
+}
+
+.site-title, .site-header {
+  &:hover {
+    background-image: none;
+    background-color: $bgch;
+  }
+}
+
+.nav-list .nav-list-item > .nav-list 
+.nav-list-item .nav-list-link {
+  color: black;
+}
+
+.nav-list .nav-list-item 
+.nav-list-link:hover, .nav-list 
+.nav-list-item .nav-list-link.active {
+  background-image: none;
+  background-color: $bgch;
+  &:hover {
+    background-image: none;
+    background-color: $bgch;
+  }
+}
+
+// body .site-header {
+//   background-color: #88BF5C;
+//   color: white;
+//   &:hover {
+//     background-color: #DAF0C8;
+//     background-image: none;
+//   }
+// }
+
+nav.site-nav {
+  color: #000;
+  font-weight: bold;
+  font-family: 'Roboto', sans-serif;
+  background-color: $bgc;
+}
+
+.site-footer {
+  background-color: $bgc;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: $h;
+}
+
+.site-footer, h2, h3, h4, h5, h6 {
+  font-family: 'Roboto', sans-serif;
+}
+
+h4 {
+  font-weight: 900;
+}
+
 // .side-bar {
 //   width: calc((100% - 1064px) / 2);
 //   min-width: 264px;
@@ -6,8 +108,6 @@
 // // .main {
 // //   margin-left: 0;
 // // }
-
- @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Telugu:wght@400;500;600;700;800;900&family=Pirata+One&display=swap');
 
 .main {
   font-family: 'Noto Serif Telugu', serif;
@@ -85,3 +185,7 @@ table {
   }
 }
 
+th {
+  background-color: $th;
+  color: white;
+}

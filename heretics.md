@@ -6,8 +6,6 @@ nav_order: 1
 has_children: true
 ---
 
-# Heretics
-
 ![Heretics](heretics.png)
 
 Franco A. Alvarado

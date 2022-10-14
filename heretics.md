@@ -8,11 +8,11 @@ has_children: true
 
 # Heretics
 
-<!-- ![Heretics](Untitled.png) -->
+![Heretics](heretics.png)
 
 Franco A. Alvarado
 
-Version 0.1.1 (initial play testing materials)
+Version 0.1.2 (initial play testing materials)
 
 [CC BY-SA 4.0 License](https://creativecommons.org/licenses/by-sa/4.0/)
 
@@ -37,6 +37,9 @@ Many of these games inspired each other, so I am only noting where I first encou
 - [Principia Apocrypha](https://drive.google.com/file/d/1rN5w4-azTq3Kbn0Yvk9nfqQhwQ1R5by1/view) for OSR principles 
 
 This game is intended to be compatible with material written for Old School Revival games. 
+
+## Colophon
+Display font is Pirata One. Body text is Noto Serif. Headings are set in Roboto.
 
 ## To Do
 - Referees toolkit

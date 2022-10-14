@@ -8,8 +8,6 @@ parent: Players Guide
 ---
 {% include toc.html %}
 
-
-
 # Hirelings
 Player characters may hire any number of hirelings they can afford. 
 

@@ -93,24 +93,37 @@ When a character is hit and they carry a shield, they may choose to destroy the 
 
 ### Melee Weapons
 
-| weapon                             | dmg  | slots | hands    | cost | special                            |
-| ---------------------------------- | ---- | ----- | -------- | ---- | ---------------------------------- |
-| unarmed strike                     | =str | 0     | n/a      | n/a  |                                    |
-| cudgel                             | 1d4  | 1     | 1h       | 5    |                                    |
-| staff                              | 1d4  | 1     | 1h or 2h | 5    | reach\*                            |
-| dagger                             | 1d6  | 1     | 1h       | 50   | concealable, subtle                |
-| flail, hand axe, mace, short sword | 1d6  | 2     | 1h or 2h | 50   | versatile                          |
-| spear                              | 1d6  | 2     | 1h or 2h | 50   | versatile, thrown (20/60r), reach* |
-| battle axe, war hammer, long sword | 1d8  | 2     | 2h       | 100  |                                    |
-| halberd, pole axe                  | 1d8  | 3     | 2h       | 100  | reach                              |
+| weapon            | dmg  | slots | hands    | cost | special                                | dmg type                        |
+| ----------------- | ---- | ----- | -------- | ---- | -------------------------------------- | ------------------------------- |
+| unarmed strike    | =str | 0     | n/a      | n/a  |                                        | bludgeoning                     |
+| cudgel            | 1d4  | 1     | 1h       | 5    |                                        | bludgeoning                     |
+| staff             | 1d4  | 1     | 1h or 2h | 5    | reach\*                                | bludgeoning                     |
+| dagger            | 1d6  | 1     | 1h       | 50   | concealable, subtle, dual-wield        | piercing, slashing              |
+| pick axe          | 1d6  | 1     | 1h       | 5    |                                        | piercing                        |
+| mace, flail       | 1d6  | 2     | 1h or 2h | 50   | versatile, crushing                    | piercing, bludgeoning           |
+| short sword       | 1d6  | 2     | 1h or 2h | 50   | versatile, parrying                    | piercing, slashing              |
+| hand axe          | 1d6  | 2     | 1h or 2h | 50   | versatile, thrown (20/60r), dual-wield | slashing, bludgeoning           |
+| spear             | 1d6  | 2     | 1h or 2h | 50   | versatile, thrown (20/60r), reach*     | piercing, bludgeoning           |
+| war hammer        | 1d8  | 2     | 2h       | 100  | crushing                               | bludgeoning                     |
+| long sword        | 1d8  | 2     | 2h       | 100  | parrying                               | piercing, slashing              |
+| scythe            | 1d8  | 2     | 2h       | 50   | shoving                                | piercing, slashing              |
+| battle axe        | 1d8  | 2     | 2h       | 100  | shoving                                | slashing, bludgeoning           |
+| halberd, pole axe | 1d8  | 3     | 2h       | 100  | reach, double-edged, shoving           | piercing, slashing, bludgeoning |
+
+Improvised weapon attacks usually inflict 1d4 damage.
 
 - *Concealable*: Can be hidden on the body when searched
-- *Subtle:* If an attack is done secretly, this inflicts 3 x weapon die damage. 
-- *Versatile:* This weapon is used with 2 hands.
+- *Subtle:* If an attack is done secretly, this inflicts 3 x weapon die damage or flesh damage (on a player character).
+- *Versatile:* This weapon may be used with 2 hands.
+- *Shoving:* On a 20 or higher that hits, the attacker may choose to shove or trip the target.
+- *Dual-wield:* Two of these weapons can be wielded at the same time. On a 20 or higher that hits, the attacker may roll an additional weapon die. 
+- *Parrying:* On a 20 or higher that hits, the attacker's armored defense is increased by their +str bonus the next time the attacker is hit. 
+- *Crushing:* On a 20 or higher that hits, the target's armored defense is reduced by the attacker's +str bonus the next time the target is hit.
+- *Double-edged:* On a 20 or higher that hits, the attacker may make another attack with the butt of the polearm, inflicting 1d4 damage.
 - *2h:* Roll 2 weapon die and take the higher result. 
 - *Thrown:* This weapon can be thrown at the stated range. Otherwise weapons are thrown at 10/20 range.
 - *Reach*: This weapon has a 10 foot reach when wielded with 2 hands only. 
-   - The spear only has 10 foot reach when wielded with 2 hands even though it can also be wielded in 1 hand.
+   - The spear and staff only have 10 foot reach when wielded with 2 hands even though it can also be wielded in 1 hand.
 
 #### Sundering Melee Attacks
 On a hit, a character may choose to destroy their weapon to inflict double dice damage.
@@ -134,7 +147,7 @@ The following table has substances along with their application, effects, and re
 
 For creatures afflicted by diseases, combinations of medicinals below may be used to treat diseases, where sensible.
 
-When choosing starting equipment, roll 1d10, or choose from medicinals 1-12 and receive 5/5 of the medicinal 
+When choosing starting equipment, roll 1d10, or choose from medicinals 1-10 and receive 5/5 of the medicinal 
 
 | 1d10 | Medicinal           | Usage                                                                    | Effects                                                                                                                                                                 | Recipe                                                                 |
 | ---- | ------------------- | ------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |

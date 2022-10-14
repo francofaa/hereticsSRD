@@ -9,21 +9,26 @@ grand_parent: Heretics
 {% include toc.html %}
 
 # Character Creation
-1. Choose or roll your [ability scores](/abilities) (bonuses and defenses) by adding 3 points and subtracting 1 point or rolling 1d4 in order to add or subtract each point and assigning a number to each of the abilities. 
-2. Roll for your [grit (hit protection) and flesh (wounds)](/damage) by rolling 1d8, 1d8 rerolling 1's and 2's, or rolling 2d4. 
+1. Choose or randomly assign your [ability scores](/abilities) (strength, dexterity, intelligence, willpower) by adding 3 points and subtracting 1 point in any combination.
+2. Roll for your [grit (hit protection) and flesh (wounds)](/damage) by rolling 1d8, 1d8 rerolling 1's and 2's, or rolling 2d4. Determine your secondary stats based on your ability scores.
 3. Choose or roll 1d6 by 1d8 for [2 backgrounds](#3-background-starting-gear) and receive the starting [equipment](/items) for both backgrounds. 
 4. Choose or roll *n*d20 for adventuring equipment up to your maximum inventory load (equal to your strength defense).
-5. Choose or roll for your [character traits and relationships](#5-traits) by rolling 1d4, 1d6, 1d8, 2d10, 1d12, and 1d20. 
+5. Choose or roll for your [character traits and relationships](#5-traits) by rolling all of your dice at once (1d4, 1d6, 1d8, 2d10, 1d12, and 1d20). 
 6. Choose or roll for [name](/namestables)
 
 These steps are described in more detail below. 
+
+For character sheets:
+- Short version (4 to a page): [heretics_playerSheets_0-1-4-to-page.pdf](/heretics_playerSheets_0-1-4-to-page.pdf)
+- Long version (1 to a page): [heretics_playerSheets_0-1-single-page.pdf](/heretics_playerSheets_0-1-single-page.pdf)
+- Google Spreadsheet (make a copy): https://docs.google.com/spreadsheets/d/19pv8S7_A3jCTb1wBprDFFxTAvuviTkqlpf4fHKd4JQE/edit#gid=0
 
 **Optional rule: Starting at level 0**
 1. Roll 1d8 for your flesh points. You have 0 grit.
 2. Your stats all start at 0 bonus / 10 defense. 
 3. You start with 2 days' worth of rations, 2 torches, and 1 weapon of your choice. 
 4. Choose or roll for one background
-5. When you advance to level 1 after acquiring 100 XP, roll for your stats as above. Additionally, roll 1d8 for your grit. 
+5. When you advance to level 1 after acquiring 100 XP, determine ability scores as above. Additionally, roll 1d8 for your grit and add 1 to your flesh.
 
 ## 1. Determining Abilities 
 Character abilities are Strength, Dexterity, Intelligence, and Willpower. All of your ability bonuses start at 0. Distribute 3 ability points to your abilities and then subtract 1 point from your abilities. Add 10 to get that ability's defense. For example, a strength bonus of +1 is a strength defense of 11. 
@@ -63,16 +68,16 @@ You start with 2 backgrounds which inform what you start with on your person. Ro
 You get the gear from each background.
 
 
-| d8/d6 | 1                                                        | 2                                                            | 3                                                                           | 4                                                                 | 5                                                                      | 6                                                       |
-| ----- | -------------------------------------------------------- | ------------------------------------------------------------ | --------------------------------------------------------------------------- | ----------------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------- |
-| 1     | Miner: pickaxe 1d8 2h, lantern, 50 feet of rope          | Monastic: ink and quill, mini barrel of ale, prayer book     | Farmer: scythe 1d8 2h, eggs and bread (2 rations), thick gloves             | Gravedigger: shovel, lantern, bucket                              | Executioner: great axe 1d10 2h heavy, hood, manacles                   | Carpenter: hammer, handsaw, bag of nails                |
-| 2     | Bandit: dagger 1d6 1h concealable, 50 feet of rope, mask | Beekeeper: jar of honey, smoke bomb, net                     | Clergy: holy symbol, censor, prayer book                                    | Trash collector: 10 foot pole with hook, lantern, bucket          | Barber-surgeon: scissors, handsaw, bandages                            | Minstrel: musical instrument, perfume, disguise kit     |
-| 3     | Lumberjack: axe 1d6 1h, rope, firewood                   | Shepherd: 10 foot pole, whistle, sling 1d4 20/40             | Mercenary: short sword 1d6 1h, shield ad+1, 3d8 coins (in foreign currency) | Fence: false documents, sealing wax, metal file                   | Burglar: grappling hook, 50 feet of rope, lockpicking tools            | Brewer: barrel of ale, jar of yeast, empty growler      |
-| 4     | Hunter: long bow, quiver of arrows, tent                 | Fisher: fishing rod, net, spear 1d6 1h reach                 | Bureaucrat: ink and quill, official stamp (stolen), sealing wax             | Smuggler: disguise kit, false documents, 10 foot pole             | Diviner: divining cards or bones, tea leaves, telescope                | Baker: rolling pin, bread (2 rations), bag of flour     |
-| 5     | Hermit: 1 random medicinal 5/5, staff, 2 stakes          | Jester: Scepter, motley garb, cudgel                         | Puppeteer: puppet, spool of string 250', hammer                             | Candlemaker: candles 20/20, beeswax, spool of string (wick) 250'  | Sailor: Spyglass, short sword 1d6, net                                 | Scribe: Lamp oil, quill and ink, 50 sheafs of parchment |
-| 6     | Scavenger: scrap metal, 10 foot pole, lantern            | Surveyor: rope, compass, ink and quill                       | Debt collector: disguise kit, mace 1d6 1h, manacles                         | Counterfeiter: false documents, ink and quill, sealing wax        | Street Performer: juggling items, disguise kit, 50 feet of rope        | Guard: shield, half plate ad=16, spear                  |
-| 7     | Trader: valuable trinket, ink and quill, 2d6 x 10 coins  | Tinker: grease, fine tools, scrap metal                      | Bounty-hunter: quiver of bolts, crossbow, dagger                            | Cut-purse: dagger 1d6 1h concealable, disguise kit, ball bearings | Gambler: loaded dice or trick deck, mirror, 10 + 1d4! coin (exploding) | Apothecary: empty vials, antitoxin, shears              |
-| 8     | Messenger: traveling papers, lantern, bedroll            | Hedge witch: fetish md+1, 1 medicinal 5/5, mortar and pestle | Pit-fighter: cudgel 1d4 1h, gambeson ad+1, net                              | Alchemist: potion brewing kit, ink and quill, antitoxin           | Blacksmith: hammer, metal file, bellows                                | Scholar: ink and quill, blank book, sealing wax         |
+| d8/d6 | 1                                                       | 2                                                        | 3                                                               | 4                                                                | 5                                                                      | 6                                                       |
+| ----- | ------------------------------------------------------- | -------------------------------------------------------- | --------------------------------------------------------------- | ---------------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------- |
+| 1     | Miner: pickaxe, lantern, 50 feet of rope                | Monastic: ink and quill, mini barrel of ale, prayer book | Farmer: scythe, eggs and bread (2 rations), thick gloves        | Gravedigger: shovel, lantern, bucket                             | Executioner: great axe, hood, manacles                                 | Carpenter: hammer, handsaw, bag of nails                |
+| 2     | Bandit: dagger, 50 feet of rope, mask                   | Beekeeper: jar of honey, smoke bomb, net                 | Clergy: holy symbol, censor, prayer book                        | Trash collector: 10 foot pole with hook, lantern, bucket         | Barber-surgeon: scissors, handsaw, bandages                            | Minstrel: musical instrument, perfume, disguise kit     |
+| 3     | Lumberjack: hand axe, rope, firewood                    | Shepherd: 10 foot pole, whistle, sling 1d4 20/40         | Mercenary: short sword, shield, 3d8 coins (in foreign currency) | Fence: false documents, sealing wax, metal file                  | Burglar: grappling hook, 50 feet of rope, lockpicking tools            | Brewer: barrel of ale, jar of yeast, empty growler      |
+| 4     | Hunter: bow, quiver of arrows, tent                     | Fisher: fishing rod, net, spear                          | Bureaucrat: ink and quill, official stamp (stolen), sealing wax | Smuggler: disguise kit, false documents, 10 foot pole            | Diviner: divining cards or bones, tea leaves, telescope                | Baker: rolling pin, bread (2 rations), bag of flour     |
+| 5     | Hermit: 1 random medicinal 5/5, staff, 2 stakes         | Jester: Scepter, motley garb, cudgel                     | Puppeteer: puppet, spool of string 250', hammer                 | Candlemaker: candles 20/20, beeswax, spool of string (wick) 250' | Sailor: Spyglass, short sword, net                                     | Scribe: Lamp oil, quill and ink, 50 sheafs of parchment |
+| 6     | Scavenger: scrap metal, 10 foot pole, lantern           | Surveyor: rope, compass, ink and quill                   | Debt collector: disguise kit, mace, manacles                    | Counterfeiter: false documents, ink and quill, sealing wax       | Street Performer: juggling items, disguise kit, 50 feet of rope        | Guard: shield, half plate, spear                        |
+| 7     | Trader: valuable trinket, ink and quill, 2d6 x 10 coins | Tinker: grease, fine tools, scrap metal                  | Bounty-hunter: quiver of bolts, crossbow, dagger                | Cut-purse: dagger, disguise kit, ball bearings                   | Gambler: loaded dice or trick deck, mirror, 10 + 1d4! coin (exploding) | Apothecary: empty vials, antitoxin, shears              |
+| 8     | Messenger: traveling papers, lantern, bedroll           | Hedge witch: fetish, 1 medicinal 5/5, mortar and pestle  | Pit-fighter: cudgel, gambeson, net                              | Alchemist: potion brewing kit, ink and quill, antitoxin          | Blacksmith: hammer, metal file, bellows                                | Scholar: ink and quill, blank book, sealing wax         |
 
 
 Actions performed using skills or tools relevant to a character's background are done at advantage.
@@ -211,7 +216,7 @@ Roll 1d4, 1d6, 1d8, 2d10 (10's and 1's) 1d12, and 1d20 or choose from the lists 
 | 20  | I lost a bet to them                      |
 
 ## 6. Name
-Choose or roll for a name. 
+Choose or roll for a [name](/namestables).
 
 
 ## Reading a Stat Line

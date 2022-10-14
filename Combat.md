@@ -38,6 +38,8 @@ Movement is 40 feet, typically. A single action may be performed which could be
 
 Or anything else the referee may deem acceptable. 
 
+Narratively, attack rolls represent a series of attacks, feints, near-hits, wounds, parries, and so on.
+
 ### Attacking
 Melee attacks may be made within 5-10 feet. Ranged attacks cannot be made within melee range. Make a melee or ranged attack by rolling 1d20 and adding the relevant bonus (usually str, but sometimes int or dex if doing a subtle or stealthy attack). If this value is equal to or over the enemy's armored defense score, the attack hits. The attacker then rolls the weapon's damage die. 
 

@@ -21,7 +21,7 @@ These steps are described in more detail below.
 For character sheets:
 - Short version (4 to a page): [heretics_playerSheets_0-1-4-to-page.pdf](/heretics_playerSheets_0-1-4-to-page.pdf)
 - Long version (1 to a page): [heretics_playerSheets_0-1-single-page.pdf](/heretics_playerSheets_0-1-single-page.pdf)
-- Google Spreadsheet (make a copy): https://docs.google.com/spreadsheets/d/19pv8S7_A3jCTb1wBprDFFxTAvuviTkqlpf4fHKd4JQE/edit#gid=0
+- Google Spreadsheet (make a copy): [Sheets Link](https://docs.google.com/spreadsheets/d/19pv8S7_A3jCTb1wBprDFFxTAvuviTkqlpf4fHKd4JQE/edit#gid=0)
 
 **Optional rule: Starting at level 0**
 1. Roll 1d8 for your flesh points. You have 0 grit.

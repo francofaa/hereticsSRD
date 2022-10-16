@@ -40,9 +40,10 @@ For example: The first d4 lands on a 3, so Intelligence is increased by 1. The s
 Possible arrays starting, not taking into account position of stats, are as follows.
 
 1. 3, 0, 0, -1
-2. 2, 0, 0, 0
-3. 1, 1, 0, 0
-4. 1, 1, 1, -1
+2. 2, 1, 0, -1
+3. 2, 0, 0, 0
+4. 1, 1, 0, 0
+5. 1, 1, 1, -1
 
 ## 2. Determining Secondary Stats
 

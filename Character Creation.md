@@ -59,7 +59,7 @@ Your secondary stats are determined as follows:
    - Movement is by default equal to 40 / 120
    - Max Supply = intelligence defense
    - Mana Dice = intelligence bonus + 1
-   - Magicked defense = willpower defense, plus any wards
+   - Warded defense = willpower defense, plus any wards
    - Max Attuned items = willpower bonus 
    - Max Retainers = willpower bonus
 
@@ -226,7 +226,7 @@ All creatures can be expressed in a single stat line.
 1. L# or \#HD: Indicates level for a player character or retainer / hit dice for monsters
 2. HP #(#): Indicates hit points. Parenthetical number represents flesh points, if any.
 3. AD # (*armor, if applicable*): Armored Defense stat, followed by any modifying armor pieces
-4. MD # (*wards, if applicable*): Magicked Defense stat followed by any modifying wards. 
+4. MD # (*wards, if applicable*): Warded defense stat followed by any modifying wards. 
 5. STR # DEX # INT # WIL #: The four ability in a row. Only lists the bonus. Add 10 to get the defense. When a stat line omits the ability, assume that its bonus is 0. 
 6. MV # (#): Movement, in feet. The first number is exploration (10 minutes in a dungeon), second number combat movement (10 seconds). Usually omitted if it is 120 (40).
 7. Att: Attacks, usually followed by a to-hit bonus, a die (damage), and a parenthetical indicating the weapon, or spell. 

@@ -6,7 +6,7 @@ nav_order: 1
 has_children: true
 ---
 
-![Heretics](heretics.png)
+[Heretics](heretics.png)
 
 Franco A. Alvarado
 
@@ -33,8 +33,11 @@ Many of these games inspired each other, so I am only noting where I first encou
 - [Ryuutama](https://kotodama.itch.io/ryuutama-natural-fantasy-roleplay) for travel rules
 - [The Monsters Know What They're Doing](https://www.themonstersknow.com/) for general monster strategy
 - [Principia Apocrypha](https://drive.google.com/file/d/1rN5w4-azTq3Kbn0Yvk9nfqQhwQ1R5by1/view) for OSR principles 
+- Errants for a lot of modular items found here
 
 This game is intended to be compatible with material written for Old School Revival games. 
+
+
 
 ## Colophon
 Display font is Pirata One. Body text is Noto Serif. Headings are set in Roboto.

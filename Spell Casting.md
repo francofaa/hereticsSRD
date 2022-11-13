@@ -20,8 +20,8 @@ Spells must be cast holding the spell item in two hands. When casting a spell, r
 - **T:** The target(s) of the spell. 
 - **\[dice\]** means the number of mana dice rolled. 
 - **\[sum\]** means the sum of the mana dice rolled. 
-- **Attack.** This refers to whether a spell requires a spell attack. This requires a d20+int attack against the target's magicked defense.
-- **Save.** This refers to whether a spell requires a save from the target and specifies the ability. For +wil saves, the target uses their magicked defense bonus instead. The DC is always equal to the caster's intelligence defense. 
+- **Attack.** This refers to whether a spell requires a spell attack. This requires a d20+int attack against the target's warded defense.
+- **Save.** This refers to whether a spell requires a save from the target and specifies the ability. For +wil saves, the target uses their warded defense bonus instead. The DC is always equal to the caster's intelligence defense. 
 - **Concentration**. Some spells require concentration to maintain. If a spellcaster is attacked or performs an action other than maintaining concentration on the spell, the spell's effect ends. 
 
 ## Mana Dice

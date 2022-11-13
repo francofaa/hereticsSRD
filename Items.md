@@ -23,7 +23,7 @@ ad=*n*: This indicates a replacement of the armored defense stat.
 
 body, head, *n*h, feet: This indicates where an item is worn when equipped. *n*h indicates how many hands are in a character's hands. An item with 1h is carried in 1 hand, 2h in 2 hands.
 
-md+*n*: This indicates a bonus to magicked defense stat.
+md+*n*: This indicates a bonus to warded defense stat.
 
 *n* slots: This indicates that an object takes up multiple slots.
 
@@ -188,7 +188,7 @@ Wards also fall under this category and must be attuned to. Wards may be fetishe
 Spells are cast from items, thereby removing the need for tracking separate spell slots. Spells take up item slots and must be used with two hands when cast. Spells do not typically require attunement.
 
 ### Wards
-Wards augment magicked defense. Starting wards are very simple, likely made by the character, local religious figures, wise folks, or stumbled upon. 
+Wards augment Warded defense. Starting wards are very simple, likely made by the character, local religious figures, wise folks, or stumbled upon. 
 
 Characters may not start with stronger wards than md+1.
 

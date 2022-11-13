@@ -1,0 +1,758 @@
+{
+    "name": "Heretics",
+    "static_data": {
+        "year_data": {
+            "first_day": 1,
+            "overflow": false,
+            "global_week": [
+                "Moonsday",
+                "Treesday",
+                "Wealsday",
+                "Middingfast",
+                "Runesday",
+                "Elseday",
+                "Sunnesday"
+            ],
+            "timespans": [
+                {
+                    "name": "Yearsginning",
+                    "type": "intercalary",
+                    "length": 1,
+                    "interval": 1,
+                    "offset": 0
+                },
+                {
+                    "name": "Allesmelt (On. Spring)",
+                    "type": "month",
+                    "length": 28,
+                    "interval": 1,
+                    "offset": 0
+                },
+                {
+                    "name": "Woesing",
+                    "type": "intercalary",
+                    "length": 1,
+                    "interval": 1,
+                    "offset": 0
+                },
+                {
+                    "name": "Yufwyld (H. Spring)",
+                    "type": "month",
+                    "length": 28,
+                    "interval": 1,
+                    "offset": 0
+                },
+                {
+                    "name": "Fedeblom (F. Spring)",
+                    "type": "month",
+                    "length": 28,
+                    "interval": 1,
+                    "offset": 0
+                },
+                {
+                    "name": "Lasseflor",
+                    "type": "intercalary",
+                    "length": 1,
+                    "interval": 1,
+                    "offset": 0
+                },
+                {
+                    "name": "Ledefull (O. Summer)",
+                    "type": "month",
+                    "length": 28,
+                    "interval": 1,
+                    "offset": 0
+                },
+                {
+                    "name": "Lede",
+                    "type": "intercalary",
+                    "length": 3,
+                    "interval": 1,
+                    "offset": 0
+                },
+                {
+                    "name": "Ledewyld (H. Summer)",
+                    "type": "month",
+                    "length": 28,
+                    "interval": 1,
+                    "offset": 0
+                },
+                {
+                    "name": "Sulhald (F. Summer)",
+                    "type": "month",
+                    "length": 28,
+                    "interval": 1,
+                    "offset": 0
+                },
+                {
+                    "name": "Alleseven (O. Autumn)",
+                    "type": "month",
+                    "length": 28,
+                    "interval": 1,
+                    "offset": 0
+                },
+                {
+                    "name": "Harrest (D. Autumn)",
+                    "type": "month",
+                    "length": 28,
+                    "interval": 1,
+                    "offset": 0
+                },
+                {
+                    "name": "Witching",
+                    "type": "intercalary",
+                    "length": 1,
+                    "interval": 1,
+                    "offset": 0
+                },
+                {
+                    "name": "Blodgrist (F. Autumn)",
+                    "type": "month",
+                    "length": 28,
+                    "interval": 1,
+                    "offset": 0
+                },
+                {
+                    "name": "Gristing",
+                    "type": "intercalary",
+                    "length": 2,
+                    "interval": 1,
+                    "offset": 0
+                },
+                {
+                    "name": "Withring (O. Winter)",
+                    "type": "month",
+                    "length": 28,
+                    "interval": 1,
+                    "offset": 0
+                },
+                {
+                    "name": "Hearthgather",
+                    "type": "intercalary",
+                    "length": 2,
+                    "interval": 1,
+                    "offset": 0
+                },
+                {
+                    "name": "Deepryme (D. Winter)",
+                    "type": "month",
+                    "length": 28,
+                    "interval": 1,
+                    "offset": 0
+                },
+                {
+                    "name": "Rymehald (F. Winter)",
+                    "type": "month",
+                    "length": 28,
+                    "interval": 1,
+                    "offset": 0
+                },
+                {
+                    "name": "Yearsfade",
+                    "type": "intercalary",
+                    "length": 1,
+                    "interval": 1,
+                    "offset": 0
+                }
+            ],
+            "leap_days": []
+        },
+        "moons": [
+            {
+                "name": "Moon",
+                "cycle_rounding": "floor",
+                "granularity": 24,
+                "color": "#ffffff",
+                "shadow_color": "#292b4a",
+                "hidden": false,
+                "custom_phase": false,
+                "cycle": 29,
+                "shift": 0
+            }
+        ],
+        "clock": {
+            "enabled": false,
+            "render": false,
+            "hours": 24,
+            "minutes": 60,
+            "offset": 0,
+            "crowding": 0
+        },
+        "seasons": {
+            "data": [
+                {
+                    "name": "Spring",
+                    "time": {
+                        "sunrise": {
+                            "hour": 6,
+                            "minute": 0
+                        },
+                        "sunset": {
+                            "hour": 18,
+                            "minute": 0
+                        }
+                    },
+                    "timespan": 2,
+                    "day": 1,
+                    "gradient": {
+                        "start": [
+                            117,
+                            84.6,
+                            48.2
+                        ],
+                        "end": [
+                            17,
+                            88.6,
+                            48
+                        ]
+                    }
+                },
+                {
+                    "name": "Summer",
+                    "time": {
+                        "sunrise": {
+                            "hour": 6,
+                            "minute": 0
+                        },
+                        "sunset": {
+                            "hour": 18,
+                            "minute": 0
+                        }
+                    },
+                    "timespan": 7,
+                    "day": 2,
+                    "gradient": {
+                        "start": [
+                            17,
+                            88.6,
+                            48
+                        ],
+                        "end": [
+                            48,
+                            84.3,
+                            49.8
+                        ]
+                    }
+                },
+                {
+                    "name": "Autumn",
+                    "time": {
+                        "sunrise": {
+                            "hour": 6,
+                            "minute": 0
+                        },
+                        "sunset": {
+                            "hour": 18,
+                            "minute": 0
+                        }
+                    },
+                    "timespan": 10,
+                    "day": 28,
+                    "gradient": {
+                        "start": [
+                            48,
+                            84.3,
+                            49.8
+                        ],
+                        "end": [
+                            187,
+                            91,
+                            47.8
+                        ]
+                    }
+                },
+                {
+                    "name": "Winter",
+                    "time": {
+                        "sunrise": {
+                            "hour": 6,
+                            "minute": 0
+                        },
+                        "sunset": {
+                            "hour": 18,
+                            "minute": 0
+                        }
+                    },
+                    "timespan": 16,
+                    "day": 1,
+                    "gradient": {
+                        "start": [
+                            187,
+                            91,
+                            47.8
+                        ],
+                        "end": [
+                            117,
+                            84.6,
+                            48.2
+                        ]
+                    }
+                }
+            ],
+            "locations": [
+                {
+                    "name": "Isurholm",
+                    "settings": {
+                        "timezone": {
+                            "hour": 0,
+                            "minute": 0
+                        },
+                        "large_noise_frequency": 0.015,
+                        "large_noise_amplitude": 10,
+                        "medium_noise_frequency": 0.3,
+                        "medium_noise_amplitude": 4,
+                        "small_noise_frequency": 0.8,
+                        "small_noise_amplitude": 5,
+                        "season_based_time": true
+                    },
+                    "seasons": [
+                        {
+                            "weather": {
+                                "temp_low": 32.5,
+                                "temp_high": 62.5,
+                                "precipitation": 0.35,
+                                "precipitation_intensity": 0.6
+                            },
+                            "time": {
+                                "sunset": {
+                                    "hour": 18,
+                                    "minute": 0
+                                },
+                                "sunrise": {
+                                    "hour": 6,
+                                    "minute": 0
+                                }
+                            }
+                        },
+                        {
+                            "weather": {
+                                "temp_low": 60,
+                                "temp_high": 85,
+                                "precipitation": 0.35,
+                                "precipitation_intensity": 0.6
+                            },
+                            "time": {
+                                "sunset": {
+                                    "hour": 18,
+                                    "minute": 0
+                                },
+                                "sunrise": {
+                                    "hour": 6,
+                                    "minute": 0
+                                }
+                            }
+                        },
+                        {
+                            "weather": {
+                                "temp_low": 32.5,
+                                "temp_high": 62.5,
+                                "precipitation": 0.35,
+                                "precipitation_intensity": 0.6
+                            },
+                            "time": {
+                                "sunset": {
+                                    "hour": 18,
+                                    "minute": 0
+                                },
+                                "sunrise": {
+                                    "hour": 6,
+                                    "minute": 0
+                                }
+                            }
+                        },
+                        {
+                            "weather": {
+                                "temp_low": 5,
+                                "temp_high": 40,
+                                "precipitation": 0.35,
+                                "precipitation_intensity": 0.6
+                            },
+                            "time": {
+                                "sunset": {
+                                    "hour": 18,
+                                    "minute": 0
+                                },
+                                "sunrise": {
+                                    "hour": 6,
+                                    "minute": 0
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Gomotesk",
+                    "settings": {
+                        "timezone": {
+                            "hour": 0,
+                            "minute": 0
+                        },
+                        "large_noise_frequency": 0.015,
+                        "large_noise_amplitude": 10,
+                        "medium_noise_frequency": 0.3,
+                        "medium_noise_amplitude": 4,
+                        "small_noise_frequency": 0.8,
+                        "small_noise_amplitude": 5,
+                        "season_based_time": true
+                    },
+                    "seasons": [
+                        {
+                            "weather": {
+                                "temp_low": 35,
+                                "temp_high": 77.5,
+                                "precipitation": 0.2,
+                                "precipitation_intensity": 0.4
+                            },
+                            "time": {
+                                "sunset": {
+                                    "hour": 18,
+                                    "minute": 0
+                                },
+                                "sunrise": {
+                                    "hour": 6,
+                                    "minute": 0
+                                }
+                            }
+                        },
+                        {
+                            "weather": {
+                                "temp_low": 60,
+                                "temp_high": 95,
+                                "precipitation": 0.1,
+                                "precipitation_intensity": 0.2
+                            },
+                            "time": {
+                                "sunset": {
+                                    "hour": 18,
+                                    "minute": 0
+                                },
+                                "sunrise": {
+                                    "hour": 6,
+                                    "minute": 0
+                                }
+                            }
+                        },
+                        {
+                            "weather": {
+                                "temp_low": 35,
+                                "temp_high": 77.5,
+                                "precipitation": 0.2,
+                                "precipitation_intensity": 0.4
+                            },
+                            "time": {
+                                "sunset": {
+                                    "hour": 18,
+                                    "minute": 0
+                                },
+                                "sunrise": {
+                                    "hour": 6,
+                                    "minute": 0
+                                }
+                            }
+                        },
+                        {
+                            "weather": {
+                                "temp_low": 10,
+                                "temp_high": 60,
+                                "precipitation": 0.3,
+                                "precipitation_intensity": 0.6
+                            },
+                            "time": {
+                                "sunset": {
+                                    "hour": 18,
+                                    "minute": 0
+                                },
+                                "sunrise": {
+                                    "hour": 6,
+                                    "minute": 0
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "global_settings": {
+                "season_offset": 28,
+                "weather_offset": 0,
+                "seed": 1114449258,
+                "temp_sys": "imperial",
+                "wind_sys": "imperial",
+                "cinematic": true,
+                "enable_weather": true,
+                "periodic_seasons": false,
+                "color_enabled": false,
+                "preset_order": [
+                    1,
+                    2,
+                    3,
+                    0
+                ]
+            }
+        },
+        "eras": [],
+        "settings": {
+            "layout": "grid",
+            "comments": "none",
+            "show_current_month": false,
+            "private": false,
+            "allow_view": true,
+            "only_backwards": true,
+            "only_reveal_today": false,
+            "hide_moons": false,
+            "hide_clock": false,
+            "hide_events": false,
+            "hide_eras": false,
+            "hide_all_weather": false,
+            "hide_future_weather": false,
+            "add_month_number": false,
+            "add_year_day_number": false,
+            "default_category": -1
+        },
+        "cycles": {
+            "format": "",
+            "data": []
+        }
+    },
+    "dynamic_data": {
+        "year": 1123,
+        "timespan": 6,
+        "day": 2,
+        "epoch": 390544,
+        "custom_location": true,
+        "location": "0",
+        "current_era": -1,
+        "hour": null,
+        "minute": null
+    },
+    "events": [
+        {
+            "id": 1415863,
+            "name": "Spring Equinox",
+            "data": {
+                "has_duration": false,
+                "duration": 0,
+                "show_first_last": false,
+                "limited_repeat": false,
+                "limited_repeat_num": 0,
+                "connected_events": [],
+                "date": [],
+                "conditions": [
+                    [
+                        "Season",
+                        "0",
+                        [
+                            0
+                        ]
+                    ],
+                    [
+                        "&&"
+                    ],
+                    [
+                        "Season",
+                        "8",
+                        [
+                            1
+                        ]
+                    ]
+                ],
+                "search_distance": 0
+            },
+            "description": "<p>The spring equinox is when the day and the night are equally as long, and are getting longer.<\/p>",
+            "event_category_id": null,
+            "calendar_id": "heretics",
+            "settings": {
+                "color": "Green",
+                "text": "text",
+                "hide": false,
+                "hide_full": false,
+                "print": false
+            },
+            "created_at": "2022-10-22 02:27:15",
+            "updated_at": "2022-10-22 02:27:15",
+            "sort_by": 0,
+            "creator_id": 43153
+        },
+        {
+            "id": 1415864,
+            "name": "Summer Solstice",
+            "data": {
+                "has_duration": false,
+                "duration": 0,
+                "show_first_last": false,
+                "limited_repeat": false,
+                "limited_repeat_num": 0,
+                "connected_events": [],
+                "date": [],
+                "conditions": [
+                    [
+                        "Season",
+                        "0",
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        "&&"
+                    ],
+                    [
+                        "Season",
+                        "8",
+                        [
+                            1
+                        ]
+                    ]
+                ],
+                "search_distance": 0
+            },
+            "description": "<p>\tAt the summer solstice, the Sun travels the longest path through the sky, and that day therefore has the most daylight.<\/p>",
+            "event_category_id": null,
+            "calendar_id": "heretics",
+            "settings": {
+                "color": "Green",
+                "text": "text",
+                "hide": false,
+                "hide_full": false,
+                "print": false
+            },
+            "created_at": "2022-10-22 02:27:15",
+            "updated_at": "2022-10-22 02:27:15",
+            "sort_by": 1,
+            "creator_id": 43153
+        },
+        {
+            "id": 1415865,
+            "name": "Autumn Equinox",
+            "data": {
+                "has_duration": false,
+                "duration": 0,
+                "show_first_last": false,
+                "limited_repeat": false,
+                "limited_repeat_num": 0,
+                "connected_events": [],
+                "date": [],
+                "conditions": [
+                    [
+                        "Season",
+                        "0",
+                        [
+                            2
+                        ]
+                    ],
+                    [
+                        "&&"
+                    ],
+                    [
+                        "Season",
+                        "8",
+                        [
+                            1
+                        ]
+                    ]
+                ],
+                "search_distance": 0
+            },
+            "description": "<p>The autumn equinox is when the day and the night are equally as long, and are getting shorter.<\/p>",
+            "event_category_id": null,
+            "calendar_id": "heretics",
+            "settings": {
+                "color": "Green",
+                "text": "text",
+                "hide": false,
+                "hide_full": false,
+                "print": false
+            },
+            "created_at": "2022-10-22 02:27:15",
+            "updated_at": "2022-10-22 02:27:15",
+            "sort_by": 2,
+            "creator_id": 43153
+        },
+        {
+            "id": 1415866,
+            "name": "Winter Solstice",
+            "data": {
+                "has_duration": false,
+                "duration": 0,
+                "show_first_last": false,
+                "limited_repeat": false,
+                "limited_repeat_num": 0,
+                "connected_events": [],
+                "date": [],
+                "conditions": [
+                    [
+                        "Season",
+                        "0",
+                        [
+                            3
+                        ]
+                    ],
+                    [
+                        "&&"
+                    ],
+                    [
+                        "Season",
+                        "8",
+                        [
+                            1
+                        ]
+                    ]
+                ],
+                "search_distance": 0
+            },
+            "description": "<p>The winter solstice marks the shortest day and longest night of the year, when the sun is at its lowest arc in the sky.<\/p>",
+            "event_category_id": null,
+            "calendar_id": "heretics",
+            "settings": {
+                "color": "Green",
+                "text": "text",
+                "hide": false,
+                "hide_full": false,
+                "print": false
+            },
+            "created_at": "2022-10-22 02:27:15",
+            "updated_at": "2022-10-22 02:27:15",
+            "sort_by": 3,
+            "creator_id": 43153
+        },
+        {
+            "id": 1415880,
+            "name": "Year's Beginning",
+            "data": {
+                "has_duration": false,
+                "duration": 1,
+                "show_first_last": false,
+                "limited_repeat": false,
+                "limited_repeat_num": 1,
+                "conditions": [
+                    [
+                        "Day",
+                        "7",
+                        [
+                            "1"
+                        ]
+                    ]
+                ],
+                "connected_events": [],
+                "date": [],
+                "search_distance": 0,
+                "overrides": {
+                    "moons": []
+                }
+            },
+            "description": "",
+            "event_category_id": null,
+            "calendar_id": "heretics",
+            "settings": {
+                "color": "Dark-Solid",
+                "text": "text",
+                "hide": false,
+                "print": false,
+                "hide_full": false
+            },
+            "created_at": "2022-10-22 02:55:46",
+            "updated_at": "2022-10-22 02:55:46",
+            "sort_by": 4,
+            "creator_id": 43153
+        }
+    ],
+    "categories": []
+}

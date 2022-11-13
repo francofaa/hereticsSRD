@@ -87,14 +87,14 @@ Armored defense represents your ability to avoid damage via reflexes, dodging, o
 *Charisma, luck, mental resilience*
 
 ### Static 
-- **Magicked defense**, equal to willpower defense plus any wards
+- **Warded defense**, equal to willpower defense plus any wards
 - **Maximum attuned magic items**, equal to willpower bonus (minimum 0)
 - **Maximum retainers**, in hit dice, equal to willpower bonus (minimum 0)
 
-#### Magicked Defense
-Magicked defense represents your ability to resist spell damage and effects via sheer willpower, blessings, or luck. It is equal to your willpower defense and may be modified by wards.
+#### Warded defense
+Warded defense represents your ability to resist spell damage and effects via sheer willpower, blessings, or luck. It is equal to your willpower defense and may be modified by wards.
 
-**Optional rule: Roll to defend.** Rather than the referee rolling to attack a character's magicked defense, the character may roll 1d20 + their magicked bonus (*magicked defense - 10*) against the defense stat the attacker is using to cast with.
+**Optional rule: Roll to defend.** Rather than the referee rolling to attack a character's Warded defense, the character may roll 1d20 + their Magic bonus (*Warded defense - 10*) against the defense stat the attacker is using to cast with.
 
 ### Actions
 - Influencing

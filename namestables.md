@@ -2,9 +2,9 @@
 title: Names Tables
 layout: default
 permalink: /namestables
-parent: Players Guide
-nav_order: 15
-grand_parent: Heretics
+parent: Isurholm Setting
+nav_order: 1
+
 ---
 {% include toc.html %}
 

@@ -7,6 +7,7 @@ $body: #354242 ;
 $link: #4F5B01;
 $th: #354242;
 $h: #7D9100;
+$bgcl: lighten($bgc, 15);
 
 .site-title {
   font-size: 32px !important;
@@ -188,4 +189,10 @@ table {
 th {
   background-color: $th;
   color: white;
+}
+
+blockquote {
+  border-left: $bgch 3px solid;
+  padding: 0.25rem 1rem;
+  margin-left: 0;
 }

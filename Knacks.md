@@ -1,76 +1,15 @@
 ---
-title: Experience and Advancement
+title: Knacks
 layout: default
-permalink: /xp
-nav_order: 5
-grand_parent: Heretics
-parent: Players Guide
+permalink: /knacks
+nav_order: 3
+parent: Advancements
 ---
 {% include toc.html %}
 
-# Experience and Advancement
 
-## Coins for XP
-Recovered treasures can be spent for the coin value in experience. Only coins gained while adventuring or heist'd from someone count toward experience. Found coins or coins earned through honest work do not count. 
-
-This money should not be spent on usable objects but on special interests: 
-
-1. Carousing
-2. Song, Fame, Statues, Paintings. Sponsoring bards and other artists to commemorate you.
-3. Religion or Spirituality. Too much donated may cause the gods to pay too much attention to you and not always the god you're looking to appease.
-4. Philanthropy
-5. Events: races, gladiator shows, duels, masques, festivals, parades, triumphs, jousts, spectacles: you would be sponsoring these things
-6. Land / Businesses
-7. Training 
-8. Hobbies: Animal husbandry, robotics, device creation, languages, brewing, hunting, art, spell research, item creation (smithing, for example).
-
-**Optional rule: Special Interest Bonus and Penalty.** Characters can be rewarded / punished for spending their special interests in certain ways. At the beginning of the game, they can roll or choose their strong interest and weak interest, and apply a bonus and penalty to each, respectively.
-
-For example:
-- Strong: Philanthropy (120%)
-- Weak: Land / Businesses (80%)
-
-Each population has a limit as to how much can be spent there.
-
-| Community  | Population | GP Limit (1d6 x #) |
-| ---------- | ---------- | ------------------ |
-| Thorpe     | 20         | 10                 |
-| Hamlet     | 200        | 50                 |
-| Village    | 1,000      | 100                |
-| Town       | 5,000      | 250                |
-| City       | 25,000     | 1,000              |
-| Metropolis | > 25,000   | 10,000                   |
-
-The settlements only have so much stuff to give. Any more money spent in these settlements will cause economic ramifications that are better left not explored.
-
-## Other XP Sources
-Experience may also be rewarded for clever solutions and overcoming significant challenges. Winning over important allies or finding clues to a mystery could work.
-
-Experience is not recommended as a reward for "good role-playing" since this may put some players at a disadvantage if they are not comfortable speaking in-character. 
-
-## Advancement
-Characters level up to 10. The following table describes the total XP needed at each level: 
-
-| Level | XP Total |
-| ----- | -------- |
-| 1     | 0        |
-| 2     | 1000     |
-| 3     | 2000     |
-| 4     | 4,000    |
-| 5     | 8,000    |
-| 6     | 16,000   |
-| 7     | 32,000   |
-| 8     | 64,000   |
-| 9     | 120,000  |
-| 10    | 240,000  |
-
-1. Increase flesh score by 1.
-2. Grit: Roll a number of d8s equal to your new level. If the value is higher than your maximum grit, this is your new grit. If it is lower or equal, increase grit by 1.
-3. You receive 2 improvement points to spend. These improvement points can be used to either increase 1 ability by 2 points or 2 abilities by 1 point each. Improvements spent in this way increase both the bonus and defense of an ability. Abilities cannot be increased beyond +10.
-   - **Optional rule**: You can spend up to 1 improvement point to instead take a knack. The other improvement point must be used to increase an ability by 1. 
-
-### Knacks
-In lieu of a single ability score improvement point, a character may take a knack. Knacks may be invented with collaboration of the referee. Keep in mind the power level of currently available knacks. 
+# Knacks
+In lieu of 2 ability score improvement points, a character may take a knack. Knacks may be invented with collaboration of the referee. Keep in mind the power level of currently available knacks and please provide feedback for power levels here.
 
 | Knack                | Description                                                                                                                                                                                                                                                                                                                 |
 | -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -106,10 +45,4 @@ In lieu of a single ability score improvement point, a character may take a knac
 | Dodger               | Once per combat, an attack that hit you misses you instead. This works only on traps, or melee, ranged, or spell attacks, not environmental impacts.                                                                                                                                                                        |
 | Sneak Attacker       | You gain a sneak attack dice pool equal to your level. When you hit on an attack that has advantage or an attack on a target in melee with an ally, you may inflict d6 x level additional damage of the weapon type. On a 4,5,6, these dice cannot be used until the next dawn. On a 1,2,3, these dice return to your pool. |
 | Spell Twister        | Designate three spells. These can be accessed as though they were in a quick slot                                                                                                                                                                                                                                           |
-
-## Retirement
-At any point, an adventurer is allowed to retire, but this is typically done at 10th level.
-
-Have the character express a fear and a hope for the future. Roll 2d6: On 10+, their hope comes true; 7-9, their fate is mixed. On a 2-6, they should expect the worst.
-
-Their fate should be written on the back of their character sheet. The referee cannot use this character as an NPC against the party and the character cannot return to be played.
+| Dual-Wielder         | When you attack with a weapon with the duel-wield property, you roll damage at advantage (roll 2 weapon dice and take the higher). You have a +1 to armored defense (treat off-hand weapon as a +1 shield).                                                                                                                                                                                                                                                                                                                            |

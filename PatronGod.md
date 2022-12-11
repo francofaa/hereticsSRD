@@ -1,14 +1,13 @@
 ---
-title: Your Heretical Deity
+title: Patron God
 layout: default
-permalink: /YourHereticalDeity
-nav_order: 16
-grand_parent: Heretics
-parent: Players Guide
+permalink: /PatronGod
+nav_order: 5
+parent: Social
 ---
 {% include toc.html %}
 
-# Your Heretical Deity
+# Patron God
 
 The characters follow a patron god who is the font of their powers. The god can be named anything and does not have to be a god. It may be a spirit or a powerful magic-user or some unknowable creature from another dimension. Whatever it is, the characters worship it or try to appease it in order to keep their powers. 
 

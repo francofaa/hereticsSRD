@@ -3,21 +3,22 @@ title: Heretics
 layout: default
 permalink: /
 nav_order: 1
-has_children: true
+tags: index
 ---
 
-![Heretics](heretics.png)
+
+
 
 Franco A. Alvarado
 
-Version 0.1.2 (initial play testing materials)
+Version 0.2 (initial play testing materials)
 
 [CC BY-SA 4.0 License](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ## Inspiration and Sources
 
 Many of these games inspired each other, so I am only noting where I first encountered certain concepts:
-- [Arcane Ugly](https://miscastterrain.itch.io/arcaneugly) for mishaps and wands (and also a thanks for documenting the process of creating a TTRPG)
+- [Arcane Ugly](https://miscastterrain.itch.io/arcaneugly) for mishaps, wards, and wands (and also a thanks for documenting the process of creating a TTRPG)
 - [Knave](https://questingbeast.itch.io/knave) (Heretics is mostly a hack of Knave)
 - [Goblin Laws of Gaming](https://goblinpunch.blogspot.com/2016/05/the-glog.html) for mana dice and spells
 - [Five Torches Deep](https://www.fivetorchesdeep.com/) for supply, monster math, and charisma for retainers
@@ -33,24 +34,11 @@ Many of these games inspired each other, so I am only noting where I first encou
 - [Ryuutama](https://kotodama.itch.io/ryuutama-natural-fantasy-roleplay) for travel rules
 - [The Monsters Know What They're Doing](https://www.themonstersknow.com/) for general monster strategy
 - [Principia Apocrypha](https://drive.google.com/file/d/1rN5w4-azTq3Kbn0Yvk9nfqQhwQ1R5by1/view) for OSR principles 
-- Errants for a lot of modular items found here
+- [Errants](https://www.drivethrurpg.com/product/400164/Errant) for the modularity
+- [The Alexandrian](https://thealexandrian.net/) for various ideas and principles
 
-This game is intended to be compatible with material written for Old School Revival games. 
-
-
+These rules are intended to be compatible with most Old School Revival games. That is, you should be able to play B/X modules or modules written to be B/X compatible with these rules. If that is not the case, let me know!
 
 ## Colophon
 Display font is Pirata One. Body text is Noto Serif. Headings are set in Roboto.
 
-## To Do
-- Referees toolkit
-  - Monster creation tools
-  - Dungeon creation tools
-  - Setting tools
-  - Adventures, dungeons, hexcrawl maps
-  - Quickstart guide
-  - God building tools
-- Explanation of the basics (explaining dice notation, rolling to hit, etc)
-- Add familiar rules
-- Loot tables
-- Settlement tables

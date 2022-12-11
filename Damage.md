@@ -2,18 +2,17 @@
 title: Damage
 layout: default
 permalink: /damage
-nav_order: 4
-grand_parent: Heretics
-parent: Players Guide
+nav_order: 3
+parent: Core Rules
 ---
 {% include toc.html %}
 
 # Damage
 When a character suffers damage, they may take grit or flesh damage. 
 
-Grit represents to the character near misses, stunning blows, stamina depletion, superficial wounds and bruises, and so on. Once grit is depleted, the character will begin suffering damage to flesh. 
+Grit represents to the character near misses, stunning blows, stamina depletion, superficial wounds and bruises, and so on. Once grit is depleted, the character will begin suffering damage to flesh and suffer negative effects from this damage going untreated.
 
-Flesh represents deep wounds, broken bones, internal and external bleeding, and so on. Once flesh is depleted, the character will fall into semi-consciousness. Any subsequent damage will kill the character. 
+Flesh represents deep wounds, broken bones, internal and external bleeding, and so on. Any attacks done directly to flesh points can be debilitating and should be described as such by the referee. Once flesh is depleted, the character will fall into semi-consciousness. Any subsequent damage will kill the character. 
 
 ## Direct Damage
 Some damage may bypass grit. Some damage may also outright kill a character. 
@@ -70,7 +69,6 @@ For example, a level 4 character rolls 4d6, resulting in a 3, 3, 5, and 6. The l
 
 ## Resting
 
-
 A short rest takes 1 hour. 
 
 A long rest takes 8 hours, 6 of which must be spent asleep. 
@@ -87,4 +85,4 @@ Resting must be safe and include food, drink, and (for long rests) sleep. Any in
 
 - **Hunger**. If characters do not eat in a day, they may not heal after their rests.
 - **Sleep deprivation**. After a night of not sleeping, characters must roll at disadvantage until they rest. They do not heal from the rest. 
-- **Thirst**. After one day of not drinking, characters must roll at disadvantage until they drink.  They do not heal from the rest. After three days, they must make strength saves every hour DC 15 or die. 
+- **Thirst**. After one day of not drinking, characters must roll at disadvantage until they drink.  They do not heal from the rest. After three days, they must make DC 15 strength saves every hour or die. 

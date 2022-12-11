@@ -1,10 +1,9 @@
 ---
 title: Abilities
 layout: default
-permalink: /abilities
-nav_order: 3
-parent: Players Guide
-grand_parent: Heretics
+permalink: /Abilities
+nav_order: 2
+parent: Core Rules
 ---
 {% include toc.html %}
 
@@ -15,19 +14,21 @@ Each ability has **static** stats, **actions**, and **saves** associated with th
 
 Ability scores are capped at +10/def 20.
 
-The abilities are paired in two ways: Strength and Dexterity are the physical abilities; Intelligence and Willpower the mental abilities. Strength and Intelligence are the active abilities; Dexterity and Willpower the defensive abilities. 
+The abilities are paired in two ways: 
+- Strength and Dexterity are the physical abilities; Intelligence and Willpower the mental abilities
+- Strength and Intelligence are the active abilities; Dexterity and Willpower the defensive abilities
 
 ## Strength
 *Power, heartiness, physicality*
 
 ### Static
-- **Maximum load**, equal to strength defense
+- **Maximum [Load](Items#Inventory%20and%20Load)**, equal to strength defense
 
 ### Actions
-- Attacks that are powerful or obvious 
+- [Attacks](MartialGear#Weapons) that are powerful or obvious 
 - Feats of strength
 - Brawling
-- Recovery during short rests
+- Recovery during [short rests](Damage#Resting)
 - Shoving
 
 ### Saves
@@ -48,7 +49,7 @@ The abilities are paired in two ways: Strength and Dexterity are the physical ab
 #### Armored Defense 
 Armored defense represents your ability to avoid damage via reflexes, dodging, or just actual armor. It is equal to your dexterity defense and may be modified by light armor, shields, and helmets or replaced entirely by heavy armor (which can still be modified by shields and helmets).
 
-**Optional rule: Role to defend.** Rather than the referee rolling to attack a character's armor defense, the character may roll 1d20 + their armor bonus (*armored defense - 10*) against the defense stat the attacker is using to attack with.
+> **Optional rule: Role to defend.** Rather than the referee rolling to attack a character's armor defense, the character may roll 1d20 + their armor bonus (*armored defense - 10*) against the defense stat the attacker is using to attack with.
 
 ### Actions
 - Attacks that are stealthy or subtle
@@ -58,7 +59,7 @@ Armored defense represents your ability to avoid damage via reflexes, dodging, o
    - Doing a backflip
    - Trip
    - Disarm
-   - Taking something out of [deep inventory](/items#quick-slots-and-deep-slots) during combat
+   - Taking something out of [deep inventory](Items#Quick%20Slots%20and%20Deep%20Slots) during combat
 
 ### Saves
 - Escaping
@@ -69,7 +70,7 @@ Armored defense represents your ability to avoid damage via reflexes, dodging, o
 
 ### Static
 - **Maximum supply**, equal to intelligence defense 
-- **Mana dice pool,** equal to intelligence bonus
+- **[Mana dice pool](spellcasting),** equal to intelligence bonus
 - **Spell defense**, equal to intelligence defense 
 
 ### Actions
@@ -88,13 +89,13 @@ Armored defense represents your ability to avoid damage via reflexes, dodging, o
 
 ### Static 
 - **Warded defense**, equal to willpower defense plus any wards
-- **Maximum attuned magic items**, equal to willpower bonus (minimum 0)
-- **Maximum retainers**, in hit dice, equal to willpower bonus (minimum 0)
+- **Maximum attuned [magical items](magicalitems)**, equal to willpower bonus (minimum 0)
+- **Maximum [Retainers](Retainers)**, in hit dice, equal to willpower bonus (minimum 0)
 
 #### Warded defense
 Warded defense represents your ability to resist spell damage and effects via sheer willpower, blessings, or luck. It is equal to your willpower defense and may be modified by wards.
 
-**Optional rule: Roll to defend.** Rather than the referee rolling to attack a character's Warded defense, the character may roll 1d20 + their Magic bonus (*Warded defense - 10*) against the defense stat the attacker is using to cast with.
+> **Optional rule: Roll to defend.** Rather than the referee rolling to attack a character's Warded defense, the character may roll 1d20 + their Magic bonus (*Warded defense - 10*) against the defense stat the attacker is using to cast with.
 
 ### Actions
 - Influencing

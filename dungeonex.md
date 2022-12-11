@@ -1,12 +1,12 @@
 ---
 title: Dungeon Exploration
 layout: default
-permalink: /dungeon
-nav_order: 11
-grand_parent: Heretics
-parent: Players Guide
+permalink: /dungeonex
+nav_order: 5
+parent: Exploration
 ---
 {% include toc.html %}
+
 
 # Dungeon Exploration
 Exploring a dungeon is done in turns. Each turn represents 10 minutes of exploration. 
@@ -53,7 +53,7 @@ Characters **running** may cover 4,800 feet (960 five foot squares). In addition
 Referee describes what happens. 
 
 ## 4 End of Turn
-- **Time-keeping device:** Measure the amount of time they are in the dungeon. Use 1d6 to count up. Every turn is 10 minutes and increments the d6 by 1. At the end of the hour, **torches burns out**. Other taxing conditions can take effect as well (cold, heat, magical effects, etc)
+- **Time-keeping device:** Measure the amount of time they are in the dungeon. Use 1d6 to count up. Every turn is 10 minutes and increments the d6 by 1. At the end of the hour, **torches burn out**. Other taxing conditions can take effect as well (cold, heat, magical effects, etc)
 - After 1 hour (6 dungeon turns), the characters **must rest for 1 turn** or will suffer disadvantage on attack rolls. 
 
 Resting for 1 hour in the dungeon heals 1d8 + str bonus. Resting for 8 hours is not possible in a dungeon.
@@ -68,21 +68,4 @@ If another creature is encountered, determine their disposition, unless it is al
 | 6-8   | Uninterested |
 | 9-10  | Polite       |
 | 11-12 | Friendly     |
-
-
-## Rolling to Return
-Sometimes there is insufficient time to escape a dungeon to a safe location during a session. When it is necessary that a party be back in civilization or back at a camp, as may be during a Western Marches campaign, the characters may roll to return to a safe camp. 
-
-The referee determines whether this is a dangerous or arduous journey.
-
-DC = 10 + hour of travel, maximum of DC 20
-
-On a success, the characters return to camp. 
-
-On a failure, the characters pay a cost: 
-
-- Dangerous: 1d6 damage is inflicted for every 1 under the DC
-- Arduous: lose 1 load of equipment per 1 under the DC
-
-If a character is reduced to 0 flesh, they die or are left unconscious, suffering all of the effects of being reduced to 0. The referee picks what load is dropped, starting with less valuable and less secure items, and working up to weapons and armor. 
 

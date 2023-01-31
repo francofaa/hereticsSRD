@@ -4,7 +4,6 @@ layout: default
 permalink: /namestables
 parent: Isurholm Setting
 nav_order: 1
-
 ---
 {% include toc.html %}
 
@@ -20,7 +19,7 @@ Roll 1d4 to determine your origins.
 
 You may also come up with your own name. 
 
-### Isuri Names
+## Isuri Names
 
 Given names
 
@@ -58,7 +57,7 @@ Surnames
 
 
 
-### Aegirling Names
+## Aegirling Names
 
 Given names
 
@@ -98,7 +97,7 @@ Surnames
 | 19  | Unni     |
 | 20  | Vatan    |
 
-### Piastro Names
+## Piastro Names
 
 Given names
 
@@ -136,7 +135,7 @@ Matronymics
 | 19  | Algaiafi    |
 | 20  | Blandafi    |
 
-### Otani Names
+## Otani Names
 
 Surnames
 

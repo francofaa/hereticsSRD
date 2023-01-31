@@ -3,26 +3,29 @@ title: Damage
 layout: default
 permalink: /damage
 nav_order: 3
-parent: Core Rules
+parent: Character
 ---
 {% include toc.html %}
 
 # Damage
-When a character suffers damage, they may take grit or flesh damage. 
 
-Grit represents to the character near misses, stunning blows, stamina depletion, superficial wounds and bruises, and so on. Once grit is depleted, the character will begin suffering damage to flesh and suffer negative effects from this damage going untreated.
+Hit protection represents near misses, stunning blows, stamina depletion, superficial wounds and bruises, and so on. 
 
-Flesh represents deep wounds, broken bones, internal and external bleeding, and so on. Any attacks done directly to flesh points can be debilitating and should be described as such by the referee. Once flesh is depleted, the character will fall into semi-consciousness. Any subsequent damage will kill the character. 
+Damage that reduces character's hit protection to zero lowers a character's strength defense by the amount remaining. Any actions that a character takes while under 0 hit protection are done at disadvantage. 
+
+Any damage that takes the character to 0 strength defense kills them outright. 
+
+Characters at or below 0 hit protection are considered to be **dying**. 
+
+NPCs that are lowered to zero hit protection die.
 
 ## Direct Damage
-Some damage may bypass grit. Some damage may also outright kill a character. 
-
-### NPC HP
-Non-player characters do not distinguish between flesh and grit. Any direct damage instead inflicts triple the damage dice.
+Some damage may bypass hit protection. Some damage may also outright kill a character. 
 
 ### Environmental
 
-All of the following environmental damage (*in its non-magical form*) is considered **direct damage**, bypassing grit: 
+All of the following environmental damage (*in its non-magical form*) is considered **direct damage** to strength defense:
+
 - Non-magical fire, 1d6 direct damage
 - On fire, 2d6 direct damage per round
 - Lava, instant death
@@ -34,38 +37,50 @@ All of the following environmental damage (*in its non-magical form*) is conside
 - Poison, direct damage (amount depends on the poison) 
 
 ### Ambush damage
-If a character is ambushed, the damage is inflicted directly to the flesh points. The damage is the *normal weapon damage*. 
 
-Characters when attacking in the same way *triple the damage dice* because NPCs do not have grit and flesh but one pool of hit protection.
+If a character is ambushed, the damage dice are doubled.
 
-## Death and Saving
-Being reduced to 0 flesh points reduces your grit points to 0 (if not already reduced to 0) and requires stabilization within 1 minute or by the end of the combat, whichever is later, or the character dies.
+## Conditions
 
-If the character suffers damage while at 0 flesh, they die.
+Some attacks inflict a condition. The following list is non-exhaustive and some monsters and environments may have special effects inflicting unique conditions.
 
-### Stabilization and Injury
-An ally may try to stabilize the downed character by rolling an ability check, a spell, using herbs, or some other manner of healing. 
+- Exhausted: Disadvantage on all rolls
+- Paralyzed: Unable to make any movement
+- Grappled: Speed is 0, disadvantage on all rolls except to break the grapple
+- Charmed: Acting friendly towards the charming creature
+- Blind: Unable to see
+- Deafened: Unable to hear
+- Stunned: Unable to make significant movements
 
-Once stabilized, the character rolls 1d20 on the permanent injury table: 
+## Stabilizing 
 
-1. False hope: you're dead (1)
-2. Lose a body part (2)
-3. Feeble: lose 1d6 str (3-6)
-4. Shaky: lose 1d6 dex (7-10)
-5. Addled: lose 1d6 int (11-14)
-6. Weak: lose 1d6 wil (15-18)
-7. Disadvantage on all checks until rested (19)
-8. Standing: Instantly heal to 1d8 grit (20)
+When a character is reduced to zero hit protection, they must be stabilized within an hour or else they **die**.
 
-Unless a 1 was rolled, the character heals to 1 flesh. 
+An ally may try to stabilize the downed character by rolling an ability check, casting a spell, using herbs, or some other manner of healing. 
 
-#### Death 
-When a character dies, write down their fate on the back of the character sheet. The character sheet may be ritualistically burned, buried, or sent off in a funeral boat later because the player should roll up another character (or ideally have another character waiting in the wings) to get back into the game.
+If such an action would restore hit protection, It instead stabilizes the character.
 
-#### Recovering from Injuries
-The injuries feeble, shaky, addled, and weak may be removed after a number of weeks equal to the lowest result from rolling a number of d6 equal to character level. 
+Once stabilized, the character's strength defense is restored to full. The character then rolls 1d20 on the injury table: 
 
-For example, a level 4 character rolls 4d6, resulting in a 3, 3, 5, and 6. The lowest number is 3, so the character's ability is restored after 3 weeks of rest. 
+1: False hope: you're dead
+2: Lose a body part
+3-6: Feeble: lose 1d6 str 
+7-10: Shaky: lose 1d6 dex 
+11-14: Addled: lose 1d6 int
+15-18: Weak: lose 1d6 wil
+19: Disadvantage on all checks until rested
+20: Standing: Instantly heal to 1d8 hit protection
+
+Unless a 1 was rolled, the character heals to 1 hit protection.
+
+### Death 
+
+When a character dies, write down their fate on the back of the character sheet. The character sheet may be ritualistically burned, buried, or sent off in a funeral boat *later* because the player should roll up another character (or ideally have another character waiting in the wings) to get back into the game.
+
+### Convalescing
+
+The injuries feeble, shaky, addled, and weak are removed after a number of [downtime cycles](downtimecycle.md#Convalescing) equal to the lowest result of Ld6. For example, a level 4 character rolls 4d6, resulting in a 3, 3, 5, and 6. The lowest number is 3, so the character's ability is restored after 3 downtime cycles.
+
 
 ## Resting
 
@@ -73,11 +88,11 @@ A short rest takes 1 hour.
 
 A long rest takes 8 hours, 6 of which must be spent asleep. 
 
-| Conditions                                 | Restored Grit | Restored Flesh |
-| ------------------------------------------ | ------------- | -------------- |
-| Long rest in town or wilderness, with meal | 100%          | 1              |
-| Wilderness, safe short rest                | L x d8 + str  | 0              |
-| Short or long rest (with meal) in dungeon  | 1d8 + str     | 0              |
+| Conditions                                 | Restored HP |
+| ------------------------------------------ | ----------- |
+| Long rest in town or wilderness, with meal | 100%        |
+| Wilderness, safe short rest                | L x d8      |
+| Short rest (with meal) in dungeon          | 1d8         |
 
 Long rests in a dungeon are inadvisable and are likely to fail. 
 

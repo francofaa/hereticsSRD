@@ -2,8 +2,8 @@
 title: Patron God
 layout: default
 permalink: /PatronGod
-nav_order: 5
-parent: Social
+nav_order: 4
+parent: Character
 ---
 {% include toc.html %}
 

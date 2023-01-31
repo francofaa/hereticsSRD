@@ -3,7 +3,7 @@ title: Abilities
 layout: default
 permalink: /Abilities
 nav_order: 2
-parent: Core Rules
+parent: Character
 ---
 {% include toc.html %}
 
@@ -14,42 +14,42 @@ Each ability has **static** stats, **actions**, and **saves** associated with th
 
 Ability scores are capped at +10/def 20.
 
-The abilities are paired in two ways: 
-- Strength and Dexterity are the physical abilities; Intelligence and Willpower the mental abilities
-- Strength and Intelligence are the active abilities; Dexterity and Willpower the defensive abilities
-
 ## Strength
-*Power, heartiness, physicality*
+Physical, forceful
+
+*Power, heartiness, physicality, endurance*
 
 ### Static
-- **Maximum [Load](Items#Inventory%20and%20Load)**, equal to strength defense
+- **Maximum [Load](Inventory.md#Inventory%20and%20Load)**, equal to strength defense
 
 ### Actions
-- [Attacks](MartialGear#Weapons) that are powerful or obvious 
+- [Attacks](MartialGear.md#Weapons) that are powerful or obvious 
 - Feats of strength
 - Brawling
-- Recovery during [short rests](Damage#Resting)
+- Recovery during [short rests](Damage.md#Resting)
 - Shoving
 
 ### Saves
 - Poison
 - Disease
-- Escaping
 - Enduring fatigue
 - Non-magical paralysis
 
 ## Dexterity
-*Finesse, movement, reflexes*
+
+Physical, graceful
+
+*Finesse, movement, reflexes, agility*
 
 ### Static 
-- **Armored defense**, equal to dexterity defense plus any armor, or equal to armor only 
+- **Armored defense**, equal to dexterity defense plus any armor, or equal to armor only
+- **Hit protection**, equal to dexterity plus 1d8 x level
+- **Maximum ammo**, equal to dexterity defense
 - **Movement**
    - All characters start with 40' of combat movement and 120' of exploration movement. Any penalties to dex reduce movement, 5 feet per bonus point.
 
 #### Armored Defense 
 Armored defense represents your ability to avoid damage via reflexes, dodging, or just actual armor. It is equal to your dexterity defense and may be modified by light armor, shields, and helmets or replaced entirely by heavy armor (which can still be modified by shields and helmets).
-
-> **Optional rule: Role to defend.** Rather than the referee rolling to attack a character's armor defense, the character may roll 1d20 + their armor bonus (*armored defense - 10*) against the defense stat the attacker is using to attack with.
 
 ### Actions
 - Attacks that are stealthy or subtle
@@ -59,19 +59,49 @@ Armored defense represents your ability to avoid damage via reflexes, dodging, o
    - Doing a backflip
    - Trip
    - Disarm
-   - Taking something out of [deep inventory](Items#Quick%20Slots%20and%20Deep%20Slots) during combat
+   - Taking something out of [deep inventory](Inventory.md#Quick%20Slots%20and%20Deep%20Slots) during combat
 
 ### Saves
 - Escaping
 - Dodging
 
+
+## Willpower
+Mental, forceful
+
+*Charisma, mental resilience, influence*
+
+### Static 
+- **Warded defense**, equal to willpower defense plus any wards
+- **[Mana dice pool](spellcasting.md),** equal to willpower bonus
+- **Maximum [Retainers](Retainers.md)**, in hit dice, equal to willpower bonus (minimum 0)
+
+#### Warded defense
+Warded defense represents your ability to resist spell damage and effects via sheer willpower, blessings, or luck. It is equal to your willpower defense and may be modified by wards.
+
+### Actions
+- Influencing
+- Taming
+- Intimidation
+- Performing
+- Commanding retainers
+
+### Saves
+- Magic
+- Morale
+
+
+
+
 ## Intelligence
-*Skill, education, common sense*
+
+Mental, graceful
+
+*Skill, education, perception, cleverness*
 
 ### Static
 - **Maximum supply**, equal to intelligence defense 
-- **[Mana dice pool](spellcasting),** equal to intelligence bonus
-- **Spell defense**, equal to intelligence defense 
+- **Maximum attuned [magical items](magicalitems.md)**, equal to intelligence bonus
 
 ### Actions
 - Attacks using magic
@@ -79,29 +109,12 @@ Armored defense represents your ability to avoid damage via reflexes, dodging, o
 - Perception
 - Deception
 - Foraging for food or components
+- Tracking
 - Tinkering
 - Lockpicking
 - Picking pockets
 - Forethought
-
-## Willpower
-*Charisma, luck, mental resilience*
-
-### Static 
-- **Warded defense**, equal to willpower defense plus any wards
-- **Maximum attuned [magical items](magicalitems)**, equal to willpower bonus (minimum 0)
-- **Maximum [Retainers](Retainers)**, in hit dice, equal to willpower bonus (minimum 0)
-
-#### Warded defense
-Warded defense represents your ability to resist spell damage and effects via sheer willpower, blessings, or luck. It is equal to your willpower defense and may be modified by wards.
-
-> **Optional rule: Roll to defend.** Rather than the referee rolling to attack a character's Warded defense, the character may roll 1d20 + their Magic bonus (*Warded defense - 10*) against the defense stat the attacker is using to cast with.
-
-### Actions
-- Influencing
-- Intimidation
-- Commanding retainers
-
-### Saves
-- Magic
-- Morale
+- Deciphering
+- Scribing
+- Diagnosing
+- Detecting traps

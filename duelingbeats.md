@@ -1,5 +1,5 @@
 ---
-title: Dueling Beats
+title: Dueling Beat
 layout: default
 permalink: /duelingbeats
 nav_order: 1
@@ -7,7 +7,7 @@ parent: Procedures
 ---
 {% include toc.html %}
 
-# Dueling Beats
+# Dueling Beat
 
 Resolving a duel is done in **beats**. Beats can represent any amount of time that is sensible to the scenario.
 

@@ -228,7 +228,7 @@ To reach the level of a legend in the trade, the referee may require specific qu
 
 ### Training Knacks
 
-Rather than acquiring [Knacks](Knacks.md) through the expenditure of ability points upon leveling, a character can train a knack. 
+Rather than acquiring [Knacks](Knacks) through the expenditure of ability points upon leveling, a character can train a knack. 
 
 Learning a knack from an instructor costs time, training, and coin. 
 
@@ -269,7 +269,7 @@ If the character fails three times in a row to tame or train an animal, that ani
 
 ## Convalescing
 
-The injuries feeble, shaky, addled, and weak (referenced in [convalescing](Damage.md)) may be removed after a number of downtime cycles equal to the lowest result from rolling a number of d6 equal to character level (*Ld6, take the lowest*).
+The injuries feeble, shaky, addled, and weak (referenced in [convalescing](Damage)) may be removed after a number of downtime cycles equal to the lowest result from rolling a number of d6 equal to character level (*Ld6, take the lowest*).
 
 For example, a level 4 character rolls 4d6, resulting in a 3, 3, 5, and 6. The lowest number is 3, so the character's ability is restored after 3 downtime cycles.
 
@@ -292,7 +292,7 @@ For example:
 
 ## Faction Activities
 
-The refree will roll 1d6 for each faction in play in the settlement. On a 4-5, mark 1 progress toward the [faction](Factions.md)'s active goal. On a 6, mark 2 progress. 
+The refree will roll 1d6 for each faction in play in the settlement. On a 4-5, mark 1 progress toward the [faction](Factions)'s active goal. On a 6, mark 2 progress. 
 
 Add any bonuses or penalties depending on 
 - relevant resources

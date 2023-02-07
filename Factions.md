@@ -62,7 +62,7 @@ Once the first faction is created, consider ways the next 1-4 factions could int
 
 For each of the faction goals, there should be tally marks to mark progress, 2 for simple goals, up to 5 for more complex goals.
 
-Between adventures, during a [downtime cycle](downtimecycle.md), factions will make moves. Roll 1d6. On a 4-5, mark 1 progress toward their current goal. On a 6, mark 2. 
+Between adventures, during a [downtime cycle](downtimecycle), factions will make moves. Roll 1d6. On a 4-5, mark 1 progress toward their current goal. On a 6, mark 2. 
 
 Add bonuses or penalties depending on any 
 - relevant resources

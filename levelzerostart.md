@@ -16,13 +16,13 @@ To create a level zero character,
 1. Roll 1d8 for your hit protection.
 2. All abilities start at 0 bonus / 10 defense. 
 3. Roll for one background
-4. Take 2 days' worth of rations, 2 torches, and 1 [weapon](MartialGear.md). 
-5. Roll all dice to determine [character traits](charactercreation.md#6.%20Traits)
+4. Take 2 days' worth of rations, 2 torches, and 1 [weapon](MartialGear). 
+5. Roll all dice to determine [Traits](charactercreation#Traits)
 
 ## Advancing to Level 1
 
 Upon turning in 100 experience points, you reach level 1. Note that level 2 is still 2,000 experience points, so therefore, you only need 1,900 to get to the next level.
 
-Determine your new level 1 abilities using the [character creation](charactercreation.md) rules as normal. Based on the funnel adventure, narratively, you may want to increase or decrease certain abilities. 
+Determine your new level 1 abilities using the [character creation](charactercreation) rules as normal. Based on the funnel adventure, narratively, you may want to increase or decrease certain abilities. 
 
 Add your strength bonus to your hit protection

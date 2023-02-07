@@ -45,4 +45,4 @@ Wards can be broken to nullify the effects of a spell on the wielder (and only t
 
 ## Focuses
 
-Magical focuses, such as orbs, wands, or staves, may grant special powers. Generally, a focus could grant a number of non-renewable mana dice per day (that is, mana dice that do not return to your pool regardless of the result). Focuses can also make casting [Wild Magic](spellcasting.md#Wild%20Magic) safer. Casting a specific effect using wild magic and a focus may result in that new magical effect inhabiting the focus and becoming a spell. The player and referee may work together to create a new spell. 
+Magical focuses, such as orbs, wands, or staves, may grant special powers. Generally, a focus could grant a number of non-renewable mana dice per day (that is, mana dice that do not return to your pool regardless of the result). Focuses can also make casting [Wild Magic](spellcasting#Wild%20Magic) safer. Casting a specific effect using wild magic and a focus may result in that new magical effect inhabiting the focus and becoming a spell. The player and referee may work together to create a new spell. 

@@ -13,7 +13,7 @@ Resolving a combat is done in **rounds**. Each round represents about 10 seconds
 
 When a party is in combat, follow the combat round procedure: 
 
-1. Determine [Initiative](Initiative.md)
+1. Determine [Initiative](#Initiative)
 2. Resolve [Actions](#Actions). Movement is part of the action phase.
 	- [Melee and Ranged Attacks](#Melee%20and%20Ranged%20Attacks)
 	- [Spell casting](#Spell%20casting)
@@ -64,7 +64,7 @@ Elemental damage can be measured in d6 (acid, fire, frost)
 
 ### Spell casting
 
-An attacker may choose to cast a spell or a use a medicinal. Follow the [spellcasting](spellcasting.md) procedures for more.
+An attacker may choose to cast a spell or a use a medicinal. Follow the [spellcasting](spellcasting) procedures for more.
 
 ### Stunts
 

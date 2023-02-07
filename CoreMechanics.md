@@ -24,12 +24,12 @@ It's recommended to follow these procedures to simplify travel, combat, and expl
 
 The main procedures are 
 
-- [Combats](combatround.md)
-- [Wilderness exploration and travel](wildernesswatch.md)
-- [Dungeon exploration](dungeonturn.md)
+- [Combats](combatround)
+- [Wilderness exploration and travel](wildernesswatch)
+- [Dungeon exploration](dungeonturn)
 
 Optional procedures include 
 
-- [Downtime activities](downtimecycle.md)
-- [Dueling procedures](duelingbeats.md)
+- [Downtime activities](downtimecycle)
+- [Dueling procedures](duelingbeats)
 

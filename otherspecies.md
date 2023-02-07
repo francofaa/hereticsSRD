@@ -9,7 +9,7 @@ parent: Character
 
 # Other Species
 
-The characters are assumed to be human; however, if the referee allows other non-human species in the game, the player may replace one of the background traits with abilities from their species. Other traits can be created in cooperation with the referee. The referee has final say if the species are appropriate to the setting: 
+The characters are assumed to be human; however, if the referee allows other non-human species in the game, the player may replace or supplement a background with abilities from their species. Other traits can be created in cooperation with the referee. The referee has final say if the species are appropriate to the setting: 
 
 - **Stone cunning**: You gain tremor sense for *L* x 10 minutes once per day
 - **Hearth born**: You are resistant to fire

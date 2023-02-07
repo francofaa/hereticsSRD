@@ -73,8 +73,8 @@ Mental, forceful
 
 ### Static 
 - **Warded defense**, equal to willpower defense plus any wards
-- **[Mana dice pool](spellcasting.md),** equal to willpower bonus
-- **Maximum [Retainers](Retainers.md)**, in hit dice, equal to willpower bonus (minimum 0)
+- **[Mana dice pool](spellcasting),** equal to willpower bonus
+- **Maximum Retainers**, in hit dice, equal to willpower bonus (minimum 0)
 
 #### Warded defense
 Warded defense represents your ability to resist spell damage and effects via sheer willpower, blessings, or luck. It is equal to your willpower defense and may be modified by wards.
@@ -101,7 +101,7 @@ Mental, graceful
 
 ### Static
 - **Maximum supply**, equal to intelligence defense 
-- **Maximum attuned [magical items](magicalitems.md)**, equal to intelligence bonus
+- **Maximum attuned [magical items](magicalitems)**, equal to intelligence bonus
 
 ### Actions
 - Attacks using magic

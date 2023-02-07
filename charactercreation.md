@@ -26,7 +26,7 @@ For character sheets:
 - Long version (1 to a page): [heretics_playerSheets_0-1-single-page.pdf](heretics_playerSheets_0-1-single-page.pdf)
 - Google Spreadsheet (make a copy): [Sheets Link](https://docs.google.com/spreadsheets/d/19pv8S7_A3jCTb1wBprDFFxTAvuviTkqlpf4fHKd4JQE/edit#gid=0)
 
-> There are also alternative [level zero start](levelzerostart.md) procedures.
+> There are also alternative [level zero start](levelzerostart) procedures.
 
 ## Ability Scores
 
@@ -52,7 +52,7 @@ Possible starting arrays, not taking into account position of abilities, are as 
 6. 1, 1, 1, -1
 
 
-Refer to [Abilities](Abilities.md) for more information.
+Refer to [Abilities](Abilities) for more information.
 
 ## Secondary Attributes
 
@@ -80,7 +80,7 @@ Roll 1d8 to find your hit protection. Add your strength bonus. If this would sta
 
 You may also roll 1d8 rerolling 1's and 2's or 2d4.
 
-Refer to [Damage](Damage.md) for more on hit protection.
+Refer to [Damage](Damage) for more on hit protection.
 
 ## Gear
 
@@ -98,7 +98,7 @@ Roll 1d8 and 1d6 and cross reference the numbers to find your background. Roll t
 
 You start with 1 background which also informs what you start with on your person. These are failed professions that you endeavored before becoming an adventurer, so treat them as such. 
 
-> For non-human species, if they are allowed in the campaign, refer to the [other species](otherspecies.md). This may replace one of the backgrounds or be an addition to the backgrounds. Consult with your referee before doing this.
+> For non-human species, if they are allowed in the campaign, refer to the [other species](otherspecies). This may replace or supplement your background. Consult with your referee before doing this.
 
 Actions performed using skills or tools relevant to a character's background may not require a roll to resolve or may be given some bonus based on the referee's discretion.
 
@@ -288,7 +288,7 @@ Roll 1d4, 1d6, 1d8, 2d10 (10's and 1's places), 1d12, and 1d20 or choose from th
 | 20  | I lost a bet to them                      |
 
 ## Name
-Choose or roll on a naming table. For the Isurholm setting, there is a [names table](namestables.md) available.
+Choose or roll on a naming table. For the Isurholm setting, there is a [names table](namestables) available.
 
 
 ## Languages
@@ -322,7 +322,7 @@ All creatures can be expressed in a single stat line.
 6. MV # (#): Movement, in feet. The first number is exploration (10 minutes in a dungeon), second number combat movement (10 seconds). Usually omitted if it is 120 (40).
 7. Att: Attacks, usually followed by a to-hit bonus, a die (damage), and a parenthetical indicating the weapon, or spell. 
 8. Items: List of all items that the creature carries. 
-9. *Special ability*: Any additional abilities. [Knacks](Knacks.md) can appear here. Monsters have their abilities here as well. 
+9. *Special ability*: Any additional abilities. [Knacks](Knacks) can appear here. Monsters have their abilities here as well. 
 
 **Example:** 
 

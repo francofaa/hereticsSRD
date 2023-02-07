@@ -11,7 +11,7 @@ nav_order: 2
 
 Inventory is a core feature of this game. Characters may carry up to their maximum load (equal to their strength defense). Keeping track of it is important. Unless stated otherwise, every item takes up one slot. 
 
-A slot can be assumed to weigh between 1 to 5 pounds or 1 to 2 kilos. It may also contain a [magical item](magicalitems.md) or a [spell](d100spells.md).
+A slot can be assumed to weigh between 1 to 5 pounds or 1 to 2 kilos. It may also contain a [magical item](magicalitems) or a [spell](d100spells).
 
 1-500 coins takes up one slot. Smaller items can be grouped in bundles and treated as one slot. For example, "chalk, 20/20" means a bundle of 20 pieces of chalk taking up one slot. 
 
@@ -39,7 +39,7 @@ md+*n*: This indicates a bonus to warded defense stat.
 at: This indicates that an item must be attuned to, which impacts the magical item limitation. All wards and magic items require attunement while items containing spells do not, unless otherwise specified.
 
 ## Quick Slots and Deep Slots
-Getting an item out of your inventory during [combat rounds](combatround.md) is considered a stunt (dexterity check) with a DC equal to the slot number. On a success the stunt allows the stunt to be a free action. Otherwise it takes an action. 
+Getting an item out of your inventory during [combat rounds](combatround) is considered a stunt (dexterity check) with a DC equal to the slot number. On a success the stunt allows the stunt to be a free action. Otherwise it takes an action. 
 
 Quick slots do not require a stunt to take out. Quick slots must contain items that are actively in your hands. 
 
@@ -68,7 +68,7 @@ A character may carry ammunition up to their dexterity defense stat. Ammo does n
 
 Ammo can be replaced one for one by **supply**.
 
-Ammo may be harvested from enemies or foraged and made during a [wilderness watch](wildernesswatch.md). One piece of ammo can be purchased for 1 coin.
+Ammo may be harvested from enemies or foraged and made during a [wilderness watch](wildernesswatch). One piece of ammo can be purchased for 1 coin.
 
 ## Supply
 
@@ -78,7 +78,7 @@ It  cannot stand in for things you do not already have. If you have no torches, 
 
 You may carry a number of supply equal to your intelligence defense. Supply does not take up inventory slots and is tracked separately. 
 
-You may forage for supply during a [wilderness watch](wildernesswatch.md). One supply can be purchased for 1 coin. 
+You may forage for supply during a [wilderness watch](wildernesswatch). One supply can be purchased for 1 coin. 
 
 
 ## Sundries

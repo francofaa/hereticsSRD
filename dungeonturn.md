@@ -85,7 +85,7 @@ If another creature is encountered, determine their disposition, unless it is al
 | 9-10  | Polite       |
 | 11-12 | Friendly     |
 
-Encounters may result in [combatround](combatround.md).
+Encounters may result in [combat](combatround).
 
 ## Return Journey 
 

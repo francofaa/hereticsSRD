@@ -37,13 +37,11 @@ Character abilities are
 3. Willpower
 4. Intelligence
 
-All ability bonuses start at 0. Add 10 to get that ability's defense. 
+All ability bonuses start at 0. Add 10 to get that ability's defense. For example, a strength bonus of +2 is a strength defense of 12. 
 
-To generate ability scores, you may either
+Roll 1d4 three times. Each time, add +1 to an ability according to its order above. 1=Strength, 2=Dexterity, 3=Willpower, 4=Intelligence. Then roll 1d4 once. Subtract 1 from the ability that is rolled. You may then swap 2 ability bonus scores.
 
-- Add 3 ability points to any of your ability bonuses. Subtract 1 from one of your ability bonuses. Add 10 to each ability to get its defense. For example, a strength bonus of +2 is a strength defense of 12. 
-- Roll 1d4 three times. Each time, add +1 to an ability according to its order above. 1=Strength, 2=Dexterity, 3=Willpower, 4=Intelligence. Then roll 1d4 once. Subtract 1 from the ability that is rolled. You may then swap 2 ability bonus scores. This can also be done randomly by rolling 4d4, adding 1 for the first three rolls and subtracting one for the last roll, determining which stat is increased/decreased by assigning the numbers one through four, in order, to Strength, Dexterity, Willpower, and Intelligence. You may then swap 2 ability bonus scores. 
-	- For example: The first d4 lands on a 4, so Intelligence is increased by 1. The second lands on a 3, so Willpower increases by 1. The third lands on 4 again, so Intelligence is increased by 1. The last lands on 1, so Strength is *decreased* by 1. The array ends with Strength=-1, Dexterity=0, Willpower=1, Intelligence=2.
+For example: The first d4 lands on a 4, so Intelligence is increased by 1. The second lands on a 3, so Willpower increases by 1. The third lands on 4 again, so Intelligence is increased by 1. The last lands on 1, so Strength is *decreased* by 1. The array ends with Strength=-1, Dexterity=0, Willpower=1, Intelligence=2.
 
 Possible starting arrays, not taking into account position of abilities, are as follows.
 
@@ -52,6 +50,7 @@ Possible starting arrays, not taking into account position of abilities, are as 
 4. 2, 0, 0, 0
 5. 1, 1, 0, 0
 6. 1, 1, 1, -1
+
 
 Refer to [Abilities](Abilities.md) for more information.
 

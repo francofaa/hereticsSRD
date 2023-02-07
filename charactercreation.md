@@ -14,11 +14,10 @@ When a player is creating a character, follow the character creation procedure t
 1. [Ability Scores](#Ability%20Scores)
 2. [Secondary Attributes](#Secondary%20Attributes)
 3. [Hit Protection](#Hit%20Protection)
-4. [Backgrounds](#Backgrounds)
-5. [Gear](#Gear)
-6. [Traits](#Traits)
-7. [Name](#Name)
-8. [Languages](#Languages)
+4. [Gear](#Gear)
+5. [Traits](#Traits)
+6. [Name](#Name)
+7. [Languages](#Languages)
 
 These steps are described in more detail below. 
 
@@ -64,72 +63,131 @@ Your secondary abilities are derived as follows:
 	- Maximum inventory = defense score 
 - From Dexterity
 	- Armored defense = defense score, plus any armor
-	- Maximum ammo = defense score
+	- Maximum ammo = defense score (start with all of your ammo)
 - From Willpower
 	- Mana Dice = bonus score 
 	- Maximum retainers = bonus score
 	- Warded defense = defense score, plus any wards
 - From Intelligence
 	- Maximum attuned items = bonus score
-	- Maximum supply = defense score 
+	- Maximum supply = defense score (start with all of your supply)
 
 
 Movement is 40 feet of combat movement and 120 feet of exploration movement.
 
 ## Hit Protection 
 
-Roll 1d8 to find your hit protection. Add your dexterity bonus. If this would start the character at 0 or less, the character instead starts with 1 point of hit protection.
+Roll 1d8 to find your hit protection. Add your strength bonus. If this would start the character at 0 or less, the character instead starts with 1 point of hit protection.
 
 You may also roll 1d8 rerolling 1's and 2's or 2d4.
 
 Refer to [Damage](Damage.md) for more on hit protection.
 
-## Backgrounds
+## Gear
 
-You start with 1 or 2 backgrounds which also inform what you start with on your person. These are failed professions that you endeavored before becoming an adventurer, so treat them as such. 
+Roll 1d4, 1d6, 1d8, 2d10 (10's and 1's places), 1d12, and 1d20 or choose from the lists below to determine the gear for your character. Optionally, make up your own.
 
-Roll 1d8 and 1d6 and cross reference the numbers to find your background. Roll the two dice again to get your second background. You get all the gear from each background.
+
+| d4  | Magical Gear          | Requirement |
+| --- | --------------------- | ----------- |
+| 1   |                       |             |
+| 2   | 1 medicinal 5/5 (d10) |             |
+| 3   | 1 wd+1 ward           | +1 int      |
+| 4   | 1 spell (d100)        |             |
+
+Roll 1d8 and 1d6 and cross reference the numbers to find your background. Roll the two dice again to get your second background. You get all the gear from each background. Each piece of gear takes up one slot.
+
+You start with 1 background which also informs what you start with on your person. These are failed professions that you endeavored before becoming an adventurer, so treat them as such. 
 
 > For non-human species, if they are allowed in the campaign, refer to the [other species](otherspecies.md). This may replace one of the backgrounds or be an addition to the backgrounds. Consult with your referee before doing this.
 
 Actions performed using skills or tools relevant to a character's background may not require a roll to resolve or may be given some bonus based on the referee's discretion.
 
-| d8/d6 | 1                                                       | 2                                                        | 3                                                               | 4                                                                | 5                                                                      | 6                                                       |
-| ----- | ------------------------------------------------------- | -------------------------------------------------------- | --------------------------------------------------------------- | ---------------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------- |
-| 1     | Miner: pickaxe, lantern, 50 feet of rope                | Monastic: ink and quill, mini barrel of ale, prayer book | Farmer: scythe, eggs and bread (2 rations), thick gloves        | Gravedigger: shovel, lantern, bucket                             | Executioner: great axe, hood, manacles                                 | Carpenter: hammer, handsaw, bag of nails                |
-| 2     | Bandit: dagger, 50 feet of rope, mask                   | Beekeeper: jar of honey, smoke bomb, net                 | Clergy: holy symbol, censor, prayer book                        | Trash collector: 10 foot pole with hook, lantern, bucket         | Barber-surgeon: scissors, handsaw, bandages                            | Minstrel: musical instrument, perfume, disguise kit     |
-| 3     | Lumberjack: hand axe, rope, firewood                    | Shepherd: 10 foot pole, whistle, sling 1d4 20/40         | Mercenary: short sword, shield, 3d8 coins (in foreign currency) | Fence: false documents, sealing wax, metal file                  | Burglar: grappling hook, 50 feet of rope, lockpicking tools            | Brewer: barrel of ale, jar of yeast, empty growler      |
-| 4     | Hunter: bow, quiver of arrows, tent                     | Fisher: fishing rod, net, spear                          | Bureaucrat: ink and quill, official stamp (stolen), sealing wax | Smuggler: disguise kit, false documents, 10 foot pole            | Diviner: divining cards or bones, tea leaves, telescope                | Baker: rolling pin, bread (2 rations), bag of flour     |
-| 5     | Hermit: 1 random medicinal 5/5, staff, 2 stakes         | Jester: Scepter, motley garb, cudgel                     | Puppeteer: puppet, spool of string 250', hammer                 | Candlemaker: candles 20/20, beeswax, spool of string (wick) 250' | Sailor: Spyglass, short sword, net                                     | Scribe: Lamp oil, quill and ink, 50 sheafs of parchment |
-| 6     | Scavenger: scrap metal, 10 foot pole, lantern           | Surveyor: rope, compass, ink and quill                   | Debt collector: disguise kit, mace, manacles                    | Counterfeiter: false documents, ink and quill, sealing wax       | Street Performer: juggling items, disguise kit, 50 feet of rope        | Guard: shield, half plate, spear                        |
-| 7     | Trader: valuable trinket, ink and quill, 2d6 x 10 coins | Tinker: grease, fine tools, scrap metal                  | Bounty-hunter: quiver of bolts, crossbow, dagger                | Cut-purse: dagger, disguise kit, ball bearings                   | Gambler: loaded dice or trick deck, mirror, 10 + 1d4! coin (exploding) | Apothecary: empty vials, antitoxin, shears              |
-| 8     | Messenger: traveling papers, lantern, bedroll           | Hedge witch: fetish, 1 medicinal 5/5, mortar and pestle  | Pit-fighter: cudgel, gambeson, net                              | Alchemist: potion brewing kit, ink and quill, antitoxin          | Blacksmith: hammer, metal file, bellows                                | Scholar: ink and quill, blank book, sealing wax         |
+| d8/d6 | 1                                                       | 2                                                            | 3                                                               | 4                                                                | 5                                                                      | 6                                                       |
+| ----- | ------------------------------------------------------- | ------------------------------------------------------------ | --------------------------------------------------------------- | ---------------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------- |
+| 1     | Miner: pickaxe, lantern, 50 feet of rope                | Monastic: ink and quill, mini barrel of ale, prayer book     | Farmer: scythe, eggs and bread (5/5 rations), thick gloves      | Gravedigger: shovel, lantern, bucket                             | Executioner: great axe, hood, manacles                                 | Carpenter: hammer, handsaw, bag of nails                |
+| 2     | Bandit: dagger, 50 feet of rope, mask                   | Beekeeper: jar of honey, smoke bomb, net                     | Clergy: holy symbol, censor, prayer book                        | Trash collector: 10 foot pole with hook, lantern, bucket         | Barber-surgeon: scissors, handsaw, bandages                            | Minstrel: musical instrument, perfume, disguise kit     |
+| 3     | Lumberjack: hand axe, rope, firewood                    | Shepherd: 10 foot pole, whistle, sling 1d4 20/40             | Mercenary: short sword, shield, 3d8 coins (in foreign currency) | Fence: false documents, sealing wax, metal file                  | Burglar: grappling hook, 50 feet of rope, lockpicking tools            | Brewer: barrel of ale, jar of yeast, empty growler      |
+| 4     | Hunter: bow, quiver of arrows, tent                     | Fisher: fishing rod, net, spear                              | Bureaucrat: ink and quill, official stamp (stolen), sealing wax | Smuggler: disguise kit, false documents, 10 foot pole            | Diviner: divining cards or bones, tea leaves, telescope                | Baker: rolling pin, bread 5/5 rations, bag of flour     |
+| 5     | Hermit: 1 random medicinal 5/5, staff, 2 stakes         | Jester: Scepter, motley garb, cudgel                         | Puppeteer: puppet, spool of string 250', hammer                 | Candlemaker: candles 20/20, beeswax, spool of string (wick) 250' | Sailor: Spyglass, short sword, net                                     | Scribe: Lamp oil, quill and ink, 50 sheafs of parchment |
+| 6     | Scavenger: scrap metal, 10 foot pole, lantern           | Surveyor: rope, compass, ink and quill                       | Debt collector: disguise kit, mace, manacles                    | Counterfeiter: false documents, ink and quill, sealing wax       | Street Performer: juggling items, disguise kit, 50 feet of rope        | Guard: shield, half plate, spear                        |
+| 7     | Trader: valuable trinket, ink and quill, 2d6 x 10 coins | Tinker: grease, fine tools, scrap metal                      | Bounty-hunter: quiver of bolts, crossbow, dagger                | Cut-purse: dagger, disguise kit, ball bearings                   | Gambler: loaded dice or trick deck, mirror, 10 + 1d4! coin (exploding) | Apothecary: empty vials, antitoxin, shears              |
+| 8     | Messenger: traveling papers, lantern, bedroll           | Hedge witch: fetish wd+1, 1 medicinal 5/5, mortar and pestle | Pit-fighter: cudgel, gambeson, net                              | Alchemist: potion brewing kit, ink and quill, antitoxin          | Blacksmith: hammer, metal file, bellows                                | Scholar: ink and quill, blank book, sealing wax         |
+
+Shields and helmets add +1 to armored defense (ad).
+
+| d10 | Armor           | Slots Required |
+| --- | --------------- | -------------- |
+| 1   |                 |                |
+| 2   |                 |                |
+| 3   |                 |                |
+| 4   |                 |                |
+| 5   |                 |                |
+| 6   | shield          | 1              |
+| 7   | shield          | 1              |
+| 8   | helmet          | 1              |
+| 9   | helmet          | 1              |
+| 10  | helmet & shield | 2              |
+
+
+Armor augments armored defense (ad). 
+
+| d00 | Armor                       | Slots Required | Armored Defense Bonus |
+| --- | --------------------------- | -------------- | --------------------- |
+| 01  |                             |                |                       |
+| 02  |                             |                |                       |
+| 03  |                             |                |                       |
+| 04  |                             |                |                       |
+| 05  |                             |                |                       |
+| 06  | gambeson, padding, or cloth | 1              | +1                    |
+| 07  | gambeson, padding, or cloth | 1              | +1                    |
+| 08  | brigandine or lamellar      | 1              | +2                    |
+| 09  | brigandine or lamellar      | 1              | +2                    |
+| 00  | mail                        | 2              | +3                    |
+
+
+Weapons have damage die, tags, and damage types. 
+
+
+| d12 | Weapons             | Slots Required | Damage | Hands    | Tags                                             | Damage Type          |
+| --- | ------------------- | -------------- | ------ | -------- | ------------------------------------------------ | -------------------- |
+| 1   |                     |                |        |          |                                                  |                      |
+| 2   | cudgel              | 1              | d4     | 1h       |                                                  | bludg                |
+| 3   | dagger              | 1              | d4     | 1h       | concealable, subtle, dual-wield, thrown (20/60r) | pierce, slash        |
+| 4   | staff               | 1              | d6     | 1h or 2h | versatile, reach (2h)                            | bludg                |
+| 5   | short sword         | 2              | d6     | 1h or 2h | versatile, parrying                              | pierce, slash        |
+| 6   | hand axe            | 2              | d6     | 1h or 2h | versatile, thrown (20/60r), dual-wield           | slash, bludg         |
+| 7   | spear               | 2              | d6     | 1h or 2h | versatile, thrown (20/60r), reach (2h)           | pierce, bludg        |
+| 8   | bow                 | 2              | d6     | 2h       | 150/600r                                         | pierce               |
+| 9   | sling               | 1              | d6     | 1h       | concealable, 60/240r                             | bludg                |
+| 10  | crossbow            | 2              | d8     | 2h       | loading (1r), 300/1200r                          | pierce               |
+| 11  | mace or flail       | 2              | d6     | 1h or 2h | versatile, crushing, sweeping                    | pierce, bludg        |
+| 12  | pole axe or halberd | 3              | d8     | 2h       | reach, double-edged, shoving                     | pierce, bludg, slash |
 
 
 
-## Gear
-You start with your choice from the following list, up to as many of each thing as you can carry, duplicates allowed. You may also roll d20 until your inventory is full. You do not have to pay for these items:
-
-   1. 3d6 x 10 coins
-   2. [Food and Rations](Inventory.md#Food%20and%20Rations) 5/5 (taking up 1 slot total)
-   3. rope, 50 feet
-   4. torches 3/3 (taking up 1 slot total)
-   5. [shield or helmet](MartialGear.md)
-   6. random (d100) [spell](d100spells.md) 
-   7. random (d6) [armor](MartialGear.md#Armor)
-   8. random (d10) [weapon](MartialGear.md)
-   9. grappling hook
-   10. random (d10) [medicinal](Medicinals.md) 5/5
-   11. tent
-   12. lantern
-   13. chalk 10/10
-   14. pole, 10 feet
-   15. chain, 10 feet
-   16. crowbar
-   17. a wand, orb, or staff with 1 mana die (requires attunement)
-   18. a +1 ward
-   19. candles 10/10
-   20. caltrops 10/10
+| d20 | Adventuring Gear             | Slots Required |
+| --- | ---------------------------- | -------------- |
+| 1   | rations 5/5                  | 1              |
+| 2   | rope 50 feet                 | 1              |
+| 3   | torches 3/3                  | 1              |
+| 4   | grappling hook               | 1              |
+| 5   | tent                         | 1              |
+| 6   | lantern; lantern oil 2/2     | 2              |
+| 7   | chalk 10/10                  | 1              |
+| 8   | pole 10 feet                 | 1              |
+| 9   | chain 10 feet                | 1              |
+| 10  | crowbar                      | 1              |
+| 11  | candles 10/10                | 1              |
+| 12  | caltrops 10/10               | 1              |
+| 13  | grease 10/10                 | 1              |
+| 14  | rope 50 feet; grappling hook | 2              |
+| 15  | net                          | 1              |
+| 16  | shovel                       | 1              |
+| 17  | bucket                       | 1              |
+| 18  | stakes 3/3; mallet           | 2              |
+| 19  | flask                        | 1              |
+| 20  | 3d6 x 10 coins               | 1              |
 
 ## Traits
 

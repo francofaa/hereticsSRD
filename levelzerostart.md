@@ -25,4 +25,4 @@ Upon turning in 100 experience points, you reach level 1. Note that level 2 is s
 
 Determine your new level 1 abilities using the [character creation](charactercreation.md) rules as normal. Based on the funnel adventure, narratively, you may want to increase or decrease certain abilities. 
 
-Add your dex to your hit protection
+Add your strength bonus to your hit protection

@@ -10,7 +10,9 @@ nav_order: 2
 
 ## Premise 
 
-The characters are in a low magic world, secret followers of a heretical religion. 
+The characters are in a low magic world, secret followers of a heretical religion, seekers of forbidden and lost magical artifacts containing living spells. The world is strange and weird, mysterious and beautiful. 
+
+
 
 ## Principles for Players
 

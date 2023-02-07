@@ -18,4 +18,6 @@ The characters are assumed to be human; however, if the referee allows other non
 - **Mimic**: You can imitate any voice you've heard within the last 24 hours
 - **Beast-speaker**: You can speak to and understand animals
 - **Darkvision**: You can see in starlight and moonlight as easily as daylight
-- **Monstrous**: You have an unarmed attack that inflicts 1d6 damage.
+- **Monstrous**: You have an unarmed attack that inflicts 1d6 damage
+- **Smallfolk**: You have advantage on checks to avoid capture or detection
+- **Hardy**: You have advantage on checks against poison

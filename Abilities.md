@@ -21,6 +21,7 @@ Physical, forceful
 
 ### Static
 - **Maximum [Load](Inventory.md#Inventory%20and%20Load)**, equal to strength defense
+- **Hit protection**, equal to strength bonus plus 1d8 x level
 
 ### Actions
 - [Attacks](MartialGear.md#Weapons) that are powerful or obvious 
@@ -43,7 +44,6 @@ Physical, graceful
 
 ### Static 
 - **Armored defense**, equal to dexterity defense plus any armor, or equal to armor only
-- **Hit protection**, equal to dexterity plus 1d8 x level
 - **Maximum ammo**, equal to dexterity defense
 - **Movement**
    - All characters start with 40' of combat movement and 120' of exploration movement. Any penalties to dex reduce movement, 5 feet per bonus point.

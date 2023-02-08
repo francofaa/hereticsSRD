@@ -23,7 +23,7 @@ When a party is in the wilderness (whether entering or already in the wilderness
 	- [Foraging](#Foraging)
 	- [Camping](#Camping)
 	- [Harvesting Monster Parts](#Harvesting%20Monster%20Parts)
-3. [Wilderness Hazard Die](#Wilderness%20Hazard%20Die) 
+3. [Wilderness Hazard Die](#Wilderness%20Hazard%20Die) determines what happens during the watch
 
 ## Weather 
 
@@ -80,7 +80,7 @@ On a failed navigation check, the referee should roll 1d10 in secret.
 
 Characters spend time hunting down an animal. This requires a +int check of DC 15 and spending one half of current [ammo](Ammo). 
 
-Hunting during **inclement weather** increases this DC by 3 (to 18). The character must also make a +str save of DC 15 or suffer 1 point of damage.
+Hunting during **inclement weather** increases this DC by 3. The character must also make a +str save of DC 15 or suffer 1 point of damage.
 
 On a success, yield 1d6 rations and a trophy, if applicable. On a failure, finding the animal once again requires the character to spend another watch (no +int check required) and to spend the remainder of their ammo. Otherwise, the animal is lost.
 
@@ -88,7 +88,7 @@ On a success, yield 1d6 rations and a trophy, if applicable. On a failure, findi
 
 Characters may forage for food, supply, ammo, or components. This requires a +int check. Such a check may also be impossible in certain environments or under certain weather conditions.
 
-Foraging done during **inclement weather** increases this DC by 3 (to 18). The character must also make a  +str save of DC 15 or suffer 1 point of damage.
+Foraging done during **inclement weather** increases this DC by 3. The character must also make a  +str save of DC 15 or suffer 1 point of damage.
 
 #### Food
 
@@ -105,7 +105,7 @@ A successful roll yields 1d4 worth of food. Food is maximum 5 per slot.
 
 #### Supply and Ammo
 
-Foraging for supply or ammo requires a +int check of DC 15. Foraging during **inclement weather** increases this DC by +3 (to 18).
+Foraging for supply or ammo requires a +int check of DC 15. Foraging during **inclement weather** increases this DC by +3.
 
 A character may forage for 1d4 + int [Supply](Inventory#Supply) once per day, up to a number equal to their intelligence defense. Note that supply is not tracked by slot. 
 
@@ -151,7 +151,9 @@ Each component is maximum 5 per slot.
 
 ### Camping 
 
-Camping may require an alert member keeping watch. A safe short rest of one hour restores L x d8 while a long rest of 8 hours (2 watches) in the wilderness with a meal restores 100% HP.
+Camping may require an alert member keeping watch. A safe short rest of one hour restores L x d8 (limited to once per watch) while a long rest of 8 hours (2 watches) in the wilderness with a meal restores 100% HP.
+
+During camping, characters may also perform other tasks besides resting, such as curing game for rations, darning socks, or performing rituals. 
 
 ### Harvesting Monster Parts
 

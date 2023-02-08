@@ -13,13 +13,13 @@ Exploring a dungeon is done in **turns**. Each turn represents about 10 minutes.
 
 When a party is in a dungeon, follow the dungeon turn procedure: 
 
-1. Resolve [Actions](#Actions). 
+1. Characters perform [Actions](#Actions). 
 	- [Searching](#Searching)
 	- [Movement](#Movement)
 	- [Resting](#Resting)
 	- [Harvesting Monster Parts](#Harvesting%20Monster%20Parts)
-2. [Dungeon Hazard Die](#Dungeon%20Hazard%20Die) 
-3. *If the characters decide to head back to safety immediately:* Follow the [Return Journey](#Return%20Journey) procedure.
+	- [Leaving the Dungeon](#Leaving%20the%20Dungeon)
+2. [Dungeon Hazard Die](#Dungeon%20Hazard%20Die) determines what happens during the turn
 
 ## Actions
 The party decides what action to take, like moving, searching, listening, entering a room. 
@@ -56,6 +56,26 @@ Resting for 1 hour in the dungeon heals 1d8 + str bonus. Resting for 8 hours is 
 
 Monster parts may also be used to craft items, in coordination with the referee and may require appropriate checks. Intelligence check against a DC equal to 10 + monster HD may be appropriate for harvesting. Harvesting requires knowledge and care when extracting things like venoms, horns, teeth, digestive acids, and so on. 
 
+### Leaving the Dungeon 
+
+Sometimes there is insufficient time to escape a dungeon to a safe location during a session. When it is necessary that a party be back in a safe place or back at a camp, as may be during an open table campaign, the characters may roll to return to a safe camp. 
+
+> N.B. This is should only be used if the players do not have time or do not wish to play out their escape from the dungeon.
+
+The referee determines whether this is a **dangerous** or **arduous** journey. Players use their best skill to roll, describing how it helps their escape.
+
+DC = 10 + hour of travel + number of rooms from the exit of the dungeon, maximum of DC 20
+
+On a success, the characters return to camp. 
+
+On a failure, the characters pay a cost: 
+
+- Dangerous: 1d6 damage is inflicted for every 1 under the DC
+- Arduous: lose 1 item per 1 under the DC
+
+If a character is reduced to 0 flesh, they **die** or are left unconscious, suffering all of the effects of being reduced to 0. The referee picks what is dropped, starting with less valuable and less secure items, and working up to weapons, armor, spells, and magical items.
+
+
 
 ## Dungeon Hazard Die
 
@@ -86,23 +106,4 @@ If another creature is encountered, determine their disposition, unless it is al
 | 11-12 | Friendly     |
 
 Encounters may result in [combat](combatround).
-
-## Return Journey 
-
-Sometimes there is insufficient time to escape a dungeon to a safe location during a session. When it is necessary that a party be back in a safe place or back at a camp, as may be during an open table campaign, the characters may roll to return to a safe camp. 
-
-> N.B. This is should only be used if the players do not have time or do not wish to play out their escape from the dungeon.
-
-The referee determines whether this is a **dangerous** or **arduous** journey. Players use their best skill to roll, describing how it helps their escape.
-
-DC = 10 + hour of travel + number of rooms from the exit of the dungeon, maximum of DC 20
-
-On a success, the characters return to camp. 
-
-On a failure, the characters pay a cost: 
-
-- Dangerous: 1d6 damage is inflicted for every 1 under the DC
-- Arduous: lose 1 item per 1 under the DC
-
-If a character is reduced to 0 flesh, they **die** or are left unconscious, suffering all of the effects of being reduced to 0. The referee picks what is dropped, starting with less valuable and less secure items, and working up to weapons, armor, spells, and magical items.
 

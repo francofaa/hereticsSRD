@@ -14,19 +14,20 @@ Resolving downtime is done in **cycles**. Cycles can represent anywhere from a w
 When the party is doing downtime, follow the downtime cycle procedure: 
 
 1. Determine [Settlement Resources](#Settlement%20Resources)
-2. Resolve [Bookkeeping](#Bookkeeping) (rest and upkeep).
-3. Determine [Rumors](#Rumors)
-4. [Downtime Hazard Die](#Downtime%20Hazard%20Die) 
-5. Resolve [Free Actions](#Free%20Actions)
-6. Resolve [Actions](#Actions)
+2. Characters [Rest and Upkeep](#Rest%20and%20Upkeep)
+3. [Downtime Hazard Die](#Downtime%20Hazard%20Die) determines what major events happen during the cycle
+4. Characters perform [Free Actions](#Free%20Actions)
+	1. [Recruiting](#Recruiting)
+	2. [Conspicuous Consumption](#Conspicuous%20Consumption)
+	3. [Rumors](#Rumors)
+5. Characters perform [Actions](#Actions)
 	- [Magical Research](#Magical%20Research)
 	- [Robberies and Heists](#Robberies%20and%20Heists)
 	- [Brewing and Crafting](#Brewing%20and%20Crafting)
 	- [Learning a Trade](#Learning%20a%20Trade)
 	- [Training Knacks](#Training%20Knacks)
 	- [Animal Training](#Animal%20Training)
-7. Resolve [Conspicuous Consumption](#Conspicuous%20Consumption) to convert coin to experience points
-8. Resolve [Faction Activities](#Faction%20Activities). Party and referee decide whether another downtime cycle is needed. 
+6. Resolve [Faction Activities](#Faction%20Activities).  
 
 ## Settlement Resources
 
@@ -45,7 +46,7 @@ To use the table, identify the type of settlement the party is at and roll the d
 
 For example, a town has 1d8 helpers, 1d8 experts, 1d8 x 10 mercenaries, 2d8 hireable retainers (of 1d4 HD each), and a coin spending ceiling of 1d8 x 300.
 
-## Bookkeeping
+## Rest and Upkeep
 
 At the beginning of the downtime cycle, all characters should 
 
@@ -64,9 +65,6 @@ The long rest should not fully restore lingering injuries, except in cases where
 
 Upkeep includes room and board, but also things like keeping your armor and weaponry clean, mending your socks, and feeding your horses. Lifestyle tags may impact certain interactions in the fiction of the downtime cycle.
 
-## Rumors
-
-The party hears a random rumor. The referee should have prepared a rumors table ahead of time. Otherwise, nothing happens.
 
 ## Downtime Hazard Die
 
@@ -126,6 +124,8 @@ Each character may take free actions, limited mostly to
 - shopping, 
 - throwing and attending funerals, 
 - throwing and attending parties,
+- looking for rumors,
+- conspicuous consumption, 
 - and making social calls. 
  
 Anything more involved requires a full action. For example, tracking down a specialty item or making a social call on a powerful figure would be an action whereas shopping for ball bearings or having tea with your best friend would be free actions.
@@ -135,6 +135,26 @@ Anything more involved requires a full action. For example, tracking down a spec
 Player characters may hire any number of goons they can afford. [[Goons]] can be paid by the day (hirelings) or for a share of treasure (retainers). Retainers are limited to the employer's +wil bonus.
 
 
+## Rumors
+
+The party hears a random rumor. The referee should have prepared a rumors table ahead of time. Otherwise, nothing happens.
+
+### Conspicuous Consumption
+
+During the downtime cycle, characters may convert their coins to experience points. They may only convert coins gained while adventuring or committing crimes. Coins found or earned through honest work cannot be used for this purpose. 
+
+Player characters must spend their loot by wasting it on special interests. Refer to an example set of special interests below.
+
+1. **Carousing**, partying, gambling.
+2. **Commissioning** songs, statues, paintings.
+3. **Donating** to philanthropic causes, the poor, the hungry.
+4. **Sponsoring** races, duels, masques, festivals, parades, triumphs, jousts, spectacles.
+
+Optionally, characters can be rewarded / punished for spending their coins on certain special interests. At the beginning of the game, they can roll or choose their strong interest and weak interest, and apply a bonus and penalty to each, respectively.
+
+For example:
+- Strong: Donating (120%)
+- Weak: Sponsoring (80%)
 
 
 
@@ -273,22 +293,7 @@ The injuries feeble, shaky, addled, and weak (referenced in [convalescing](Damag
 
 For example, a level 4 character rolls 4d6, resulting in a 3, 3, 5, and 6. The lowest number is 3, so the character's ability is restored after 3 downtime cycles.
 
-## Conspicuous Consumption
 
-During the downtime cycle, characters may convert their coins to experience points. They may only convert coins gained while adventuring or committing crimes. Coins found or earned through honest work cannot be used for this purpose. 
-
-Player characters must spend their loot by wasting it on special interests. Refer to an example set of special interests below.
-
-1. **Carousing**, partying, gambling.
-2. **Commissioning** songs, statues, paintings.
-3. **Donating** to philanthropic causes, the poor, the hungry.
-4. **Sponsoring** races, duels, masques, festivals, parades, triumphs, jousts, spectacles.
-
-Optionally, characters can be rewarded / punished for spending their coins on certain special interests. At the beginning of the game, they can roll or choose their strong interest and weak interest, and apply a bonus and penalty to each, respectively.
-
-For example:
-- Strong: Donating (120%)
-- Weak: Sponsoring (80%)
 
 ## Faction Activities
 

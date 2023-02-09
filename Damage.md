@@ -79,7 +79,7 @@ When a character dies, write down their fate on the back of the character sheet.
 
 ### Convalescing
 
-The injuries feeble, shaky, addled, and weak are removed after a number of [downtime cycles](downtimecycle.md#Convalescing) equal to the lowest result of Ld6. For example, a level 4 character rolls 4d6, resulting in a 3, 3, 5, and 6. The lowest number is 3, so the character's ability is restored after 3 downtime cycles.
+The injuries feeble, shaky, addled, and weak are removed after a number of [downtime cycles](downtimecycle#Convalescing) equal to the lowest result of Ld6. For example, a level 4 character rolls 4d6, resulting in a 3, 3, 5, and 6. The lowest number is 3, so the character's ability is restored after 3 downtime cycles.
 
 
 ## Resting

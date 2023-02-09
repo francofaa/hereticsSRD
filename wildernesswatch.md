@@ -78,7 +78,7 @@ On a failed navigation check, the referee should roll 1d10 in secret.
 
 ### Hunting
 
-Characters spend time hunting down an animal. This requires a +int check of DC 15 and spending one half of current [ammo](Ammo). 
+Characters spend time hunting down an animal. This requires a +int check of DC 15 and spending one half of current [ammo](Inventory#Ammo). 
 
 Hunting during **inclement weather** increases this DC by 3. The character must also make a +str save of DC 15 or suffer 1 point of damage.
 
@@ -109,7 +109,7 @@ Foraging for supply or ammo requires a +int check of DC 15. Foraging during **in
 
 A character may forage for 1d4 + int [Supply](Inventory#Supply) once per day, up to a number equal to their intelligence defense. Note that supply is not tracked by slot. 
 
-A character may forage for 1d4 +dex [Supply](Inventory#Supply) once per day, up to a number equal to their dexterity defense. Note that ammo is not tracked by slot. 
+A character may forage for 1d4 +dex [Ammo](Inventory#Ammo) once per day, up to a number equal to their dexterity defense. Note that ammo is not tracked by slot. 
 
 #### Components 
 

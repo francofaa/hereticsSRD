@@ -8,13 +8,13 @@ tags: index
 
 ![Heretics cover image](heretics.png)
 
-Version 0.3.2 (initial play testing materials)
+Version 0.3.3 (initial play testing materials)
 
 Franco A. Alvarado
 
 ## Compatibility 
 
-These rules are intended to be compatible with adventures designed for games like those listed above. B/X modules or modules written to be B/X compatible should work as well. If that is not the case, let me know!
+These rules are intended to be compatible with adventures designed for games like those listed below. B/X modules or modules written to be B/X compatible should work as well. If that is not the case, let me know!
 
 ## Ludography
 

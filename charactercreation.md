@@ -87,12 +87,12 @@ Refer to [Damage](Damage) for more on hit protection.
 Roll 1d4, 1d6, 1d8, 2d10 (10's and 1's places), 1d12, and 1d20 or choose from the lists below to determine the gear for your character. Optionally, make up your own.
 
 
-| d4  | Magical Gear          | Requirement |
-| --- | --------------------- | ----------- |
-| 1   |                       |             |
-| 2   | 1 medicinal 5/5 (d10) |             |
-| 3   | 1 wd+1 ward           | +1 int      |
-| 4   | 1 spell (d100)        |             |
+| d4  | Magical Gear                          | Requirement     |
+| --- | ------------------------------------- | --------------- |
+| 1   |                                       |                 |
+| 2   | 1 medicinal 5/5 (d10)                 | 1 slot          |
+| 3   | 1 wd+1 ward                           | +1 int, 1 slot  |
+| 4   | 1 spell (d100) & 1 focus (1 mana die) | +1 int, 2 slots |
 
 Roll 1d8 and 1d6 and cross reference the numbers to find your background. Roll the two dice again to get your second background. You get all the gear from each background. Each piece of gear takes up one slot.
 

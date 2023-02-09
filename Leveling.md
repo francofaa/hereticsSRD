@@ -24,7 +24,7 @@ Characters level up to 10. The following table describes the total XP needed at 
 | 9     | 256,000  |
 | 10    | 512,000  |
 
-1. You receive 2 improvement points to spend. These improvement points can be used to either increase 2 abilities by 1 point each. Improvements spent in this way increase both the bonus and defense of an ability. Abilities cannot be increased beyond +10/20 def.
+1. You receive 2 improvement points to spend. These improvement points can be used to increase 2 abilities by 1 point each. Improvements spent in this way increase both the bonus and defense of an ability. Abilities cannot be increased beyond +10/20 def.
 2. Hit protection: Roll a number of d8s equal to your new level. If the value is higher than your maximum HP, this is your new HP. If it is lower or equal, increase HP by 1. Add your strength bonus.
 
 > Refer to [Knacks](Knacks) for other ways to advance.
@@ -48,12 +48,7 @@ Experience may also be rewarded by the referee for
 
 Experience is not recommended as a reward for "good role-playing" since this may put some players at a disadvantage if they are not comfortable speaking in-character. 
 
-## Retirement
-g Experience Points
-
-Primarily, experience points are exchanged for coins looted, stolen, or otherwise earned from adventuring (as opposed to found coins and coins earned from honest labor).
-
-These exchanges take place during [downtime cycles](downtimecycle).
+Primarily, experience points are exchanged for coins looted, stolen, or otherwise earned from adventuring (as opposed to found coins and coins earned from honest labor). These exchanges take place during [downtime cycles](downtimecycle).
 
 ### Other Sources of Experience Points
 

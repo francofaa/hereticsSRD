@@ -10,16 +10,16 @@ Note that weapons of different materials (silver, gold, obsidian) are not magica
 
 - Blink blade: As a free action, this weapon can be summoned into your hand. 
 - Resonance blade: Every attack makes a ringing sound audible for 25'. On a successful hit with this weapon, the target must make a +str save vs str def or be pushed 10' away or knocked prone, wielder's choice. Alternatively, a creature 5' away from the target may be hit with the sound wave and suffer 1d4 thunder damage.
-- Stone dagger: +1 to attack. Creature that is stuck with this is turned to the stone. Removing dagger instantly brings them back to life. Embedding the dagger into a creature requires a +int or +dex attack.
+- Stone dagger: +1 to attack. Creature that is struck with this is turned to the stone. Removing dagger instantly brings them back to life. Embedding the dagger into a creature requires a +int or +dex attack.
 - Heartseeker bow: +1 to attack.
 - Heartseeker arrows: 5/5. A magical glass-tipped arrow that drains blood from a creature on a hit from the Heartseeker bow. A command word can be used to drain the blood from the glass tip and restore 1d8 flesh or grit.
 - Night Blade. +3 to attack. It can only be drawn at night. 
 - Shifting Weapon. This weapon can change form. The two forms are determined with the referee and can be changed as a free action. 
 - Dead Eye Bow. When you hit with this weapon, you may make a second attack with the same weapon at advantage. You may use this ability 3 times, recharging at dawn.
-- Bonecrusher. +1 warhammer. With this weapon, your critical range expands by 1 on each side. For example, if you have a knack that grants critical hits on a 19, you also get critical hits on an 18, but you also critically fail on a 2. On a critical hit, this weapon does an additional 2d12 damage. On a critical miss, this weapon is embedded in a surface and requires an action to remove.
+- Bonecrusher. +1 warhammer. With this weapon, your critical range expands by 1 on each side. This means you critically succeed on a 20 and 19 and critically fail on a 1 and 2. Additionally, if your critical range is already expanded (like if you have a knack that grants critical hits on a 19), you also get critical hits on an 18, but you also critically fail on a 2. On a critical hit, this weapon does an additional 2d12 damage. On a critical miss, this weapon is embedded in a surface and requires an action to remove.
 - Elemental weapon. Inflicts an additional 2d6 damage on a hit of the element. May have an additional environmental effect depending on the element type. 
 - Elemental resistance armor. Armor that grants resistance to a particular element type. 
-- Binder of the Dead. Deals an additional 1d12 necrotic damage. When you hit a spectral creature or a creature that is not yet dead, you absorb a part of their soul. If the hit would kill a living creature or destroy an undead spectral creature, your blade absorbs their soul. 
+- Binder of the Dead. Deals an additional 1d12 necrotic damage. When you hit a spectral creature or a creature that is not yet dead, you absorb a part of their soul. If the hit would kill a living creature or destroy an undead spectral creature, your blade absorbs their soul. They speak to you at night.
 
 ## Magic Focuses 
 You may only wield one of these at a time. 
@@ -99,3 +99,58 @@ Refer to Errants
 https://throneofsalt.blogspot.com/2019/11/ten-magical-items.html
 
 https://goblinarchives.github.io/LiminalHorror/Liminal%20Horror%20System/Relics/
+
+
+
+
+Artifact Ideas
+
+a golden quiver
+
+the crossbar of a rusted through ship's anchor
+
+a golden artifact a crossbar, encircled
+
+a bell made of bone
+
+coins covered in blood that cannot be cleaned
+
+a mysteriously cold rune stone
+
+a rusty scalpel
+
+a tuning fork of pure silver
+
+the feather of a dead angel
+
+a coal from the pyre of a burned innocent
+
+bracelet of teeth
+
+ring with a void-black gemstone
+
+mirror that cracks and reseals
+
+a pair of mirrors
+
+mesh of strings
+
+mummified head of a prophet
+
+a pair of matching rings
+
+a seashell
+
+the skull of a man executed for a crime he did not commit
+
+tongue of the false prophet
+
+golden idol
+
+the first husk of the larval stage of the 1,000 year salt worm
+
+a tuning fork
+
+a horn adorned with brass and bone
+
+a spool of spiderweb

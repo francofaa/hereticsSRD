@@ -20,14 +20,14 @@ Physical, forceful
 *Power, heartiness, physicality, endurance*
 
 ### Static
-- **Maximum [Load](Inventory.md#Inventory%20and%20Load)**, equal to strength defense
+- **Maximum [Load](Inventory#Inventory%20and%20Load)**, equal to strength defense
 - **Hit protection**, equal to strength bonus plus 1d8 x level
 
 ### Actions
-- [Attacks](MartialGear.md#Weapons) that are powerful or obvious 
+- [Attacks](MartialGear#Weapons) that are powerful or obvious 
 - Feats of strength
 - Brawling
-- Recovery during [short rests](Damage.md#Resting)
+- Recovery during [short rests](Damage#Resting)
 - Shoving
 
 ### Saves
@@ -59,7 +59,7 @@ Armored defense represents your ability to avoid damage via reflexes, dodging, o
    - Doing a backflip
    - Trip
    - Disarm
-   - Taking something out of [deep inventory](Inventory.md#Quick%20Slots%20and%20Deep%20Slots) during combat
+   - Taking something out of [deep inventory](Inventory#Quick%20Slots%20and%20Deep%20Slots) during combat
 
 ### Saves
 - Escaping

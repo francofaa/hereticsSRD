@@ -9,7 +9,7 @@ nav_order: 4
 {% include toc.html %}
 
 # Medicinals
-Components can be foraged and combined into medicinals during [foraging](wildernesswatch.md#Foraging).
+Components can be foraged and combined into medicinals during [foraging](wildernesswatch#Foraging).
 
 ## Crafting 
 

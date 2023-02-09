@@ -27,7 +27,7 @@ When the party is doing downtime, follow the downtime cycle procedure:
 	- [Learning a Trade](#Learning%20a%20Trade)
 	- [Training Knacks](#Training%20Knacks)
 	- [Animal Training](#Animal%20Training)
-6. Resolve [Faction Activities](#Faction%20Activities).  
+6. Resolve [Faction Activities](#Faction%20Activities)
 
 ## Settlement Resources
 
@@ -225,7 +225,7 @@ Inventing potions is dangerous. When working to invent a potion, spend 1,000 coi
 
 Learning a certain trade from an instructor costs time, training, and coin. 
 
-Choose a [background](charactercreation.md#4.%20Background%20Starting%20Gear) trade or make up a background with the referee. The player and referee should agree to what abilities the character will receive upon the various stages of training.
+Choose a [background](charactercreation#4.%20Background%20Starting%20Gear) trade or make up a background with the referee. The player and referee should agree to what abilities the character will receive upon the various stages of training.
 
 The character rolls 1d20 + a relevant ability and compares the result to the table below. The character may attempt 1 training session per downtime cycle.
 

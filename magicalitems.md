@@ -17,18 +17,18 @@ Magical items require attunement. Attuning requires 1 uninterrupted hour of cont
 - **Focuses:** Wands, rods, staffs used to improve spell-casting. These always require attunement. You may only wield one of these at a time. 
 - **Objects of Power:** Items with magical effects. These always require attunement. 
 - **Wards:** Wards with protective magical abilities. These always require attunement.
-- **Spells:** Artifacts, relics, spellbooks, and other objects that can be used to cast spells. Spells never require attunement.
+- **Spells:** Written or carved into objects like books, monographs, runestones, tablets, and so on. Spells never require attunement. The object is required to be carried or the spell diagrams written somewhere. Each spell takes up an inventory slot, even if multiple spells are inscribed into a single object.
 
 ## Attunement
 
 Characters may carry any number of magical items but may only be attuned to a number of magical items equal to their intelligence bonus. Attuning takes 1 hour and must be done during a period of rest. 
 
-Magical items that have ongoing effects require attunement, while most spells (represented by items like spellbooks, tablets, idols, scrolls, runestones etc) do not. 
+Magical items that have ongoing effects require attunement, while spells (represented by items like spellbooks, tablets, idols, scrolls, runestones etc) do not.
 
 Wards also fall under this category and must be attuned to. Wards may be fetishes, bracelets, necklaces, rings, or other such items that provide a bonus to a character's magical defense stat. 
 
 ## Spells
-Spells are cast from items, thereby removing the need for tracking separate spell slots. Spells take up item slots and must be used with two hands when cast, unless wielding a focus in another hand. Spells do not require attunement.
+Spells are cast from written words and diagrams, thereby removing the need for tracking separate spell slots. Spells take up item slots and must be used with two hands when cast, unless wielding a focus in another hand. Spells do not require attunement.
 
 ## Wards
 Wards augment Warded defense. Starting wards are very simple, likely made by the character, local religious figures, wise folks, or stumbled upon. 
@@ -46,3 +46,8 @@ Wards can be broken to nullify the effects of a spell on the wielder (and only t
 ## Focuses
 
 Magical focuses, such as orbs, wands, or staves, may grant special powers. Generally, a focus could grant a number of non-renewable mana dice per day (that is, mana dice that do not return to your pool regardless of the result). Focuses can also make casting [Wild Magic](spellcasting#Wild%20Magic) safer. Casting a specific effect using wild magic and a focus may result in that new magical effect inhabiting the focus and becoming a spell. The player and referee may work together to create a new spell. 
+
+- pearlescent orb 2 md at, 2,000 coins
+- ruby wand 3 md at, 6,000 coins
+- yew staff 1 md at, 1,000 coins
+- ash staff 1 md at, 1,000 coins

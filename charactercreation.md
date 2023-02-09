@@ -22,9 +22,9 @@ When a player is creating a character, follow the character creation procedure t
 These steps are described in more detail below. 
 
 For character sheets:
-- Short version (4 to a page): [heretics_playerSheets_0-1-4-to-page.pdf](heretics_playerSheets_0-1-4-to-page.pdf)
-- Long version (1 to a page): [heretics_playerSheets_0-1-single-page.pdf](heretics_playerSheets_0-1-single-page.pdf)
+- Printable gridded PDF: [heretics_playerSheets_0-1-single-page-grids.pdf](heretics_playerSheets_0-1-single-page-grids.pdf)
 - Google Spreadsheet (make a copy): [Sheets Link](https://docs.google.com/spreadsheets/d/19pv8S7_A3jCTb1wBprDFFxTAvuviTkqlpf4fHKd4JQE/edit#gid=0)
+- Loose leaf paper should also suffice, there's not a ton of stuff to write down
 
 > There are also alternative [level zero start](levelzerostart) procedures.
 

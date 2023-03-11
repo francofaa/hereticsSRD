@@ -8,7 +8,7 @@ tags: index
 
 ![Heretics cover image](heretics.png)
 
-Version 0.3.3 (initial play testing materials)
+Version 0.4 (initial play testing materials)
 
 Franco A. Alvarado
 
@@ -44,6 +44,10 @@ These rules are intended to be compatible with adventures designed for games lik
 - [Prismatic Wasteland](https://prismaticwasteland.com/)
 - [Traverse Fantasy](https://traversefantasy.blogspot.com/)
 - [DIY & Dragons](https://diyanddragons.blogspot.com/)
+- [Gus L.](https://alldeadgenerations.blogspot.com/)
+- [Telecanter](https://recedingrules.blogspot.com/)
+- [Dungeonfruit](https://dungeonfruit.blogspot.com/)
+- [Skerples](https://coinsandscrolls.blogspot.com)
 
 
 

@@ -39,17 +39,19 @@ Character abilities are
 
 All ability bonuses start at 0. Add 10 to get that ability's defense. For example, a strength bonus of +2 is a strength defense of 12. 
 
-Roll 1d4 three times. Each time, add +1 to an ability according to its order above. 1=Strength, 2=Dexterity, 3=Willpower, 4=Intelligence. Then roll 1d4 once. Subtract 1 from the ability that is rolled. You may then swap 2 ability bonus scores.
+Roll 1d4 four times. Each time, add +1 to an ability according to its order above. 1=Strength, 2=Dexterity, 3=Willpower, 4=Intelligence. Then roll 1d4 once. Subtract 1 from the ability that is rolled. You may then swap 2 ability bonus scores.
 
-For example: The first d4 lands on a 4, so Intelligence is increased by 1. The second lands on a 3, so Willpower increases by 1. The third lands on 4 again, so Intelligence is increased by 1. The last lands on 1, so Strength is *decreased* by 1. The array ends with Strength=-1, Dexterity=0, Willpower=1, Intelligence=2.
+For example: The first d4 lands on a 4, so Intelligence is increased by 1. The second lands on a 3, so Willpower increases by 1. The third lands on 4 again, so Intelligence is increased by 1. The fourth lands on 3, so Willpower increases by 1. The last lands on 1, so Strength is *decreased* by 1. The array ends with Strength=-1, Dexterity=0, Willpower=2, Intelligence=2.
 
 Possible starting arrays, not taking into account position of abilities, are as follows.
 
-1. 3, 0, 0, -1
-3. 2, 1, 0, -1
-4. 2, 0, 0, 0
-5. 1, 1, 0, 0
-6. 1, 1, 1, -1
+1. 4, 0, 0, -1
+2. 3, 1, 0, -1 
+3. 3, 0, 0, 0
+4. 2, 2, 0, -1
+5. 2, 1, 0, 0
+6. 2, 1, 1, -1
+7. 1, 1, 1, 0
 
 
 Refer to [Abilities](Abilities) for more information.
@@ -68,7 +70,6 @@ Your secondary abilities are derived as follows:
 	- Maximum retainers = bonus score
 	- Warded defense = defense score, plus any wards
 - From Intelligence
-	- Maximum attuned items = bonus score
 	- Maximum supply = defense score (start with all of your supply)
 
 
@@ -90,11 +91,11 @@ Roll 1d4, 1d6, 1d8, 2d10 (10's and 1's places), 1d12, and 1d20 or choose from th
 | d4  | Magical Gear                          | Requirement     |
 | --- | ------------------------------------- | --------------- |
 | 1   |                                       |                 |
-| 2   | 1 medicinal 5/5 (d10)                 | 1 slot          |
-| 3   | 1 wd+1 ward                           | +1 int, 1 slot  |
-| 4   | 1 spell (d100) & 1 focus (1 mana die) | +1 int, 2 slots |
+| 2   | 1 [medicinal](Medicinals) 5/5 (d10)                 | 1 slot          |
+| 3   | 1 wd+1 [ward](magicalitems#Wards)                           | +1 int, 1 slot  |
+| 4   | 1 [spell](d100spells) (d100) & 1 [focus](magicalitems#Focuses) (1 mana die) | +1 int, 2 slots |
 
-Roll 1d8 and 1d6 and cross reference the numbers to find your background. Roll the two dice again to get your second background. You get all the gear from each background. Each piece of gear takes up one slot.
+Roll 1d8 and 1d6 and cross reference the numbers to find your background. You get all the gear from your background. Each piece of gear takes up one slot.
 
 You start with 1 background which also informs what you start with on your person. These are failed professions that you endeavored before becoming an adventurer, so treat them as such. 
 
@@ -106,14 +107,14 @@ Actions performed using skills or tools relevant to a character's background may
 | ----- | ------------------------------------------------------- | ------------------------------------------------------------ | --------------------------------------------------------------- | ---------------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------- |
 | 1     | Miner: pickaxe, lantern, 50 feet of rope                | Monastic: ink and quill, mini barrel of ale, prayer book     | Farmer: scythe, eggs and bread (5/5 rations), thick gloves      | Gravedigger: shovel, lantern, bucket                             | Executioner: great axe, hood, manacles                                 | Carpenter: hammer, handsaw, bag of nails                |
 | 2     | Bandit: dagger, 50 feet of rope, mask                   | Beekeeper: jar of honey, smoke bomb, net                     | Clergy: holy symbol, censor, prayer book                        | Trash collector: 10 foot pole with hook, lantern, bucket         | Barber-surgeon: scissors, handsaw, bandages                            | Minstrel: musical instrument, perfume, disguise kit     |
-| 3     | Lumberjack: hand axe, rope, firewood                    | Shepherd: 10 foot pole, whistle, sling 1d4 20/40             | Mercenary: short sword, shield, 3d8 coins (in foreign currency) | Fence: false documents, sealing wax, metal file                  | Burglar: grappling hook, 50 feet of rope, lockpicking tools            | Brewer: barrel of ale, jar of yeast, empty growler      |
+| 3     | Lumberjack: hand axe, rope, firewood                    | Shepherd: 10 foot pole, whistle, sling 1d4 20/40             | Mercenary: short sword, shield, 3d8 coins (in foreign currency) | Fence: false documents, sealing wax, metal file                  | Burglar: grappling hook, 50 feet of rope, lockpicking tools            | Brewer: mini-keg of ale, jar of yeast, empty growler      |
 | 4     | Hunter: bow, quiver of arrows, tent                     | Fisher: fishing rod, net, spear                              | Bureaucrat: ink and quill, official stamp (stolen), sealing wax | Smuggler: disguise kit, false documents, 10 foot pole            | Diviner: divining cards or bones, tea leaves, telescope                | Baker: rolling pin, bread 5/5 rations, bag of flour     |
 | 5     | Hermit: 1 random medicinal 5/5, staff, 2 stakes         | Jester: Scepter, motley garb, cudgel                         | Puppeteer: puppet, spool of string 250', hammer                 | Candlemaker: candles 20/20, beeswax, spool of string (wick) 250' | Sailor: Spyglass, short sword, net                                     | Scribe: Lamp oil, quill and ink, 50 sheafs of parchment |
 | 6     | Scavenger: scrap metal, 10 foot pole, lantern           | Surveyor: rope, compass, ink and quill                       | Debt collector: disguise kit, mace, manacles                    | Counterfeiter: false documents, ink and quill, sealing wax       | Street Performer: juggling items, disguise kit, 50 feet of rope        | Guard: shield, half plate, spear                        |
 | 7     | Trader: valuable trinket, ink and quill, 2d6 x 10 coins | Tinker: grease, fine tools, scrap metal                      | Bounty-hunter: quiver of bolts, crossbow, dagger                | Cut-purse: dagger, disguise kit, ball bearings                   | Gambler: loaded dice or trick deck, mirror, 10 + 1d4! coin (exploding) | Apothecary: empty vials, antitoxin, shears              |
 | 8     | Messenger: traveling papers, lantern, bedroll           | Hedge witch: fetish wd+1, 1 medicinal 5/5, mortar and pestle | Pit-fighter: cudgel, gambeson, net                              | Alchemist: potion brewing kit, ink and quill, antitoxin          | Blacksmith: hammer, metal file, bellows                                | Scholar: ink and quill, blank book, sealing wax         |
 
-Shields and helmets add +1 to armored defense (ad).
+[Shields and helmets](MartialGear#Armor) add +1 to armored defense (ad).
 
 | d10 | Armor           | Slots Required |
 | --- | --------------- | -------------- |
@@ -129,23 +130,23 @@ Shields and helmets add +1 to armored defense (ad).
 | 10  | helmet & shield | 2              |
 
 
-Armor augments armored defense (ad). 
+[Armor](MartialGear#Armor) augments armored defense (ad). 
 
 | d00 | Armor                       | Slots Required | Armored Defense Bonus |
 | --- | --------------------------- | -------------- | --------------------- |
-| 01  |                             |                |                       |
-| 02  |                             |                |                       |
-| 03  |                             |                |                       |
-| 04  |                             |                |                       |
-| 05  |                             |                |                       |
-| 06  | gambeson, padding, or cloth | 1              | +1                    |
-| 07  | gambeson, padding, or cloth | 1              | +1                    |
-| 08  | brigandine or lamellar      | 1              | +2                    |
-| 09  | brigandine or lamellar      | 1              | +2                    |
+| 10  |                             |                |                       |
+| 20  |                             |                |                       |
+| 30  |                             |                |                       |
+| 40  |                             |                |                       |
+| 50  |                             |                |                       |
+| 60  | gambeson, padding, or cloth | 1              | +1                    |
+| 70  | gambeson, padding, or cloth | 1              | +1                    |
+| 80  | brigandine or lamellar      | 1              | +2                    |
+| 90  | brigandine or lamellar      | 1              | +2                    |
 | 00  | mail                        | 2              | +3                    |
 
 
-Weapons have damage die, tags, and damage types. 
+[Weapons](MartialGear#Weapons) have damage die, tags, and damage types. 
 
 
 | d12 | Weapons             | Slots Required | Damage | Hands    | Tags                                             | Damage Type          |
@@ -192,12 +193,13 @@ Weapons have damage die, tags, and damage types.
 
 Roll 1d4, 1d6, 1d8, 2d10 (10's and 1's places), 1d12, and 1d20 or choose from the lists below to determine the character traits and relationships for your character. Optionally, make up your own.
 
-| d4  | Age                    |
-| --- | ---------------------- |
-| 1   | Unusually young or old |
-| 2   | Young adult            |
-| 3   | Mature prime           |
-| 4   | Middle-aged or elderly |
+| d4  | Age                 |
+| --- | ------------------- |
+| 1   | Teenaged or elderly |
+| 2   | Young adult         |
+| 3   | Mature prime        |
+| 4   | Middle-aged         |
+
 
 | d6 | Clothes     |
 | --- | ----------- |
@@ -293,7 +295,7 @@ Choose or roll on a naming table. For the Isurholm setting, there is a [names ta
 
 ## Languages
 
-Player characters start with as many common languages as they like as long as they are reasonable to have, with at least one designated as a mother tongue. Indicate speaker proficiency.
+Player characters start with as many **common languages** as they like as long as they are reasonable to have, with at least one designated as a mother tongue. Indicate speaker proficiency.
 
 1. native or bilingual
 2. conversational (paragraph level, unique language generation, tenses)
@@ -302,9 +304,15 @@ Player characters start with as many common languages as they like as long as th
 
 Languages are not determined by species but by origin. There is no "common" language. It should be determined by the referee what is the most commonly spoken language of a particular region. 
 
-Every initial +1 to intelligence can be spent on an uncommon language: 
+Every initial +1 to intelligence can be spent on an **uncommon language**. 
+
+### Common languages
+
 - Distant: Languages of people that do not live here
 - Trade: Pidgins and cants inherent to certain trades
+
+### Uncommon languages:
+
 - Ancient: Old versions of the same languages
 - Monster (costs 2): Languages of anything but humans and humanoid species, such as fey languages, merrow languages, goblin languages, and so on. The language should be assumed to be a language of that particular region. For example, a merrow living 1,000 miles away probably does not speak the same language as the merrows who taught you. In fact, if deemed appropriate by the referee, a merrow living downstream may speak a completely different language as well.
 - Otherworldly (costs 3): Languages of creatures outside of this world

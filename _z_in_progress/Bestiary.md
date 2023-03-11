@@ -1,12 +1,27 @@
 # Monster Math
 
+
+![Taxonomy of Monster Design and strategy](20230121.md#Taxonomy%20of%20Monster%20Design%20and%20strategy)
+
+![Monster encounters](20230121.md#Monster%20encounters)
+
+Grab other stuff from 5td, like tactics and group types and special technique types 
+
+figure out a good method for determining AC (probably should be based on attacker type)
+
+
 https://docs.google.com/spreadsheets/d/1MekTqqqRNgt_7ApxQHFmfBVvTP048Ro0c_wzEBX4ovc/edit#gid=694023109
 
 
+https://www.reddit.com/r/osr/comments/vqixuk/osr_monster_average_stats_by_level/
 
 
+https://oldschoolessentials.necroticgnome.com/srd/index.php/Combat_Tables#Monster_Saving_Throws
+
+https://www.drivethrurpg.com/product/148012/LotFP-Referee-Book-old-Grindhouse-Edition
 
 
+CREATURE CHART IN WWN
 
 
 
@@ -38,6 +53,8 @@ https://docs.google.com/spreadsheets/d/1MekTqqqRNgt_7ApxQHFmfBVvTP048Ro0c_wzEBX4
 | 21  | 14     | 13d8    | 16          | 8         | 10        |
 
 Monsters don't attack with their stats. They defend with their stats when they have to make saves. Their saves are 10 + to hit stat.
+
+
 
 - Brute
    - Strong: STR, AD, MD, morale, resistance, holding the line

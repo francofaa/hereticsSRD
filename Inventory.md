@@ -36,7 +36,6 @@ md+*n*: This indicates a bonus to warded defense stat.
 
 *x*/*n*r: This indicates the range for an item in feet. The first number is the distance up to which an item can be thrown or fired, beyond which the item is thrown at disadvantage. The second number is as far as the item can be thrown or fired. Items with the thrown tag need this range number as well. 
 
-at: This indicates that an item must be attuned to, which impacts the magical item limitation. All wards and magic items require attunement while items containing spells do not, unless otherwise specified.
 
 ## Quick Slots and Deep Slots
 Getting an item out of your inventory during [combat rounds](combatround) is considered a stunt (dexterity check) with a DC equal to the slot number. On a success the stunt allows the stunt to be a free action. Otherwise it takes an action. 
@@ -84,3 +83,24 @@ You may forage for supply during a [wilderness watch](wildernesswatch). One supp
 ## Sundries
 
 Unless they are magical, worn things like clothing, footwear, jewelry, and backpacks do not take up slots (though armor does) and may be added to sundries in the character's inventory. This may also include small things that could conceivably fit in someone's pockets and that would not take up an entire inventory slot. Confer with the referee for what can be considered a sundry. 
+
+
+## Gear Packs
+
+In lieu of a specific item, a character may carry a gear pack. Potential packs include:
+
+- burglary
+- climbing
+- disguise
+- scribing
+- alchemist
+- brewer
+- miner
+
+Most professions can have an associated gear pack. Gear packs take up 5 slots. When a character wants to use an item from the pack, they declare what the item is and therefore has always been. The item replaces one of the gear pack slots. 
+
+A gear pack slot can also replace a bundle of items. For example, smithing pack slot can be replaced by nails (20/20).
+
+For example, a character wants to have a crowbar. They replace their one burglary gear pack slot with one crowbar. 
+
+One slot of a gear pack always costs 10 coins (the maximum price for a common item). 

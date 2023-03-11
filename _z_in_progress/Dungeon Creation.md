@@ -1,3 +1,11 @@
+![12 angry rooms](20230120.md#12%20angry%20rooms)
+
+
+
+
+![DungeonGen](20230120.md#DungeonGen)
+
+
 - [ ] https://silverarmpress.com/dungeon-23-my-procedure-for-making-a-megadungeon-sandbox/
 - [ ] https://grognardia.blogspot.com/2022/12/dungeon23.html
 - [ ] https://www.reddit.com/r/Dungeon23/

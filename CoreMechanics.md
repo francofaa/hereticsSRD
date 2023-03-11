@@ -32,4 +32,5 @@ Optional procedures include
 
 - [Downtime activities](downtimecycle)
 - [Dueling procedures](duelingbeats)
+- [Lockpicking](Lockpicking.md)
 

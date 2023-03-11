@@ -1,4 +1,9 @@
+![Hexcrawls](20230120.md#Hexcrawls)
 
+![Variations in hexmaps](20230120.md#Variations%20in%20hexmaps)
+
+
+![The inside of a hex](20230120.md#The%20inside%20of%20a%20hex)
 
 http://vilecultofshapes.blogspot.com/2022/12/hexcrawling-procedures-simple-guide.html
 
@@ -46,3 +51,6 @@ https://mausritter.com/adventure-site/
 
 
 
+https://rayotus.itch.io/gygax75
+
+adapt gygax 75 to your world bulding rules 

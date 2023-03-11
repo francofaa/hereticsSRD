@@ -11,32 +11,48 @@ parent: Character
 
 Hit protection represents near misses, stunning blows, stamina depletion, superficial wounds and bruises, and so on. 
 
-Damage that reduces character's hit protection to zero lowers a character's strength defense by the amount remaining. Any actions that a character takes while under 0 hit protection are done at disadvantage. 
-
-Any damage that takes the character to 0 strength defense kills them outright. 
-
-Characters at or below 0 hit protection are considered to be **dying**. 
+When damage reduces character's hit protection to zero or below, the character must roll on the death and dismemberment table. When hit again at zero or negative hit protection, the character must roll again on the death and dismemberment table. 
 
 NPCs that are lowered to zero hit protection die.
 
-## Direct Damage
-Some damage may bypass hit protection. Some damage may also outright kill a character. 
+Some damage may bypass hit protection and outright kill a character or immediately force a roll on the death and dismemberment table.
 
-### Environmental
+## Death and Dismemberment
 
-All of the following environmental damage (*in its non-magical form*) is considered **direct damage** to strength defense:
+As soon as a character is dropped to zero hit protection, they must roll on the permanent injury table (rolling 3d6 plus current hit protection, typically 0 or a negative number). The table below describes the type of injury in vague terms along with mechanical impacts. Describe injuries to the comfort level of your table.
 
-- Non-magical fire, 1d6 direct damage
-- On fire, 2d6 direct damage per round
-- Lava, instant death
-- Acid, 1d6 direct damage
-- Drowning. Characters can hold their breath for 30 seconds (3 rounds of combat) per point of Strength bonus. After this point, they must make strength saving throws DC 15 every round or die. 
-- Freezing water. Characters must make Strength saving throws DC 15 every minute or take 1 direct damage.
-- Non-magical lightning, 3d6 direct damage
-- Falling, 1d6 direct damage per 10 feet, to a maximum 10d6.
-- Poison, direct damage (amount depends on the poison) 
+Injuries should inflict penalties that make sense in the fiction. For example, a treatable leg injury should impede movement. Trying to use the injured body part should impose disadvantage on a roll.
 
-### Ambush damage
+| 3d6 + HP    | Deadliness                               | Ripping                                | Blunt                                                     | Shocking                                                                | Caustic                                     | Toxic                                                                                  |
+| ----------- | ---------------------------------------- | -------------------------------------- | --------------------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------------------- | -------------------------------------------------------------------------------------- |
+| -1 or below | Grisly and instant death                 |                                        |                                                           |                                                                         |                                             |                                                                                        |
+| 0           | Instant death                            |                                        |                                                           |                                                                         |                                             |                                                                                        |
+| 1-2         | Doomed: Death in 1 round                 | Fatal wound, disadvantage on all rolls | Fatal trauma, disadvantage on all rolls                   | Organ failure, disadvantage on all rolls                                | Fatal burns, disadvantage on all rolls      | Organ failure, disadvantage on all rolls                                               |
+| 3-4         | Doomed: Death in 1d4 rounds              | Fatal wound, disadvantage on all rolls | Fatal trauma, disadvantage on all rolls                   | Organ failure, disadvantage on all rolls                                | Fatal burns, disadvantage on all rolls      | Organ failure, disadvantage on all rolls                                               |
+| 5-6         | Dying in 1d4 rounds without intervention | Head wound, unconscious for d4 rounds  | Head trauma, disadvantage on all rolls                    | Internal bleeding                                                       | All senses and speech are destroyed         | Vomiting, oozing, or bleeding; disadvantage until a long rest                          |
+| 7-8         | Dying in 1d4 rounds without intervention | Severed or nearly severed arm          | Unconscious for d4 rounds, disadvantage until a long rest | Brain trauma, unconscious for d4 rounds, disadvantage until a long rest | Destroyed arm                               | Bleeding from eyes, nose, pores; permanently make saves against toxins at disadvantage |
+| 9-10        | Dying in 1d4 rounds without intervention | Severed or nearly severed leg          | Unconscious for d4 rounds                                 | Brain trauma, disadvantage until a long rest                            | Destroyed leg                               | Bleeding from pores; disadvantage until a long rest                                    |
+| 11-12       | Dying in 1d4 rounds without intervention | Arterial or gut wound                  | Internal bleeding                                         | Suffocation, disadvantage until a long rest                             | Lung damage, disadvantage until a long rest | Bleeding from eyes and nose; disadvantage until a long rest                            |
+| 13-14       |                                          | Mangled arm, treatable                 | Broken arm, treatable                                     | Unconscious for d4 rounds, disadvantage until a long rest               | Burned arm, treatable                       | Toxic blood; permanently heal at a rate of 1 HP per rest                               |
+| 15-16       |                                          | Mangled leg, treatable                 | Broken leg, treatable                                     | Unconscious for d4 rounds                                               | Burned leg, treatable                       | Compromised immunity; permanently make saves against toxins at disadvantage            |
+| 17-18       |                                          | Slashed eye, treatable                 | Dazed; lose next action                                   | Dazed; lose next action                                                 | Burned eye, treatable                       | Nausea, inability to concentrate; disadvantage on all rolls                            |
+
+
+## Environmental Damage
+
+- Non-magical fire (Caustic), 1d6
+- On fire (Caustic), 2d6 damage per round
+- Lava (Caustic), instant death
+- Acid (Caustic), 1d6 damage 
+- Drowning (Shocking)
+	- After 3 + str rounds of holding breath, roll on death and dismemberment table every subsequent round
+- Freezing water (Shocking), 1 HP per round until warmed
+- Non-magical lightning (Shocking), 3d6 damage **and** roll on death and dismemberment table
+- Falling (Blunt), 1d6 damage per 10 feet, to a maximum 10d6
+- Rocks falling (Blunt), 3d6 damage
+- Poison (Toxic), damage amount depends on the poison
+
+## Ambush damage
 
 If a character is ambushed, the damage dice are doubled.
 
@@ -51,27 +67,11 @@ Some attacks inflict a condition. The following list is non-exhaustive and some 
 - Blind: Unable to see
 - Deafened: Unable to hear
 - Stunned: Unable to make significant movements
+- Injured: All actions are done at disadvantage and at half speed 
 
 ## Stabilizing 
 
-When a character is reduced to zero hit protection, they must be stabilized within an hour or else they **die**.
-
-An ally may try to stabilize the downed character by rolling an ability check, casting a spell, using herbs, or some other manner of healing. 
-
-If such an action would restore hit protection, It instead stabilizes the character.
-
-Once stabilized, the character's strength defense is restored to full. The character then rolls 1d20 on the injury table: 
-
-1: False hope: you're dead
-2: Lose a body part
-3-6: Feeble: lose 1d6 str 
-7-10: Shaky: lose 1d6 dex 
-11-14: Addled: lose 1d6 int
-15-18: Weak: lose 1d6 wil
-19: Disadvantage on all checks until rested
-20: Standing: Instantly heal to 1d8 hit protection
-
-Unless a 1 was rolled, the character heals to 1 hit protection.
+An ally may try to stabilize a character who is at or under zero hit protection by rolling an ability check, casting a spell, using herbs, or some other manner of healing. 
 
 ### Death 
 
@@ -79,8 +79,9 @@ When a character dies, write down their fate on the back of the character sheet.
 
 ### Convalescing
 
-The injuries feeble, shaky, addled, and weak are removed after a number of [downtime cycles](downtimecycle#Convalescing) equal to the lowest result of Ld6. For example, a level 4 character rolls 4d6, resulting in a 3, 3, 5, and 6. The lowest number is 3, so the character's ability is restored after 3 downtime cycles.
+Make note of any linger injury from the [Death and Dismemberment](#Death%20and%20Dismemberment) table. All characters who have gone below zero hit protection and been stabilized must rest. 
 
+Characters are restored after a number of [downtime cycles](downtimecycle#Convalescing) equal to the lowest result of Ld6. For example, a level 4 character rolls 4d6, resulting in a 3, 3, 5, and 6. The lowest number is 3, so the character's ability is restored after 3 downtime cycles.
 
 ## Resting
 

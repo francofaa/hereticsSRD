@@ -16,7 +16,7 @@ To cast spells, mana dice are used, at times resulting in chaotic effects. Spell
 
 Spells must be cast holding the item the spell is inscribed on in two hands, unless wielding a focus in another hand. When casting a spell, roll up to your maximum **mana dice**. You may roll fewer than you have. A +int attack roll may also be required. 
 
-Spells live as inscribed words and diagrams upon artifacts, spellbooks, relics, tablets, and mundane items. Spells take up 1 inventory slot and do not require attunement. Even if copied into a single spellbook, each spell takes up 1 inventory slot. 
+Spells live as inscribed words and diagrams upon artifacts, spellbooks, relics, tablets, and mundane items. Spells take up 1 inventory slot. Even if copied into a single spellbook, each spell takes up 1 inventory slot. 
 
 ## Spell Tags
 - **Line of sight.** Unless otherwise specified by the spell, the spell requires line of sight on the target

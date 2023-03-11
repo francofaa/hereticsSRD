@@ -2,7 +2,7 @@
 title: Combat Round
 layout: default
 permalink: /combatround
-nav_order: 2
+nav_order: 2 
 parent: Procedures
 ---
 {% include toc.html %}
@@ -36,7 +36,7 @@ Initiative is re-rolled every round.
 
 ## Actions
 
-The winning side of initiative acts first, followed by the losing side. Movement is part of these actions and is limited to the maximum movement a character can make. During a round, a character may make 1 action and 1 free action, if available. The opposing side may also make a reaction, if applicable. 
+The winning side of initiative acts first, followed by the losing side. Movement is part of these actions and is limited to the maximum movement a character can make. During a round, a character may make 1 action and 1 free action, if available.
 
 Reactions may also occur during the opposing turn when relevant. Movement away from an enemy does not provoke attacks unless the enemy has a skill that says it does. Movement away from an enemy may not be possible if a creature has hindered that movement in some way.
 
@@ -56,11 +56,11 @@ Before rolling damage for a melee attack, a character may choose to destroy thei
 
 Unarmed strikes inflict damage equal to the attacker's strength bonus (minimum 0).
 
-Physical damage from small things can be measured in d4 (caltrops, spikes, ball bearings--trip damage)
+Physical damage from small things can be measured in d4 (caltrops, spikes, ball bearings--trip damage).
 
-Physical damage from big things can be measured in d6 (carts, bookshelves, folding chairs)
+Physical damage from big things can be measured in d6 (carts, bookshelves, folding chairs).
 
-Elemental damage can be measured in d6 (acid, fire, frost)
+Elemental damage can be measured in d6 (acid, fire, frost).
 
 ### Spell casting
 
@@ -110,6 +110,7 @@ Attackers suffer disadvantage from disadvantageous situations, such as being cau
 
 
 ## Morale checks
+
 A player may request a morale check after certain breaking points: 
 
 - A leader is killed 

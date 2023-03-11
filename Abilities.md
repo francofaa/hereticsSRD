@@ -29,12 +29,11 @@ Physical, forceful
 - Brawling
 - Recovery during [short rests](Damage#Resting)
 - Shoving
-
-### Saves
-- Poison
-- Disease
+- Resisting poison
+- Recovering from disease
+- Resisting non-magical paralysis
 - Enduring fatigue
-- Non-magical paralysis
+
 
 ## Dexterity
 
@@ -60,10 +59,8 @@ Armored defense represents your ability to avoid damage via reflexes, dodging, o
    - Trip
    - Disarm
    - Taking something out of [deep inventory](Inventory#Quick%20Slots%20and%20Deep%20Slots) during combat
-
-### Saves
-- Escaping
-- Dodging
+   - Dodging around an enemy
+   - Escaping from binds
 
 
 ## Willpower
@@ -85,10 +82,7 @@ Warded defense represents your ability to resist spell damage and effects via sh
 - Intimidation
 - Performing
 - Commanding retainers
-
-### Saves
-- Magic
-- Morale
+- Resisting a spell effect
 
 
 
@@ -101,7 +95,6 @@ Mental, graceful
 
 ### Static
 - **Maximum supply**, equal to intelligence defense 
-- **Maximum attuned [magical items](magicalitems)**, equal to intelligence bonus
 
 ### Actions
 - Attacks using magic
@@ -118,3 +111,4 @@ Mental, graceful
 - Scribing
 - Diagnosing
 - Detecting traps
+- Stabilizing an ally

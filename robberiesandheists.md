@@ -12,7 +12,7 @@ grandparent: Procedures
 
 # Robberies and Heists
 
-The characters may wish to commit a robbery or perform a heist to fund themselves. This procedure may be used if this heist or robbery is not intended to be part of the gameplay. This procedure is intended to be used during a [downtime cycle](downtimecycle.md). 
+The characters may wish to commit a robbery or perform a heist to fund themselves. This procedure may be used if this heist or robbery is not intended to be part of the gameplay. This procedure is intended to be used during a [downtime cycle](downtimecycle). 
 
 If the heist or robbery should be part of the normal gameplay, the downtime cycle should be resolved and normal gameplay time commence with the planning of the heist or robbery. 
 

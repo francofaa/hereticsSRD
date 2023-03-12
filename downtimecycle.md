@@ -170,13 +170,13 @@ Player characters must spend their loot by wasting it on special interests. Refe
 
 Each character may take 1 action, which may lead to a specific goal. Possible actions are described below but these are by no means exhaustive.
 
-If a character is [convalescing](Damage.md#Convalescing), they may not be able to take any action and must spend the downtime cycle resting.
+If a character is [convalescing](Damage#Convalescing), they may not be able to take any action and must spend the downtime cycle resting.
 
 Actions may consist of but are not limited to
 
-- [Robberies and heists](robberiesandheists.md)
-- [Research and crafting](researchandcrafting.md)
-- [Training](training.md)
+- [Robberies and heists](robberiesandheists)
+- [Research and crafting](researchandcrafting)
+- [Training](training)
 
 
 ## Faction Activities

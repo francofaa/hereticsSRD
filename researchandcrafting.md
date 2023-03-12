@@ -11,7 +11,7 @@ grandparent: Procedures
 
 # Research and Crafting
 
-Research and crafting can be done during and across [downtime cycles](downtimecycle.md). 
+Research and crafting can be done during and across [downtime cycles](downtimecycle). 
 
 ## Magical Research
 

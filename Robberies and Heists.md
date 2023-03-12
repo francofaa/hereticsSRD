@@ -3,7 +3,7 @@ title: Robberies and Heists
 layout: default
 permalink: /robberiesandheists
 nav_order: 2
-parent: Downtime Cycle
+parent: downtimecycle
 grandparent: Procedures
 ---
 {% include toc.html %}

@@ -174,9 +174,9 @@ If a character is [convalescing](Damage.md#Convalescing), they may not be able t
 
 Actions may consist of but are not limited to
 
-- [[Robberies and Heists]]
-- [[Research and Crafting]]
-- [[Training]]
+- [Robberies and heists](robberiesandheists.md)
+- [Research and crafting](researchandcrafting.md)
+- [Training](training.md)
 
 
 ## Faction Activities

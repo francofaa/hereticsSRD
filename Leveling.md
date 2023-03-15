@@ -32,23 +32,13 @@ Characters level up to 10. The following table describes the total XP needed at 
 
 ## Getting Experience Points
 
-Primarily, experience points are exchanged for coins looted, stolen, or otherwise earned from adventuring (as opposed to found coins and coins earned from honest labor).
+Primarily, experience points are gained for securing coins and treasures, looted, stolen, or otherwise earned from adventuring (as opposed to found coins and coins earned from honest labor). Securing in this case means returning the coins and treasures to the character's main residence.
 
-These exchanges take place during [downtime cycles](downtimecycle).
+### Conspicuous Consumption for Experience
 
-### Other Sources of Experience Points
+Additionally, characters may waste these coins to gain additional experience. For example, an adventurer retrieves 500 coins from a dungeon and returns to their home. This adventurer has 500 experience points. The adventurer then spends the 500 coins on [a chariot race commemorating their achievements](downtimecycle.md#Conspicuous%20Consumption). The adventurer then receives an additional 500 experience points for a total of 1,000 experience points. 
 
-Experience may also be rewarded by the referee for 
-
-- finding clever solutions
-- overcoming significant challenges
-- winning over important allies
-- finding clues to a mystery
-- visiting or discovering an interesting settlement or point of interest
-
-Experience is not recommended as a reward for "good role-playing" since this may put some players at a disadvantage if they are not comfortable speaking in-character. 
-
-Primarily, experience points are exchanged for coins looted, stolen, or otherwise earned from adventuring (as opposed to found coins and coins earned from honest labor). These exchanges take place during [downtime cycles](downtimecycle).
+Exchanging coins for experience takes place during [downtime cycles](downtimecycle).
 
 ### Other Sources of Experience Points
 

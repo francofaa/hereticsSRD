@@ -54,3 +54,16 @@ https://mausritter.com/adventure-site/
 https://rayotus.itch.io/gygax75
 
 adapt gygax 75 to your world bulding rules 
+
+
+# Hex map building 
+https://www.prismaticwasteland.com/blog/hexcrawl-checklist-part-one, https://www.prismaticwasteland.com/blog/hexcrawl-checklist-part-two
+
+
+https://www.prismaticwasteland.com/blog/hexcrawl-checklist-part-one
+
+https://www.ibiblio.org/mscorbit/sandbox/Make%20a%20Fantasy%20Sandbox_111005.pdf
+
+https://pointlessmonument.blot.im/a-player-facing-sandbox-part-1-the-map READ THIS ONE FOR SURE. MAKE A PROCEDURE FOR CREATING HEXES
+
+https://diyanddragons.blogspot.com/2019/10/landmark-hidden-secret.html

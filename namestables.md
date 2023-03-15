@@ -21,7 +21,7 @@ You may also come up with your own name.
 
 ## Isuri Names
 
-Given names
+### Given names
 
 | d12/d6 | 1         | 2         | 3         | 4        | 5         | 6         |
 | ------ | --------- | --------- | --------- | -------- | --------- | --------- |
@@ -38,7 +38,7 @@ Given names
 | 11     | Cleopha   | Esme      | Jiles     | Orchid   | Silas     | Wendy     |
 | 12     | Clover    | Faustus   | Jilly     | Orion    | Silence   | Zora      |
 
-Surnames
+### Surnames
 
 | d12/d6 | 1           | 2         | 3         | 4          | 5            | 6           |
 | ------ | ----------- | --------- | --------- | ---------- | ------------ | ----------- |
@@ -59,7 +59,7 @@ Surnames
 
 ## Aegirling Names
 
-Given names
+### Given names
 
 | d6/d6 | 1      | 2         | 3         | 4       | 5          | 6      |
 | ----- | ------ | --------- | --------- | ------- | ---------- | ------ |
@@ -71,7 +71,7 @@ Given names
 | 6     | Bjerke | Engman    | Hartvig   | Nes     | Stendahl   | Winter |
 
 
-Surnames
+### Surnames
 
 
 | d20 | Surnames |
@@ -99,7 +99,7 @@ Surnames
 
 ## Piastro Names
 
-Given names
+### Given names
 
 | d6/d6 | 1        | 2        | 3          | 4          | 5         | 6         |
 | ----- | -------- | -------- | ---------- | ---------- | --------- | --------- |
@@ -110,7 +110,7 @@ Given names
 | 5     | Boudia   | Carata   | Coria      | Leno       | Scotta    | Urus      |
 | 6     | Boudicca | Carmo    | Dusona     | Litogena   | Algaia    | Wirogalos |
 
-Matronymics
+### Matronymics
 
 | d20 | Names       |
 | --- | ----------- |
@@ -137,23 +137,25 @@ Matronymics
 
 ## Otani Names
 
-Surnames
+### Surnames
 
-| d4/d10 | 1        | 2      | 3        | 4        |
-| ------ | -------- | ------ | -------- | -------- |
-| 1      | Beddoe   | Edris  | Kendrick | Relish   |
-| 2      | Breckon  | Enion  | Kerry    | Scurlock |
-| 3      | Caddel   | Fleece | Maddock  | Sealy    |
-| 4      | Cadogan  | Flower | Meredith | Snowmelt |
-| 5      | Carew    | Griff  | Morgan   | Tew      |
-| 6      | Cecil    | Hanmer | Moss     | Uren     |
-| 7      | Coslett  | Howell | Nevitt   | Voyle    |
-| 8      | Craddock | Idle   | Pembroke | Wogan    |
-| 9      | Dew      | Ithell | Prothero | Wynn     |
-| 10     | Edevane  | Kemble | Reese    | Yarwood  |
+| d4/d12 | 1        | 2         | 3        | 4        |
+| ------ | -------- | --------- | -------- | -------- |
+| 1      | Beddoe   | Edris     | Kendrick | Relish   |
+| 2      | Breckon  | Enion     | Kerry    | Scurlock |
+| 3      | Caddel   | Fleece    | Maddock  | Sealy    |
+| 4      | Cadogan  | Flower    | Meredith | Snowmelt |
+| 5      | Carew    | Griff     | Morgan   | Tew      |
+| 6      | Cecil    | Hanmer    | Moss     | Uren     |
+| 7      | Coslett  | Howell    | Nevitt   | Voyle    |
+| 8      | Craddock | Idle      | Pembroke | Wogan    |
+| 9      | Dew      | Ithell    | Prothero | Wynn     |
+| 10     | Edevane  | Kemble    | Reese    | Yarwood  |
+| 11     | Searl    | Trofitter | Sibley   | Masury   |
+| 12     | Faunce   | Silene    | Creesy   | Luscomb         |
 
 
-Given Names
+### Given Names
 
 | d6/d6    | 1         | 2        | 3        | 4        | 5       | 6        |
 | --- | --------- | -------- | -------- | -------- | ------- | -------- |
@@ -163,4 +165,5 @@ Given Names
 | 4   | Blodwen   | Dwyn     | Mael     | Ronec    | Trixy   | Garrett  |
 | 5   | Brannock  | Eira     | Merrick  | Samson   | Yannick | Cadec    |
 | 6   | Ceri      | Eirlys   | Mosten   | Seren    | Yew     | Reese    |
+
 

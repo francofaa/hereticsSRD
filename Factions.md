@@ -2,7 +2,7 @@
 title: Factions
 layout: default
 permalink: /Factions
-nav_order: 2
+nav_order: 3
 parent: Referee Tools
 ---
 
@@ -55,6 +55,13 @@ Choose or roll for one ultimate goal by combining 1d4 method and 1d4 target.
 | 2   | Control                     | Object         |
 | 3   | Destroy / Kill              | Person / Group |
 | 4   | Steal / Rob                 | Place          |
+
+Some examples are below: 
+
+1. Systems: Smuggling ring, government, supply chain, intergalactic trade route, beauty pageant, ecosystem, university admissions process
+2. Object: Crown, power gem, ancient artifact, keepsake, wand
+3. Person/Group: President, baroness, dissident, union, parliament, fairy court
+4. Place: Barony, dispossessed ancestral home, mine, farmland, gate to hell
 
 Once the ultimate goal is created, create 1-3 more goals that would lead up to that ultimate goal. The goals should be completed in order. 
 

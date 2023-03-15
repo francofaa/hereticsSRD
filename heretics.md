@@ -8,7 +8,7 @@ tags: index
 
 ![Heretics cover image](heretics.png)
 
-Version 0.4 (initial play testing materials)
+Version 0.4.1 (initial play testing materials)
 
 Franco A. Alvarado
 

@@ -2,7 +2,6 @@
 title: Research and Crafting
 layout: default
 permalink: /researchandcrafting
-nav_order: 3
 parent: downtimecycle
 grand_parent: Procedures
 ---

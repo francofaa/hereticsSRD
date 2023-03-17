@@ -2,7 +2,6 @@
 title: Training
 layout: default
 permalink: /training
-nav_order: 1
 parent: downtimecycle
 grand_parent: Procedures
 ---

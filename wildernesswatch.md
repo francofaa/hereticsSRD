@@ -2,7 +2,7 @@
 title: Wilderness Watch
 layout: default
 permalink: /wildernesswatch
-nav_order: 4
+nav_order: 5
 parent: Procedures
 ---
 

@@ -4,7 +4,7 @@ layout: default
 permalink: /training
 nav_order: 1
 parent: downtimecycle
-grandparent: Procedures
+grand_parent: Procedures
 ---
 {% include toc.html %}
 

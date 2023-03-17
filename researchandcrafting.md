@@ -4,7 +4,7 @@ layout: default
 permalink: /researchandcrafting
 nav_order: 3
 parent: downtimecycle
-grandparent: Procedures
+grand_parent: Procedures
 ---
 
 {% include toc.html %}

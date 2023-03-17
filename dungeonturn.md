@@ -2,7 +2,7 @@
 title: Dungeon Turn
 layout: default
 permalink: /dungeonturn
-nav_order: 3
+nav_order: 4
 parent: Procedures
 ---
 {% include toc.html %}

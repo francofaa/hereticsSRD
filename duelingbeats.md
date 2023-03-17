@@ -2,7 +2,7 @@
 title: Dueling Beat
 layout: default
 permalink: /duelingbeats
-nav_order: 1
+nav_order: 2
 parent: Procedures
 ---
 {% include toc.html %}

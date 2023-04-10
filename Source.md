@@ -2,7 +2,7 @@
 title: Source
 layout: default
 permalink: /Source
-nav_order: 7
+nav_order: 3
 parent: Character
 ---
 {% include toc.html %}
@@ -19,7 +19,7 @@ A Source is built by the following procedure:
 	1. [Symbols](#Symbols)
 	2. [Means of Devotion](#Means%20of%20Devotion)
 	3. [Communication](#Communication)
-4. Determine 
+4. Determine [Form](#Form)
 
 Name and appearance can be determined at any point. 
 

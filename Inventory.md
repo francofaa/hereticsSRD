@@ -59,7 +59,7 @@ Coins are the currency. These can be named something else in the game: coppers, 
 ### Costs
 Note that unless stated otherwise, most common gear can be assumed to cost 1d10 coins (5).
 
-## Ammo 
+## Ammo
 
 Ammo is quantum, meaning that it can be used for any ammunition based weapon. For example, if a character has a sling and a bow, they may use the ammo as either a stone or an arrow.
 
@@ -99,8 +99,8 @@ In lieu of a specific item, a character may carry a gear pack. Potential packs i
 
 Most professions can have an associated gear pack. Gear packs take up 5 slots. When a character wants to use an item from the pack, they declare what the item is and therefore has always been. The item replaces one of the gear pack slots. 
 
-A gear pack slot can also replace a bundle of items. For example, smithing pack slot can be replaced by nails (20/20).
+A gear pack slot can also replace a bundle of items. 
 
-For example, a character wants to have a crowbar. They replace their one burglary gear pack slot with one crowbar. 
+For example, a smithing pack slot can be replaced by nails (20/20). Or a character wants to have a crowbar. They replace their one burglary gear pack slot with one crowbar.
 
 One slot of a gear pack always costs 10 coins (the maximum price for a common item). 

@@ -8,20 +8,27 @@ parent: Character
 {% include toc.html %}
 
 # Abilities
-There are four abilities: Strength, Dexterity, Intelligence, and Willpower. They each have 2 scores, bonus and defense. The defense is equal to 10 + bonus of that score. For example, a strength bonus of 2 would yield a strength defense of 12.
+There are four abilities: 
+
+- Strength
+- Dexterity
+- Intelligence
+- Willpower
+ 
+They each have 2 scores, bonus and defense. The defense is equal to 10 + bonus of that score. For example, a strength bonus of 2 would yield a strength defense of 12.
 
 Each ability has **static** stats, **actions**, and **saves** associated with them. 
 
 Ability scores are capped at +10/def 20.
 
 ## Strength
+
 Physical, forceful
 
 *Power, heartiness, physicality, endurance*
 
 ### Static
 - **Maximum [Load](Inventory#Inventory%20and%20Load)**, equal to strength defense
-- **Hit protection**, equal to strength bonus plus 1d8 x level
 
 ### Actions
 - [Attacks](MartialGear#Weapons) that are powerful or obvious 
@@ -61,6 +68,7 @@ Armored defense represents your ability to avoid damage via reflexes, dodging, o
    - Taking something out of [deep inventory](Inventory#Quick%20Slots%20and%20Deep%20Slots) during combat
    - Dodging around an enemy
    - Escaping from binds
+   - Sliding under and past a gargantuan monster
 
 
 ## Willpower

@@ -84,5 +84,5 @@ On a failure the retainers will continue to fight to survive, but on a success, 
 - Focus fire
 - Cutting off escape
 - Retreat
-- Perform a stunt (like grabbing an item or passing characters items)
+- Perform a stunt (like grabbing an item or passing items to characters)
 - Forming a shield wall

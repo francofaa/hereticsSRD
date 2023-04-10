@@ -3,7 +3,7 @@ title: Dungeon Turn
 layout: default
 permalink: /dungeonturn
 nav_order: 4
-parent: Procedures
+parent: Time Procedures
 ---
 {% include toc.html %}
 
@@ -32,6 +32,7 @@ Characters may search for
 - treasure traps (on a specific object or location)
 
 #### Light 
+
 Torches illuminate 40 feet and 10 feet of detail.
 
 Candles illuminate 20 feet and 5 feet of detail. 

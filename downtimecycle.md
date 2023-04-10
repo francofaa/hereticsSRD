@@ -3,8 +3,7 @@ title: Downtime Cycle
 layout: default
 permalink: /downtimecycle
 nav_order: 6
-parent: Procedures
-has_children: true
+parent: Time Procedures
 ---
 {% include toc.html %}
 
@@ -17,13 +16,10 @@ When the party is doing downtime, follow the downtime cycle procedure:
 1. Determine [Settlement Resources](#Settlement%20Resources)
 2. Characters [Rest and Upkeep](#Rest%20and%20Upkeep)
 3. [Downtime Hazard Die](#Downtime%20Hazard%20Die) determines what major events happen during the cycle
-4. Characters perform [Free Actions](#Free%20Actions)
-	1. [Recruiting](#Recruiting)
-	2. [Conspicuous Consumption](#Conspicuous%20Consumption)
-	3. [Rumors](#Rumors)
-5. Characters perform [Actions](#Actions)
-6. Resolve [Faction Activities](#Faction%20Activities)
-
+4. Characters resolve [Free Actions](#Free%20Actions)
+5. Characters [Tracked Activities](#Tracked%20Activities)
+6. Characters resolve [Sacrifices](#Sacrifices)
+7. Referee resolves [Faction Activities](#Faction%20Activities)
 
 When socializing with people in the world during downtime, disposition can be determined with a 2d6 roll, unless it is already obvious for whatever reason: 
 
@@ -38,7 +34,7 @@ When socializing with people in the world during downtime, disposition can be de
 
 ## Settlement Resources
 
-The size of a settlement determines the amount of available hirelings, retainers, and how much conspicuous consumption spending per week a settlement can handle from a party. The settlements only have so much to sell. Any more money spent in these settlements will cause economic ramifications that are better left not explored.
+The size of a settlement determines the amount of available hirelings, retainers, and how much spending per week a settlement can handle from a party. The settlements only have so much to sell. Any more money spent in these settlements will cause economic ramifications that are better left not explored.
 
 To use the table, identify the type of settlement the party is at and roll the die in the die modifier column to determine the values of the remaining columns.
 
@@ -55,13 +51,10 @@ For example, a town has 1d8 helpers, 1d8 experts, 1d8 x 10 mercenaries, 2d8 hire
 
 ## Rest and Upkeep
 
-At the beginning of the downtime cycle, all characters should 
+At the beginning of the downtime cycle, all characters  
 
 - Take a long rest (bringing them to full hit protection)
 - Spend coin on upkeep
-
-The long rest should not fully restore lingering injuries, except in cases where enough time has passed to restore them. 
-
 
 | Lifestyle   | Coins per Week | Tags During Downtime Cycle          |
 | ----------- | -------------- | ----------------------------------- |
@@ -69,19 +62,17 @@ The long rest should not fully restore lingering injuries, except in cases where
 | Comfortable | L x 7          | Clean, fed, respectable clothing    |
 | Luxurious   | L x 20         | Pampered, fed, fashionable clothing |
 
-
 Upkeep includes room and board, but also things like keeping your armor and weaponry clean, mending your socks, and feeding your horses. Lifestyle tags may impact certain interactions in the fiction of the downtime cycle.
-
 
 ## Downtime Hazard Die
 
-Every cycle spent in a settlement, roll 1d6
+Every cycle spent in a settlement, roll 1d6.
 
 | d6  | Event                                                                                                                                  |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | Encounter. The party encounters a random NPC who comes calling on them. Referee may have a table prepared for this.                    |
 | 2   | [Upheaval](#Upheavals). A dramatic upheaval impacts the settlement, inflicting a condition.                                            |
-| 3   | Signs. A [local shift](#Local%20Shifts) is foreshadowed (roll on local shift table) or a [rumors](#Rumors) is heard (roll for a rumor) |
+| 3   | Signs. A [local shift](#Local%20Shifts) is foreshadowed (roll on local shift table) or a [rumor](#Rumors) is heard (roll for a rumor) |
 | 4   | [Local shift](#Local%20Shifts). Something in the atmosphere of the settlement changes.                                                 |
 | 5   | Alleviation. One or more [conditions](#Conditions) end.                                                                                |
 | 6   | Free. Nothing happens                                                                                                                  |
@@ -125,58 +116,57 @@ For the characters, these conditions will have impact on the fiction and the pri
 
 ## Free Actions
 
-Each character may take free actions, limited mostly to 
+Each character may take free actions, limited to
 
 - recruiting goons (hirelings and retainers), 
 - shopping, 
 - throwing and attending funerals, 
 - throwing and attending parties,
 - looking for rumors,
-- conspicuous consumption, 
-- and making social calls. 
+- and making social calls
  
 Anything more involved requires a full action. For example, tracking down a specialty item or making a social call on a powerful figure would be an action whereas shopping for ball bearings or having tea with your best friend would be free actions.
 
 ### Recruiting
 
-Player characters may hire any number of goons they can afford. [[Goons]] can be paid by the day (hirelings) or for a share of treasure (retainers). Retainers are limited to the employer's +wil bonus.
-
+Player characters may hire any number of goons they can afford. [Goons](Goons) can be paid by the day (hirelings) or for a share of treasure (retainers). Retainers are limited to the employer's +wil bonus while there is no limit on hirelings.
 
 ### Rumors
 
-The party hears a random rumor. The referee should have prepared a rumors table ahead of time. Otherwise, nothing happens.
+The party seeks out a rumor. The referee should have prepared a rumors table ahead of time. Otherwise, nothing happens.
 
 Creating a rumor table should be based on the nearby regional locations and factions. Each rumor should be actionable. 
 
 Rumors can take on various forms: 
 
-- Local color: General information or history 
-- Opportunities: These can take the form of bounties and rewards that can be monetary, favors, or otherwise
-- Challenges: Threats that could lead to rewards
-- Mysteries: Secrets or strange phenomenon 
+1. **Local color**: General information or history 
+2. **Opportunities**: These can take the form of bounties and rewards that can be monetary, favors, or otherwise
+3. **Challenges**: Threats that could lead to rewards
+4. **Mysteries**: Secrets or strange phenomenon 
 
-### Conspicuous Consumption
+## Tracked Activities
 
-During the downtime cycle, characters may convert their coins to experience points. They may only convert coins gained while adventuring or committing crimes. Coins found or earned through honest work cannot be used for this purpose. 
-
-Player characters must spend their loot by wasting it on special interests. Refer to an example set of special interests below.
-
-1. **Carousing**, partying, gambling.
-2. **Commissioning** songs, statues, paintings.
-3. **Donating** to philanthropic causes, the poor, the hungry.
-4. **Sponsoring** races, duels, masques, festivals, parades, triumphs, jousts, spectacles.
-
-## Actions
-
-Each character may take 1 action, which may lead to a specific goal. Possible actions are described below but these are by no means exhaustive.
-
-If a character is [convalescing](Damage#Convalescing), they may not be able to take any action and must spend the downtime cycle resting.
-
-Actions may consist of but are not limited to
+Each player character may progress or initiate 1 tracked activity, which leads to a specific goal. Possible actions are described below but these are by no means exhaustive. A referee should create a tracker with a required number of successes and set a DC. Some of these are defined below: 
 
 - [Robberies and heists](robberiesandheists)
 - [Research and crafting](researchandcrafting)
 - [Training](training)
+- [Convalescing](Damage#Convalescing)
+- Hunting down a specific rare item
+- Any wilderness activity
+- Alleviating a [condition](#Conditions)
+
+## Sacrifices
+
+Experience points are gained for sacrificing treasures and coins to your [Source](Source). These must be treasures and coins looted, stolen, or otherwise earned from adventuring (as opposed to found coins and coins earned from honest labor). Sacrificing treasures and coins can be done by
+
+1. **Carousing**, partying, gambling.
+2. **Hosting** feasts, masques, rituals, concerts.
+3. **Commissioning** songs, statues, paintings.
+4. **Donating** to philanthropic causes, the poor, the hungry.
+5. **Sponsoring** races, duels, festivals, concerts, parades, triumphs, jousts.
+6. **Offering** treasures and coins on an altar, plinth, hilltop, pyre.
+
 
 
 ## Faction Activities
@@ -191,6 +181,6 @@ Once a goal is achieved, the faction may add a resource relevant to the completi
 
 ### Player Interference
 
-Factions may recruit or butt heads with the player characters. If the characters hinder or help the faction, remove or mark 1-3 progress tallies depending on the help or hindrance. Player characters may even manage to destroy a faction's resource. 
+Factions may recruit or butt heads with the party. If party hinders or helps the faction, remove or mark 1-3 progress tallies depending on the help or hindrance. The party may even manage to destroy a faction's resource. 
 
-If the characters would take action to interfere with a faction's actions, the downtime cycle should be considered over and play within the city should commence.
+If the party would take action to interfere with a faction's actions, the downtime cycle should be considered over and play within the city should commence.

@@ -10,7 +10,7 @@ parent: Referee Tools
 
 # Factions
 
-Factions are competing groups within an area, whether in the overworld or in a dungeon. 
+Factions are competing groups within an area, whether in a settlement, the wilderness or a dungeon. 
 
 ## Creating Factions
 

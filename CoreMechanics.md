@@ -8,7 +8,7 @@ nav_order: 3
 
 # Core Rules
 
-The referee describes the world and the player characters interact with it. When something is in doubt, the characters must make checks. When an activity is performed over a period of time, procedures may be followed to resolve that activity. 
+The referee describes the world and the heretics (the player characters) interact with it. When something is in doubt, the players must make checks. When an activity is performed over a period of time, procedures may be followed to resolve that activity. 
 
 ## Checks
 
@@ -18,19 +18,21 @@ Failure should be more interesting than just "you don't do it," and could even b
 
 ## Procedures
 
-A procedure is a list of steps to follow to resolve something. Combat, for example, starts with initiative and continues with alternating attacks until one side is wiped out or routed. 
+A procedure is a list of steps to follow to resolve something. Combat, for example, starts with initiative and continues with alternating attacks until one side is wiped out or retreats. 
 
 It's recommended to follow these procedures to simplify travel, combat, and exploration and to establish parameters of play for the group and define consequences. All of these procedures can be thrown out, but the referee would then be left to make adjudications completely by fiat. 
 
-The main procedures are 
+The time-based procedures are 
 
 - [Combats](combatround)
-- [Wilderness exploration and travel](wildernesswatch)
 - [Dungeon exploration](dungeonturn)
-
-Optional procedures include 
-
+- [Wilderness exploration and travel](wildernesswatch)
 - [Downtime activities](downtimecycle)
+
+The mechanical procedures are
+
 - [Dueling procedures](duelingbeats)
 - [Lockpicking](Lockpicking)
+- [Research and crafting](researchandcrafting)
+- [Robberies and heists](robberiesandheists)
 

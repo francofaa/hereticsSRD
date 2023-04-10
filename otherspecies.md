@@ -2,16 +2,18 @@
 title: Other Species
 layout: default
 permalink: /otherspecies
-nav_order: 5
+nav_order: 6
 parent: Character
 ---
 {% include toc.html %}
 
-# Other Species
+# Other Species 
+
+> This is an optional rule. If using this, humans should also be choosable. Picking a human provides an extra ability point at [character creation](charactercreation). 
 
 The characters are assumed to be human; however, if the referee allows other non-human species in the game, the player may replace or supplement a background with abilities from their species. Other traits can be created in cooperation with the referee. The referee has final say if the species are appropriate to the setting: 
 
-- **Stone cunning**: You gain tremor sense for *L* x 10 minutes once per day
+- **Stone cunning**: You gain tremor sense for 10 x level minutes once per day
 - **Hearth born**: You are resistant to fire
 - **Burrower**: You can dig superhumanly fast
 - **Spiderclimb**: Your hands and feet stick to walls
@@ -21,3 +23,6 @@ The characters are assumed to be human; however, if the referee allows other non
 - **Monstrous**: You have an unarmed attack that inflicts 1d6 damage
 - **Smallfolk**: You have advantage on checks to avoid capture or detection
 - **Hardy**: You have advantage on checks against poison
+- **Seafolk**: You have a swim speed and can breathe underwater
+- **Tracker**: Your keen sense of smell allows you to track creatures up to 12 miles away
+- **Human**: You start with 1 extra ability point

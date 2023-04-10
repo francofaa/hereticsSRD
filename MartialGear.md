@@ -9,9 +9,11 @@ nav_order: 3
 {% include toc.html %}
 
 # Martial Gear
+
 Armor, shields, and weapons have additional rules and specific costs whereas most common gear can be assumed to cost 1d10 (5) coins.
 
 ## Armor
+
 Armor augments armored defense. ad+n means that the armor augments the armored defense stat while ad=n means that the armored defense is set equal to that number without the dexterity bonus. 
 
 Note that full plate and half plate assume that mail and gambesons may be part of the armored outfit. The armors denoted with *body* cannot be worn at the same time. This means that shields and helmets may augment ad=*n* suits of armor. A character wearing a shield, helmet, and full plate, for example, would have an armored defense of 18.
@@ -67,7 +69,7 @@ On a tag trigger, if your weapon has multiple tags, choose one to trigger.
 - *Versatile:* This weapon may be used with 2 hands.
 - *2h:* Roll 2 weapon die and take the higher result. 
 - *Shoving:* On a 20 or higher that hits, the attacker may choose to shove or trip the target.
-- *Dual-wield:* Two of these weapons can be wielded at the same time. On a 20 or higher that hits, the attacker may roll an additional weapon die. 
+- *Dual-wield:* Two of these weapons can be wielded at the same time. This does not grant an extra attack. On a 20 or higher that hits, the attacker may roll an additional weapon die. 
 - *Parrying:* On a 20 or higher that hits, the attacker's armored defense is increased by their +str bonus the next time the attacker is attacked. 
 - *Crushing:* On a 20 or higher that hits, the target's armored defense is reduced by the attacker's +str bonus the next time the target is attacked.
 - *Double-edged:* On a 20 or higher that hits, the attacker may make another attack with the butt of the polearm, inflicting 1d4 damage.

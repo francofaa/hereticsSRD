@@ -3,7 +3,7 @@ title: Combat Round
 layout: default
 permalink: /combatround
 nav_order: 3
-parent: Procedures
+parent: Time Procedures
 ---
 {% include toc.html %}
 
@@ -30,15 +30,17 @@ Roll 1d6. On a 1-3, the opposing side acts first. On a 4-6, the player character
 
 If surprise is possible, on a 1, the player characters are surprised. On a 6, the opposing side is surprised. While a side is surprised, no one on that side may perform any actions. 
 
-Creatures on each side go at the same time, deciding and declaring their actions together. 
+Creatures on each side go at the same time, deciding and declaring their actions together.
 
 Initiative is re-rolled every round. 
 
 ## Actions
 
-The winning side of initiative acts first, followed by the losing side. Movement is part of these actions and is limited to the maximum movement a character can make. During a round, a character may make 1 action and 1 free action, if available.
+The winning side of initiative acts first, followed by the losing side. Movement is part of these actions and is limited to the maximum movement a creature can make. During a round, a character may make 1 action and 1 free action, if available.
 
 Reactions may also occur during the opposing turn when relevant. Movement away from an enemy does not provoke attacks unless the enemy has a skill that says it does. Movement away from an enemy may not be possible if a creature has hindered that movement in some way.
+
+> A player can be designated as the caller to coordinate the actions of the party. Actions are declared to the referee in whatever order the party agreed on.
 
 ### Melee and Ranged Attacks
 
@@ -48,7 +50,7 @@ Melee attacks may be made within 5-10 feet. Ranged attacks cannot be made within
 
 If this value is equal to or over the defender's armored defense score, the attack hits. The attacker then rolls the weapon's damage die, inflicting damage on the defender. 
 
-#### Sundering Attack 
+#### Sundering Attack
 
 Before rolling damage for a melee attack, a character may choose to destroy their weapon in order to inflict double the dice in damage. 
 
@@ -64,13 +66,25 @@ Elemental damage can be measured in d6 (acid, fire, frost).
 
 ### Spell casting
 
-An attacker may choose to cast a spell or a use a medicinal. Follow the [spellcasting](spellcasting) procedures for more.
+An attacker may choose to cast a spell or a use a [medicinal](Medicinals). Follow the [spellcasting](spellcasting) procedures for more.
 
 ### Stunts
 
-Stunts or combat maneuvers are typically a +dex test against a target's relevant defense stat or against a DC set by the referee for an outcome.
+Stunts or combat maneuvers are typically a +dex test against a target's relevant defense stat or against a DC set by the referee for an outcome adjudicated by the referee. 
 
-If a stunt is used against a target, the attacker performing the stunt rolls against a target's relevant defense stat. The attacker describes what they'd like to accomplish and, on a successful hit, the defender may choose to accept that result or suffer damage instead.
+On a failure, the attempt does not succeed, but if there are any potential risks on a failure, the referee should describe them before allowing the roll. 
+
+A stunt can include
+
+   - Extinguishing fire
+   - Removing acid
+   - Doing a backflip
+   - Trip
+   - Disarm
+   - Taking something out of [deep inventory](Inventory#Quick%20Slots%20and%20Deep%20Slots) during combat
+   - Dodging around an enemy
+   - Escaping from binds
+   - Sliding under and past a gargantuan monster
 
 #### Taking something out of inventory
 
@@ -92,9 +106,9 @@ Actions can also be interactions with the environment. If the referee deems this
 
 A 20 is always a success and a 1 is always a failure.
 
-On a natural 20, an attack inflicts twice the dice in damage. On a natural 1, the attack may provide an opening to the defender, granting an advantageous position to the defender, unless it is mitigated by something else.
+On a natural 20, an attack inflicts double the damage dice. On a natural 1, the attack may provide an opening to the defender, granting an advantageous position to the defender, unless it is mitigated by something else.
 
-On a natural 20, a stunt may provide some advantage to the attacker that the referee may deem appropriate. When a stunt is done against a defender and they are allowed to choose the effect (whether the stunt is successful or they suffer damage), the defender will always suffer at least damage. For example, an attacker's tripping stunt is successful with a natural 20, and the defender may choose whether to suffer the effects of the stunt (be tripped) and suffer damage or suffer double damage.
+On a natural 20, a stunt may provide some additional advantage to the attacker that the referee may deem appropriate. 
 
 
 ### Advantage
@@ -106,8 +120,6 @@ When an attacker has advantage, they may choose to perform a stunt and an attack
 ### Disadvantage 
 
 Attackers suffer disadvantage from disadvantageous situations, such as being caught unawares or aiming at a defender that is behind partial cover. 
-
-
 
 ## Morale checks
 
@@ -123,14 +135,14 @@ The requesting character must make a +wil check against the enemy leader's (or s
 
 ## Retreat
 
-Characters may break and flee, which causes concentration to drop for any spells and for retainers to make morale checks. 
+Player characters may break and flee, which causes concentration to drop for any spells and for retainers to make morale checks.
 
 Retainers and allies must make a +wil save using the commander character's +wil bonus against the strongest enemy's wil defense or rout and flee. When their commander has already left battle, they make this save at disadvantage. 
 
-Creatures may choose to pursue the characters if they are still within line of sight. 
+Creatures may choose to pursue the player characters if they are still within line of sight. 
 
 ## Pursuit
 
-When fleeing a battle as a group (including retainers and hirelings), the player characters must describe how they flee the combat and the referee must provide the consequences of failure and success. Each player character must make a relevant saving throw depending on the scenario versus a DC equal to the pursuer's defense score of that skill, plus or minus any modifiers. Players should feel encouraged to drop traps and distractions to escape pursuers.
+When fleeing a battle as a group (including retainers and hirelings), the players must describe how they flee the combat and the referee must provide the consequences of failure and success. Each player character must make a relevant saving throw depending on the scenario versus a DC equal to the pursuer's defense score of that skill, plus or minus any modifiers. Players should feel encouraged to drop traps and distractions to escape pursuers.
 
 If all player characters fail their checks, the combat restarts, the enemies acting first with a surprise round.

@@ -17,21 +17,20 @@ A monster's threat level is measured by their hit dice (HD). Hit dice are always
 
 These can be done in any order. 
 
-1. Roll 1d20 on the [Monster Threat Table](#Monster%20Threat%20Table) to determine the threat level. 
-2. Roll 1d8 on the [Monster Type](#Monster%20Type) table to determine the strategies, strengths, and weaknesses.
-3. Roll 1d12 as many times as is desired on the [Monster Abilities](#Monster%20Abilities) table to determine special abilities.
-4. Roll 2d4 on the [Monster Motivations](#Monster%20Motivations) to determine the monster's motivations, if they are a leader (or a lone actor).
+1. Roll 1d20 on the [Monster Threat](#Monster%20Threat) table to determine the threat level. 
+2. Roll 1d12 on the [Monster Species](#Monster%20Species) table to determine species
+3. Roll 1d8 on the [Monster Type](#Monster%20Type) table to determine the strategies, strengths, and weaknesses.
+4. Roll 1d12 as many times as is desired on the [Monster Abilities](#Monster%20Abilities) table to determine special abilities.
+5. Roll 2d4 on the [Monster Motivations](#Monster%20Motivations) to determine the monster's motivations, if they are a leader (or a lone actor).
 
 
 ### Monster Conversion  
 
 Monsters can be pulled from any B/X derivation with little modification for Heretics. 
 
-Saving throws in Heretics work by rolling a d20 plus a relevant stat rather than rolling under a number for a particular type of save. Therefore, saving throws will be the most different thing. Refer to the Monster Threat Table for translating strong and weak saving throws. Consider what a monster might be good and bad at and use that to modify the d20 roll. 
+Saving throws in Heretics work by rolling a d20 plus a relevant stat rather than rolling under a number for a particular type of save. Therefore, saving throws will be the most different thing. Refer to the Monster Threat Table for translating strong and weak saving throws. Consider what a monster might be good and bad at and use that to modify the d20 roll. Alternatively, use the number of hit dice (HD) to provide saving throw bonuses. For example, a bear with 4HD has a +4 to their strength save but probably a +0 to their intelligence save.
 
-## Monster Threat Table 
-
-The dmg avg column refers to total damage across all attacks. 
+## Monster Threat 
 
 Strong stat, weak stat, and average stat refers to the monster's ability scores based on their monster type. These are used for their saving throws. 
 
@@ -64,9 +63,32 @@ In the To Hit column, the larger number (if there is one) should apply to monste
 | 21  | 94     | 14     | 16          | 8         | 10       |     |
 
 
+## Monster Species
+
+Select or roll for a monster species. 
+
+> Note that this is to aid in monster design and creation and should not be assumed to constitute an official objective taxonomy of creatures for this game. Fictional taxonomies run the danger of being presumed to be objective fact rather than just an incomplete set of identifiers enforced by a dominant group. Any fictional taxonomy should not be player-facing. 
+
+| d12 | Category    | Examples                                                                   |
+| --- | ----------- | -------------------------------------------------------------------------- |
+| 1   | Humanoid    | Anything human-like                                                        |
+| 2   | Beast       | Wolves, condors, eels                                                      |
+| 3   | Fairy       | Elves, goblins, redcaps                                                    |
+| 4   | Undead      | Vampires, zombies, skeletons                                               |
+| 5   | Plant       | Tree-folk, killer vines, mushroom-folk                                     |
+| 6   | Giant       | Ogres, trolls, ice giants                                                  |
+| 7   | Dragon      | Dragons!                                                                   |
+| 8   | Construct   | Living machines, living spells                                             |
+| 9   | Outsider    | Gods, devils, aliens                                                       |
+| 10  | Abomination | Creatures smashed together with other creatures, monsters created in a lab |
+| 11  | Ooze        | Cubes, globs, goops                                                        |
+| 12  | Elemental   | Djinn, water spirits, flame serpents                                       |
+
+
+
 ## Monster Type
 
-Monsters can be arranged by categories. These determine general strategies and strong and weak stats. 
+Monsters can be arranged by type. These determine general strategies and strong and weak stats. 
 
 Weaknesses can also include things like 
 
@@ -75,9 +97,7 @@ Weaknesses can also include things like
 - damage types
 - interruptions to senses
 
-Monsters can also have conditional immunities or cannot be truly defeated until certain conditions are met. For example, the ghost's ring has to be returned to its corpse before it can be destroyed. 
-
-
+Monsters can also have conditional immunities or cannot be truly defeated until certain conditions are met. For example, a ghost's ring has to be returned to its corpse before it can be destroyed. 
 
 | d8  | Type        | Strong                                          | Weak                                       | Strategy                                  |
 | --- | ----------- | ----------------------------------------------- | ------------------------------------------ | ----------------------------------------- |
@@ -97,6 +117,8 @@ Monsters can also have conditional immunities or cannot be truly defeated until 
 
 Consider **telegraphing** major attacks. For example, if a monster has a breath weapon, on the turn before, have them charge it up, rear its head back, allowing a ball of fire to form in its mouth. 
 
+Consider 1 ability plus 1 per 3 HD. Monsters may also have other unique abilities not included below, such as a teleporting strike, summoning other monsters, or a death curse. 
+
 | d12 | Ability            | Effect                                                                                                                                                                                                              |
 | --- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | Pounce             | Movement in a straight line, attack forces str save or knocked prone.                                                                                                                                               |
@@ -112,7 +134,32 @@ Consider **telegraphing** major attacks. For example, if a monster has a breath 
 | 11  | Conditional bonus  | Bonus to damage, to hit, to adef, to wdef, HP regeneration, or other stat under certain conditions (darkness, underwater, in a forest, if not damaged by fire etc)                                                  |
 | 12  | Spell caster       | Casts a spell from the [spell list](d100spells)                                                                                                                                                                     |
 
-Special monsters may also have other unique abilities, such as a teleporting strike, summoning other monsters, or a death curse. 
+
+
+Monster attacks may have special damage types. Roll or choose as many as seem appropriate. 
+
+You may also roll on this table to determine monster vulnerabilities and resistances. Consider giving monsters vulnerabilities to reward well-prepared players. This could be done by rolling a 1d6 for this table below and on a 5-6, the monster has no vulnerability/resistance.
+
+| 1d4 | Damage Types                                     |
+| --- | ------------------------------------------------ |
+| 1   | Ripping (Slashing, Piercing)                     |
+| 2   | Blunt (Bludgeoning, Thunder, Force)              |
+| 3   | Shocking (Lightning, Cold, Psionic, Radiant)     |
+| 4   | Caustic (Fire, Acid, Necrotic) or Toxic (Poison) |
+
+Monster attacks may inflict certain conditions. This is a non-exhaustive table of potential conditions. You may also use this table to determine any conditions the monster is immune to. 
+
+| 1d8 | Conditions | Effect                                                                   |
+| --- | ---------- | ----------------------------------------------------------------- |
+| 1   | Exhausted  | Disadvantage on all rolls                                         |
+| 2   | Paralyzed  | Unable to make any movement                                       |
+| 3   | Grappled   | Speed is 0, disadvantage on all rolls except to break the grapple |
+| 4   | Charmed    | Must act friendly toward the charming creature                    |
+| 5   | Blinded    | Unable to see                                                     |
+| 6   | Deafened   | Unable to hear                                                    |
+| 7   | Stunned    | Unable to make significant movements                              |
+| 8   | Poisoned   | Disadvantage on all actions                                       |
+
 
 ## Monster Motivations 
 

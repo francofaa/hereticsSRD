@@ -2,12 +2,9 @@
 title: Robberies and Heists
 layout: default
 permalink: /robberiesandheists
-parent: downtimecycle
-grand_parent: Procedures
+parent: Mechanical Procedures
 ---
 {% include toc.html %}
-
-
 
 # Robberies and Heists
 

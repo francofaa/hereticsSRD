@@ -1,9 +1,9 @@
 ---
-title: Dueling Beat
+title: Dueling
 layout: default
-permalink: /duelingbeats
+permalink: /dueling
 nav_order: 2
-parent: Procedures
+parent: Mechanical Procedures
 ---
 {% include toc.html %}
 
@@ -43,6 +43,6 @@ Feint beats parry. The feinting character creates openings in the parrying chara
 
 Both parties roll their attacks using their weapons as normal, applying the bonuses based on their strategies.
 
-If both sides choose the same effect, they receive the same bonuses. Parrying characters have a defensive standoff (+3 to ADef), pushing characters bloody each other recklessly (+3 to damage), feinting characters pirouette and counter each other (+3 to hit).
+If both sides choose the same effect, they receive the same bonuses. Parrying characters have a defensive standoff (+3 to adef), pushing characters bloody each other recklessly (+3 to damage), feinting characters pirouette and counter each other (+3 to hit).
 
 The end of a duel can happen at any point that makes sense in the gameplay, whether through the interruption of a larger conflict, the surrender of an opponent, or the death of an opponent. 

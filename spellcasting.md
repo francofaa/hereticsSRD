@@ -23,8 +23,8 @@ Spells live as inscribed words and diagrams upon artifacts, spellbooks, relics, 
 - **D:** Duration. Spells with ongoing effects will be denoted as such. This is also where concentration will be denoted. 
 - **R:** Range of spells, as a distance.
 - **T:** The target(s) of the spell. 
-- **\[dice\]** means the number of mana dice rolled. 
-- **\[sum\]** means the sum of the mana dice rolled. 
+- **dice** means the number of mana dice rolled. 
+- **sum** means the sum of the mana dice rolled. 
 - **Attack.** This refers to whether a spell requires a spell attack. This requires a d20+int attack against the target's warded defense.
 - **Save.** This refers to whether a spell requires a save from the target and specifies the ability. For +wil saves, the target uses their warded defense bonus instead. The DC is always equal to the caster's intelligence defense. 
 - **Concentration**. Some spells require concentration to maintain. If a spellcaster is attacked or performs an action other than maintaining concentration on the spell, the spell's effect ends. 
@@ -66,11 +66,11 @@ Mishaps may be avoided by destroying a **ward.** Dooms may be avoided by destroy
 
 Count dooms as they accumulate.
 
-|     | dooms                                                                                   |
-| --- | --------------------------------------------------------------------------------------- |
-| 1st | Drop to 0 HP.                                                                           |
-| 2nd | Lose the ability to cast spells for 3 days.                                             | 
-| 3rd | The spell escapes the object and you are trapped in the object now. You become a spell. |
+| Count | dooms                                                                                   |
+| ----- | --------------------------------------------------------------------------------------- |
+| 1st   | Drop to 0 HP, taking 1 omen.                                                            |
+| 2nd   | Lose the ability to cast spells for 3 days.                                             |
+| 3rd   | The spell escapes the object and you are trapped in the object now. You become a spell. |
 
 ### Coven Casting
 With a magical ritual and symbols (like string tied around fingers, rings, tattoos, etc), characters may be bound together and **share** mana dice in a single pool. 

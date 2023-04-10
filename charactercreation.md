@@ -9,7 +9,7 @@ parent: Character
 
 # Character Creation
 
-When a player is creating a character, follow the character creation procedure to generate: 
+When a player is creating a heretic, follow the character creation procedure to generate
 
 1. [Ability Scores](#Ability%20Scores)
 2. [Secondary Attributes](#Secondary%20Attributes)
@@ -28,6 +28,8 @@ For character sheets:
 
 > There are also alternative [level zero start](levelzerostart) procedures.
 
+After the party is created, the players should work with the referee to generate their [Source](Source), the otherworldly entity that grants them access to magic and power. 
+
 ## Ability Scores
 
 Character abilities are 
@@ -39,20 +41,21 @@ Character abilities are
 
 All ability bonuses start at 0. Add 10 to get that ability's defense. For example, a strength bonus of +2 is a strength defense of 12. 
 
-Roll 1d4 four times. Each time, add +1 to an ability according to its order above. 1=Strength, 2=Dexterity, 3=Willpower, 4=Intelligence. Then roll 1d4 once. Subtract 1 from the ability that is rolled. You may then swap 2 ability bonus scores.
+Roll 1d4 three times. Each time, add +1 to an ability according to its order above. 1=Strength, 2=Dexterity, 3=Willpower, 4=Intelligence. 
 
-For example: The first d4 lands on a 4, so Intelligence is increased by 1. The second lands on a 3, so Willpower increases by 1. The third lands on 4 again, so Intelligence is increased by 1. The fourth lands on 3, so Willpower increases by 1. The last lands on 1, so Strength is *decreased* by 1. The array ends with Strength=-1, Dexterity=0, Willpower=2, Intelligence=2.
+Then roll 1d4 once. *Subtract* 1 from the ability that is rolled. 
+
+You may then swap 2 ability bonus scores.
+
+For example: The first d4 lands on a 4, so Intelligence is increased by 1. The second lands on a 3, so Willpower increases by 1. The third lands on 4 again, so Intelligence is increased by 1. The last lands on 1, so Strength is *decreased* by 1. The array ends with Strength=-1, Dexterity=0, Willpower=1, Intelligence=2.
 
 Possible starting arrays, not taking into account position of abilities, are as follows.
 
-1. 4, 0, 0, -1
-2. 3, 1, 0, -1 
-3. 3, 0, 0, 0
-4. 2, 2, 0, -1
-5. 2, 1, 0, 0
-6. 2, 1, 1, -1
-7. 1, 1, 1, 0
-
+1. 3, 0, 0, -1
+2. 2, 1, 0, -1
+3. 1, 1, 1, -1
+4. 2, 0, 0, 0
+5. 1, 1, 0, 0
 
 Refer to [Abilities](Abilities) for more information.
 
@@ -75,18 +78,17 @@ Your secondary abilities are derived as follows:
 
 Movement is 40 feet of combat movement and 120 feet of exploration movement.
 
+Omens start at 0.
+
 ## Hit Protection 
 
-Roll 1d8 to find your hit protection. Add your strength bonus. If this would start the character at 0 or less, the character instead starts with 1 point of hit protection.
-
-You may also roll 1d8 rerolling 1's and 2's or 2d4.
+Roll 1d8 to find your hit protection. You may also roll 1d8 rerolling 1's and 2's or 2d4.
 
 Refer to [Damage](Damage) for more on hit protection.
 
 ## Gear
 
-Roll 1d4, 1d6, 1d8, 2d10 (10's and 1's places), 1d12, and 1d20 or choose from the lists below to determine the gear for your character. Optionally, make up your own.
-
+Roll 1d4, 1d6, 1d8, 2d10 (10's and 1's places), 1d12, and 1d20 or choose from the lists below to determine the gear for your character. If there are blanks, the character receives nothing. 
 
 | d4  | Magical Gear                          | Requirement     |
 | --- | ------------------------------------- | --------------- |
@@ -97,11 +99,11 @@ Roll 1d4, 1d6, 1d8, 2d10 (10's and 1's places), 1d12, and 1d20 or choose from th
 
 Roll 1d8 and 1d6 and cross reference the numbers to find your background. You get all the gear from your background. Each piece of gear takes up one slot.
 
-You start with 1 background which also informs what you start with on your person. These are failed professions that you endeavored before becoming an adventurer, so treat them as such. 
+You start with 1 background which also informs what you start with on your person. These are failed professions, so treat them as such. 
 
 > For non-human species, if they are allowed in the campaign, refer to the [other species](otherspecies). This may replace or supplement your background. Consult with your referee before doing this.
 
-Actions performed using skills or tools relevant to a character's background may not require a roll to resolve or may be given some bonus based on the referee's discretion.
+Actions performed using skills or tools relevant to a heretic's background may not require a roll to resolve or may be given some bonus based on the referee's discretion.
 
 | d8/d6 | 1                                                       | 2                                                            | 3                                                               | 4                                                                | 5                                                                      | 6                                                       |
 | ----- | ------------------------------------------------------- | ------------------------------------------------------------ | --------------------------------------------------------------- | ---------------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------- |
@@ -129,7 +131,6 @@ Actions performed using skills or tools relevant to a character's background may
 | 9   | helmet          | 1              |
 | 10  | helmet & shield | 2              |
 
-
 [Armor](MartialGear#Armor) augments armored defense (ad). 
 
 | d00 | Armor                       | Slots Required | Armored Defense Bonus |
@@ -145,9 +146,7 @@ Actions performed using skills or tools relevant to a character's background may
 | 90  | brigandine or lamellar      | 1              | +2                    |
 | 00  | mail                        | 2              | +3                    |
 
-
 [Weapons](MartialGear#Weapons) have damage die, tags, and damage types. 
-
 
 | d12 | Weapons             | Slots Required | Damage | Hands    | Tags                                             | Damage Type          |
 | --- | ------------------- | -------------- | ------ | -------- | ------------------------------------------------ | -------------------- |
@@ -191,7 +190,7 @@ Actions performed using skills or tools relevant to a character's background may
 
 ## Traits
 
-Roll 1d4, 1d6, 1d8, 2d10 (10's and 1's places), 1d12, and 1d20 or choose from the lists below to determine the character traits and relationships for your character. Optionally, make up your own.
+Roll 1d4, 1d6, 1d8, 2d10 (10's and 1's places), 1d12, and 1d20 or choose from the lists below to determine the character traits and relationships for your character. 
 
 | d4  | Age                 |
 | --- | ------------------- |
@@ -219,7 +218,7 @@ Roll 1d4, 1d6, 1d8, 2d10 (10's and 1's places), 1d12, and 1d20 or choose from th
 | 5   | Whispery   |
 | 6   | Drawling   |
 | 7   | Rapid-fire |
-| 8   | Slow       |
+| 8   | Monotone   |
 
 
 
@@ -290,8 +289,8 @@ Roll 1d4, 1d6, 1d8, 2d10 (10's and 1's places), 1d12, and 1d20 or choose from th
 | 20  | I lost a bet to them                      |
 
 ## Name
-Choose or roll on a naming table. For the Isurholm setting, there is a [names table](namestables) available.
 
+Choose or roll on a naming table. For the Isurholm setting, there is a [names table](namestables) available.
 
 ## Languages
 
@@ -311,26 +310,26 @@ Every initial +1 to intelligence can be spent on an **uncommon language**.
 - Distant: Languages of people that do not live here
 - Trade: Pidgins and cants inherent to certain trades
 
-### Uncommon languages:
+### Uncommon languages
 
 - Ancient: Old versions of the same languages
-- Monster (costs 2): Languages of anything but humans and humanoid species, such as fey languages, merrow languages, goblin languages, and so on. The language should be assumed to be a language of that particular region. For example, a merrow living 1,000 miles away probably does not speak the same language as the merrows who taught you. In fact, if deemed appropriate by the referee, a merrow living downstream may speak a completely different language as well.
+- Monster (costs 2): Languages of anything but humans and humanoid species, such as fey languages, merfolk languages, goblin languages, and so on. The language should be assumed to be a language of that particular region. For example, a merfolk living 1,000 miles away probably does not speak the same language as the merfolk who taught you. In fact, if deemed appropriate by the referee, a merfolk living downstream may speak a completely different language as well.
 - Otherworldly (costs 3): Languages of creatures outside of this world
 - Divine (costs 3): Languages of deities, including fiends
 
 
-# Reading a Stat Line
+## Reading a Stat Line
 All creatures can be expressed in a single stat line. 
 
 1. L# or \#HD: Indicates level for a player character or retainer / hit dice for monsters
 2. HP \#: Indicates hit protection. 
-3. AD # (*armor, if applicable*): Armored Defense stat, followed by any modifying armor pieces
-4. WD # (*wards, if applicable*): Warded Defense stat followed by any modifying wards. 
+3. AD \# (*armor, if applicable*): Armored Defense stat, followed by any modifying armor pieces
+4. WD \# (*wards, if applicable*): Warded Defense stat followed by any modifying wards. 
 5. STR # DEX # WIL # INT #: The four ability in a row. Only lists the bonus. Add 10 to get the defense. When a stat line omits the ability, its bonus is 0. 
 6. MV # (#): Movement, in feet. The first number is exploration (10 minutes in a dungeon), second number combat movement (10 seconds). Usually omitted if it is 120 (40).
 7. Att: Attacks, usually followed by a to-hit bonus, a die (damage), and a parenthetical indicating the weapon, or spell. 
 8. Items: List of all items that the creature carries. 
-9. *Special ability*: Any additional abilities. [Knacks](Knacks) can appear here. Monsters have their abilities here as well. 
+9. *Special ability*: Any additional abilities. [Boons](Boons) can appear here. Monsters have their abilities here as well. 
 
 **Example:** 
 

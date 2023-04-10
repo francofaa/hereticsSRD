@@ -1,11 +1,11 @@
 ---
-title: Procedures
+title: Time Procedures
 layout: default
-permalink: /Procedures
+permalink: /TimeProcedures
 nav_order: 6
 has_children: true
 ---
 
-# Procedures
+# Time Procedures
 
 This section provides rules, procedures, lists, and tables for time-based encounters like fighting, exploring, and resting. 

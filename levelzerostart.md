@@ -2,9 +2,10 @@
 title: Level Zero Start
 layout: default
 permalink: /levelzerostart
-nav_order: 6
+nav_order: 7
 parent: Character
 ---
+
 {% include toc.html %}
 
 # Level Zero Start
@@ -25,4 +26,4 @@ Upon turning in 100 experience points, you reach level 1. Note that level 2 is s
 
 Determine your new level 1 abilities using the [character creation](charactercreation) rules as normal. Based on the funnel adventure, narratively, you may want to increase or decrease certain abilities. 
 
-Add your strength bonus to your hit protection
+Reroll your hit protection at advantage (roll 2d8, take the higher).

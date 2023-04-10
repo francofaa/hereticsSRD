@@ -8,9 +8,11 @@ tags: index
 
 ![Heretics cover image](heretics.png)
 
-Version 0.4.1 (initial play testing materials)
+Version 0.5 (initial play testing materials)
 
 Franco A. Alvarado
+
+Published by [Root Devil](https://rootdevil.itch.io/)
 
 ## Compatibility 
 
@@ -18,7 +20,7 @@ These rules are intended to be compatible with adventures designed for games lik
 
 ## Ludography
 
-*Heretics* is a cobbled-together game in the folk tradition of homebrew gaming tables with various ideas, mechanics, and philosophies borrowed (looted) from treacherous delves into blogs, forums, chat groups, adventures, and systems. A complete catalogue of those would be impossible due to the nature of memory and due to the litigious natures of certain organizations who don't even like to be mentioned. But those I have remembered and those that are not so litigious are listed below:
+*Heretics* is a cobbled-together game in the folk tradition of homebrew gaming tables with various ideas, mechanics, and philosophies borrowed (looted) from treacherous delves into blogs, forums, chat groups, adventures, and systems. A complete catalogue of those would be impossible due to the nature of memory and due to the litigious natures of certain organizations who don't even like to be mentioned. But those I have remembered are listed below:
 
 - [Arcane Ugly](https://miscastterrain.itch.io/arcaneugly) 
 - [Knave](https://www.drivethrurpg.com/product/250888/Knave) 
@@ -48,6 +50,8 @@ These rules are intended to be compatible with adventures designed for games lik
 - [Telecanter](https://recedingrules.blogspot.com/)
 - [Dungeonfruit](https://dungeonfruit.blogspot.com/)
 - [Skerples](https://coinsandscrolls.blogspot.com)
+- [level2janitor](https://level2janitor.blogspot.com/)
+- [Revenant Quill](https://www.revenant-quill.com/)
 
 
 
@@ -66,5 +70,6 @@ The text of *Heretics* may not be used verbatim.
 Any artists contributing artwork to *Heretics* maintain copyright of their work.
 
 ## Colophon
+
 Display font is Pirata One. Body text is Noto Serif. Headings are set in Roboto.
 

@@ -3,7 +3,7 @@ title: Lockpicking
 layout: default
 permalink: /lockpicking
 nav_order: 1
-parent: Procedures
+parent: Mechanical Procedures
 ---
 
 {% include toc.html %}
@@ -12,9 +12,9 @@ parent: Procedures
 
 To pick a lock, the character tries an action to unlock a tumbler. Every lock has three tumblers. The actions are:
 
-- Tap
-- Probe
-- Rake
+- Tap (T)
+- Probe (P)
+- Rake (R)
 
 ## Qualities of Locks
 
@@ -30,49 +30,35 @@ A failure on a stiff lock results in the lock getting jammed. It must be broken 
 
 ## Creating Locks
 
-Randomize or choose a lock type. Each has a durability score.
+To create a lock, roll 1d12 per column below (3d12). 
 
-| d6  | Lock Type | Durability | Sequence |
-| --- | --------- | ---------- | -------- |
-| 1   | Pin       | 4          |          |
-| 2   | Bolt      | 6          |          |
-| 3   | Screw     | 8          |          |
-| 4   | Cylinder  | 10         |          |
-| 5   | Warding   | 12         |          |
-| 6   | Strange   | ?          |          |
+| d12 | Lock Type (durability) | Sequence | Complication |
+| --- | ---------------------- | -------- | ------------ |
+| 1   | Crude (1)              | TPT      |              |
+| 2   | Pin (2)                | TPR      |              |
+| 3   | Bolt      (4)          | TRT      |              |
+| 4   | Screw     (6)          | TRP      |              |
+| 5   | Cylinder (8)           | PTP      | Cracked      |
+| 6   | Anchor  (10)           | PTR      | Worn         |
+| 7   | Warding (12)           | PRT      | Worn         |
+| 8   | Elvish  (14)           | PRP      | Reinforced   |
+| 9   | Goblin  (16)           | RTP      | Reinforced   |
+| 10  | Dwarven (16)           | RTR      | Delicate     |
+| 11  | Gnomish (16)           | RPT      | Delicate     |
+| 12  | Strange (?)            | RPR      | Trapped      |
+
+Once a lock type has a sequence assigned to it, that association is **permanent.** That is, if a gnomish lock results in the sequence RPR, that is always the sequence to unlock all future gnomish locks.
 
 ### Sequences
 
 Once the lock is created, the referee should select or randomize the sequence required for picking the lock. Note that the sequence should be filled into the table above for every campaign that is run. All locks of the same type should unlock with the same sequence. 
 
-The sequences follow below, where T = Tap, P = Probe, and R = Rake
-
-1. TPT
-2.  TPR
-3.  TRT
-4.  TRP
-5.  PTP
-6.  PTR
-7.  PRT
-8.  PRP
-9.  RTP
-10.  RTR
-11.  RPT
-12.  RPR
-
-### Sub-Categories of Locks
-
-Since there are a total of 12 possible combinations and 6 lock types, additional variations can be added to lock types, like an Elvish bolt lock or a Dwarven-forged screw lock. 
-
 ### Lock Complications
 
-Complications may be added to the locks. These complications can be rolled on a d6 table: 
-
-| d6  | Complication | Effect                                                                 |
-| --- | ------------ | ---------------------------------------------------------------------- |
-| 1   | Cracked      | Any action works on the first tumbler                                  |
-| 2   | Worn         | First jam is ignored                                                   |
-| 3   | Normal       |                                                                        |
-| 4   | Reinforced   | Double the durability                                                  |
-| 5   | Delicate     | First mistake jams the lock                                            |
-| 6   | Trapped      | Every mistake triggers a trap (needle, spray, etc) inflicting 1 damage |
+| Complication | Effect                                                                 |
+| ------------ | ---------------------------------------------------------------------- |
+| Cracked      | Any action works on the first tumbler                                  |
+| Worn         | First jam is ignored                                                   |
+| Reinforced   | Double the durability                                                  |
+| Delicate     | First mistake jams the lock                                            |
+| Trapped      | Every mistake triggers a trap (needle, spray, etc) inflicting 1 damage |

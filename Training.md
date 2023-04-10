@@ -2,14 +2,13 @@
 title: Training
 layout: default
 permalink: /training
-parent: downtimecycle
-grand_parent: Procedures
+parent: Mechanical Procedures
 ---
 {% include toc.html %}
 
 # Training 
 
-During a [downtime cycle](downtimecycle), characters may choose to make progress on learning, study, and training. 
+During a [downtime cycle](downtimecycle), characters may choose to make progress on learning, study, and training. The referee should create a tracker for a character's progress.
 
 ## Learning a Trade
 
@@ -36,11 +35,11 @@ To reach the level of a legend in the trade, the referee may require specific qu
 | Master       | 4,000                     | 3                            |
 | Legend       | n/a                       | n/a                          |
 
-## Training Knacks
+## Training
 
-Rather than acquiring [Knacks](Knacks) through the expenditure of ability points upon leveling, a character can train a knack. 
+Rather than acquiring [Boons](Boons) through the expenditure of ability points upon leveling, a character can acquire them through training.
 
-Learning a knack from an instructor costs time, training, and coin. 
+Learning a skill normally gained as a boon from an instructor costs time, training, and coin. 
 
 The character rolls 1d20 + a relevant ability and compares the result to the table below. The character may attempt 1 training session per downtime cycle.
 
@@ -50,7 +49,7 @@ The character rolls 1d20 + a relevant ability and compares the result to the tab
 | 10-15 | Next downtime cycle, the training is successful. |
 | 0-9   | No progress is made during training.             |
 
-A character must succeed three times to acquire the knack, spending 1,000 coins per attempt. If the character fails three times in total, they are refused further training. Another instructor must be found and the process must start all over. 
+A character must succeed three times to acquire the boon, spending 1,000 coins per attempt. If the character fails three times in total, they are refused further training. Another instructor must be found and the process must start all over. 
 
 ## Animal Training
 

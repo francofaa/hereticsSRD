@@ -26,10 +26,13 @@ Wards augment Warded defense. Starting wards are very simple, likely made by the
 
 Characters may not start with stronger wards than wd+1.
 
-- fetish wd+1 at, 10 coins
-- chain wd+1 at, 20 coins
-- charm wd+1 at, 10 coins
-- scapular wd+1 at, 5 coins
+
+Examples: 
+
+- fetish wd+1, 10 coins
+- chain wd+1, 20 coins
+- charm wd+1, 10 coins
+- scapular wd+1, 5 coins
 
 Wards can be broken to nullify the effects of a spell on the wielder (and only the wielder). Other magical items do not have this ability, unless specified. For example, if a fireball is cast in an area and the target has a ward that they wish to break as a reaction to avoid all damage from the fireball, they may do so; however, anyone or anything else in that area of effect is still affected. Basically, this is not a free counterspell but a magical bubble. The ward cannot be repaired. 
 
@@ -38,7 +41,9 @@ Wards can be broken to nullify the effects of a spell on the wielder (and only t
 
 Magical focuses, such as orbs, wands, or staves, may grant special powers. Generally, a focus could grant a number of non-renewable mana dice per day (that is, mana dice that do not return to your pool regardless of the result). Focuses can also make casting [Wild Magic](spellcasting#Wild%20Magic) safer. Casting a specific effect using wild magic and a focus may result in that new magical effect inhabiting the focus and becoming a spell. The player and referee may work together to create a new spell. 
 
-- pearlescent orb 2 md at, 2,000 coins
-- ruby wand 3 md at, 6,000 coins
-- yew staff 1 md at, 1,000 coins
-- ash staff 1 md at, 1,000 coins
+Examples: 
+
+- pearlescent orb 2 md, 2,000 coins
+- ruby wand 3 md, 6,000 coins
+- yew staff 1 md, 1,000 coins
+- ash staff 1 md, 1,000 coins

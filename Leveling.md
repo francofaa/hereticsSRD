@@ -68,6 +68,6 @@ Calculate the fate modifier (which starts at 0) by referencing the tables below.
 | ----- | ------------- |
 | 1-5   | -1            |
 | 6-9   | 0             |
-| 10    | +1            |
+| 10+    | +1            |
 
 Their fate should be written on the back of their character sheet. The referee cannot use this heretic as an NPC against the party or be put in danger, and the heretic cannot return to be played as an NPC or PC.

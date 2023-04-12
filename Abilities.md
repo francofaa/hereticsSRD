@@ -78,7 +78,7 @@ Mental, forceful
 
 ### Static 
 - **Warded defense**, equal to willpower defense plus any wards
-- **[Mana dice pool](spellcasting),** equal to willpower bonus
+- **[Magic dice pool](spellcasting),** equal to willpower bonus
 - **Maximum Retainers**, in hit dice, equal to willpower bonus (minimum 0)
 
 #### Warded defense

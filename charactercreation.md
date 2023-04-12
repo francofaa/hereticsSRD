@@ -2,7 +2,7 @@
 title: Character Creation
 layout: default
 permalink: /charactercreation
-nav_order: 1
+nav_order: 2
 parent: Character
 ---
 {% include toc.html %}
@@ -69,7 +69,7 @@ Your secondary abilities are derived as follows:
 	- Armored defense = defense score, plus any armor
 	- Maximum ammo = defense score (start with all of your ammo)
 - From Willpower
-	- Mana Dice = bonus score 
+	- Magic Dice = bonus score 
 	- Maximum retainers = bonus score
 	- Warded defense = defense score, plus any wards
 - From Intelligence
@@ -95,7 +95,7 @@ Roll 1d4, 1d6, 1d8, 2d10 (10's and 1's places), 1d12, and 1d20 or choose from th
 | 1   |                                       |                 |
 | 2   | 1 [medicinal](Medicinals) 5/5 (d10)                 | 1 slot          |
 | 3   | 1 wd+1 [ward](magicalitems#Wards)                           | +1 int, 1 slot  |
-| 4   | 1 [spell](d100spells) (d100) & 1 [focus](magicalitems#Focuses) (1 mana die) | +1 int, 2 slots |
+| 4   | 1 [spell](d100spells) (d100) & 1 [focus](magicalitems#Focuses) (1 magic die) | +1 int, 2 slots |
 
 Roll 1d8 and 1d6 and cross reference the numbers to find your background. You get all the gear from your background. Each piece of gear takes up one slot.
 
@@ -116,7 +116,7 @@ Actions performed using skills or tools relevant to a heretic's background may n
 | 7     | Trader: valuable trinket, ink and quill, 2d6 x 10 coins | Tinker: grease, fine tools, scrap metal                      | Bounty-hunter: quiver of bolts, crossbow, dagger                | Cut-purse: dagger, disguise kit, ball bearings                   | Gambler: loaded dice or trick deck, mirror, 10 + 1d4! coin (exploding) | Apothecary: empty vials, antitoxin, shears              |
 | 8     | Messenger: traveling papers, lantern, bedroll           | Hedge witch: fetish wd+1, 1 medicinal 5/5, mortar and pestle | Pit-fighter: cudgel, gambeson, net                              | Alchemist: potion brewing kit, ink and quill, antitoxin          | Blacksmith: hammer, metal file, bellows                                | Scholar: ink and quill, blank book, sealing wax         |
 
-[Shields and helmets](MartialGear#Armor) add +1 to armored defense (ad).
+[Shields and helmets](MartialGear#Armor) add +1 to armored defense (adef).
 
 | d10 | Armor           | Slots Required |
 | --- | --------------- | -------------- |

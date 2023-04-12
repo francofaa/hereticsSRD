@@ -86,7 +86,7 @@ Information that the heroes have about the world is imperfect.
 - Mining, ores
 - Fossil fuels
 - Leyline intersections
-- Mana crystal mines
+- Magic crystal mines
 - Magic mushroom forests
 
 How do these interact? For instance, a wizard builds a tower that threatens a druid's grove 

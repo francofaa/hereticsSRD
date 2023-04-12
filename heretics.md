@@ -8,11 +8,11 @@ tags: index
 
 ![Heretics cover image](heretics.png)
 
-Version 0.5 (initial play testing materials)
+Or *Oops, All Warlocks!*
 
-Franco A. Alvarado
+Version 0.6 (initial play testing materials)
 
-Published by [Root Devil](https://rootdevil.itch.io/)
+Franco A. Alvarado / [Root Devil](https://rootdevil.itch.io/)
 
 ## Compatibility 
 
@@ -20,7 +20,7 @@ These rules are intended to be compatible with adventures designed for games lik
 
 ## Ludography
 
-*Heretics* is a cobbled-together game in the folk tradition of homebrew gaming tables with various ideas, mechanics, and philosophies borrowed (looted) from treacherous delves into blogs, forums, chat groups, adventures, and systems. A complete catalogue of those would be impossible due to the nature of memory and due to the litigious natures of certain organizations who don't even like to be mentioned. But those I have remembered are listed below:
+*Heretics* is a cobbled-together game in the folk tradition of homebrew gaming tables with various ideas, mechanics, and philosophies borrowed (looted) from treacherous delves into blogs, forums, chat groups, adventures, and systems. A complete catalogue of those would be impossible due to the ephemeral nature of memory and due to the litigious natures of certain organizations who don't even like to be mentioned. But those I have remembered are listed below:
 
 - [Arcane Ugly](https://miscastterrain.itch.io/arcaneugly) 
 - [Knave](https://www.drivethrurpg.com/product/250888/Knave) 

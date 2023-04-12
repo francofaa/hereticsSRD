@@ -14,7 +14,6 @@ The heretics are in a low magic world, secret followers of a mysterious [Source]
 
 The players may treat their Source like an aloof warlock patron that checks in every now and then and doesn't ask for much, or like an overly involved otherworldly entity on their shoulder, asking when they're gonna find that goat for the sacrifice, it's been weeks. 
 
-
 ## Principles for Players
 
 - **Danger is real.** Make a few characters to start with. Choosing combat is always the most dangerous option, but that also means,
@@ -28,7 +27,7 @@ The players may treat their Source like an aloof warlock patron that checks in e
 - **Healing is slow.** Healing only occurs when you have the time and resources to do so. 
 - **Player ingenuity over character abilities.** As in real life, the only way to guarantee victory is with ingenuity, cunning, cleverness, planning, and overwhelming force. Luck is fickle and your modifiers aren't that good.
 - **Magic is dangerous.** Mishaps will happen and dooms may occur. Spells are alive and live inside of objects. You can cast magic without artifacts and invent spells or magical effects on the fly but it's dangerous to be your own battery.
-- **Level-less spells.** Spells are just spells and their power increases depending on how much power you imbue into it using mana dice.
+- **Level-less spells.** Spells are just spells and their power increases depending on how much power you imbue into it using magic dice.
 - **No dump stats, no god stats.** There are only four ability scores (strength, dexterity, intelligence, and willpower) and they are set up in pairs (physical vs mental and offensive vs defensive). A spell-caster with high strength can carry more spell books, and a melee fighter with high willpower can command more retainers.
 - **But no classes, just inventory.** No classes means everyone can cast spells, swing swords, charm merchants, and walk across a tightrope. Boons help characters specialize but ultimately, what you have is what you can do. And inventory management is important but it is simplified with a slot mechanic. 
 - **Your character is not the sheet.** If your ability score is low, it doesn't mean you have to roleplay it that way. It just means you have to prepare more to accommodate for the potential of failure. Avoid ever having to roll.
@@ -44,3 +43,19 @@ The players may treat their Source like an aloof warlock patron that checks in e
 - **Rulings over rules.** If at any time a rule is unclear or doesn't make sense or there is an argument over it, make a decision and move the game along, and put a pin in the rule and email me about it please. It's important to move the game along.
 - **Players, not characters.** Along with the above rule, also make sure that when a player character finally dies, that player has another character that can jump in quickly, even if it seems unlikely. Who cares. We all want to play and it sucks to sit on the sidelines for any amount of time. Whether it makes sense ("I was exploring this dungeon too!" "I've been looking everywhere for you!" "I was just a torch bearer but that PC's death made me gain a PC level and now I'm also here. Can I have their stuff?") or not ("I'm Hank's son, Hank 2, but just call me Hank"), just keep it moving. 
 - **Fudge is for eating.** Don't fudge rolls: You are the world, and the world sometimes deals a bad hand. Roll openly to preserve this until you get the hang of it.
+
+## Safety Tools
+
+The themes, premise, and mechanics of Heretics can be dark, but the game you play doesn't have to be. By their nature, content warnings can be scary just being mentioned. The items that this warning includes are not viscerally described but are worth keeping in mind when presenting a session of Heretics to your players. 
+
+Here follow some specific warnings:
+
+- Death and [horrible injury](Damage#Omens) are expected, but can be described to the table's comfort.
+- There is one [Boon](Boons) that references self-harm, which can be removed or modified.
+- There are [Aspects](Source#Aspects) of the [Source](Source) that reference body horror, which can also be removed.
+- The premise is that of a [deity-like entity](Source) and its followers, which can trigger religious trauma, but I recommend treating the Source as an aloof warlock patron out of the box.
+
+The European medieval historical eras that fantasy role-playing games pretend that they're replicating may have been horrible, but that doesn't mean your table wants to act them out. Make sure to communicate lines and veils for your games and allow space for your players to communicate their hard outs. The following links provide resources for safety tools. If these links die one day, search online for "ttrpg safety tools."
+
+- [Safety tools](https://drive.google.com/drive/folders/114jRmhzBpdqkAlhmveis0nmW73qkAZCj) Opens a google drive link with a PDF
+- [Script Change](https://thoughty.itch.io/script-change) Opens a link to an itch.io page.

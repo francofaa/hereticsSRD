@@ -23,15 +23,15 @@ Note that weapons of different materials (silver, gold, obsidian) are not magica
 
 ## Magic Focuses 
 You may only wield one of these at a time. 
-- Eye of the Witchking: Remove your own eye and insert this eye. It is blackened with a red pupil. The wearer permanently has an additional 3 mana dice. Doom: The caster becomes an undead creature, under the sway of the Witchking. 
-- Witch's Crystal Ball: If you would lose an innate mana die on a roll, keep it instead. You may use this ability 3 times, recharging at dawn. This may be spread across a single cast or multiple casts. 
-- Ash Wand: You gain 3 mana dice, which do not recharge.
+- Eye of the Witchking: Remove your own eye and insert this eye. It is blackened with a red pupil. The wearer permanently has an additional 3 magic dice. Doom: The caster becomes an undead creature, under the sway of the Witchking. 
+- Witch's Crystal Ball: If you would lose an innate magic die on a roll, keep it instead. You may use this ability 3 times, recharging at dawn. This may be spread across a single cast or multiple casts. 
+- Ash Wand: You gain 3 magic dice, which do not recharge.
 - Crooked Staff: Negate a mishap or reduce a doom to a mishap once per spell. This ability may be used 3 times, recharging at dawn. 
-- Birch Wand: You gain 1 mana die, which does not recharge. 
-- Maple Wand: You gain 2 mana die, which do not recharge. 
+- Birch Wand: You gain 1 magic die, which does not recharge. 
+- Maple Wand: You gain 2 magic die, which do not recharge. 
 
 ## Objects of Power
-- Spell Eater. A figurine of a human with an unnaturally large smile. This object grants 3 mana dice which can only be used to cast Spell Eater: Feed a curse, spell, or other ill effect to the Spell Eater as a reaction or action. Curse: This item cannot be unattuned. Doom: Summons the Spell Eater.
+- Spell Eater. A figurine of a human with an unnaturally large smile. This object grants 3 magic dice which can only be used to cast Spell Eater: Feed a curse, spell, or other ill effect to the Spell Eater as a reaction or action. Curse: This item cannot be unattuned. Doom: Summons the Spell Eater.
 - Oubliette key. Key adorned with a screaming face. Opening any door with this key leads the user into a 10 x 10 stone room, which can only be opened from the outside. Has 24 hours of air.
 - Toxic heart. Must replace your heart. If a creature tries to drink your blood, it suffers 3d6 direct damage. If you are down to 0 grit points, any melee attacks inflict 1d6 direct damage as your blood touches the attacker. Anyone trying to heal you must make a +str save vs your wil def or suffer 1d6 direct damage as they touch your wounds.
 - Bleeding scalpel. Can turn blood into a magical rope. The wielder can drain their own blood and weave it into a red rope. The rope is non-animate but will un-knot on command. It counts as magical, which means it could be used to, for instance, strangle a Ghost. Rope is 30ft long per flesh sacrificed.
@@ -50,7 +50,7 @@ You may only wield one of these at a time.
 - Folding boat. A folding boat that can carry 6 medium creatures. 
 - Pal Pipes. A pan flute that can only be heard by allies with a 300' radius.
 - Grim Gauntlet. ad+1 1h. When a melee attack would hit, you may use a reaction to force a +str save against your str def. On a failed save, the attacker misses and you seize their weapon. This ability can be used 3 times, recharging at dawn.
-- Whispering Ring. A ring that does not belong to you. When you cast a spell, you may add up to 6 mana dice. These should be rolled separately and do not inflict mishaps or dooms. Curse: When you use this ability, you lose 1 third of your flesh points, rounded up, permanently. This cannot be reversed. On the third use, you lose all of your flesh points and immediately become a wraith. You cannot unattune from this item and it cannot be taken off your finger.
+- Whispering Ring. A ring that does not belong to you. When you cast a spell, you may add up to 6 magic dice. These should be rolled separately and do not inflict mishaps or dooms. Curse: When you use this ability, you lose 1 third of your flesh points, rounded up, permanently. This cannot be reversed. On the third use, you lose all of your flesh points and immediately become a wraith. You cannot unattune from this item and it cannot be taken off your finger.
 
 ## Wards
 Wards are protective magical items. 

@@ -10,7 +10,7 @@ tags: index
 
 Or *Oops, All Warlocks!*
 
-Version 0.6 (initial play testing materials)
+Version 0.6.1 (initial play testing materials)
 
 Franco A. Alvarado / [Root Devil](https://rootdevil.itch.io/)
 

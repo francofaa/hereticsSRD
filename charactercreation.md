@@ -307,6 +307,7 @@ Every initial +1 to intelligence can be spent on an **uncommon language**.
 
 ### Common languages
 
+- Local: Languages of nearby people
 - Distant: Languages of people that do not live here
 - Trade: Pidgins and cants inherent to certain trades
 
@@ -314,8 +315,7 @@ Every initial +1 to intelligence can be spent on an **uncommon language**.
 
 - Ancient: Old versions of the same languages
 - Monster (costs 2): Languages of anything but humans and humanoid species, such as fey languages, merfolk languages, goblin languages, and so on. The language should be assumed to be a language of that particular region. For example, a merfolk living 1,000 miles away probably does not speak the same language as the merfolk who taught you. In fact, if deemed appropriate by the referee, a merfolk living downstream may speak a completely different language as well.
-- Otherworldly (costs 3): Languages of creatures outside of this world
-- Divine (costs 3): Languages of deities, including fiends
+- Outsider (costs 3): Languages of creatures outside of this world
 
 
 ## Reading a Stat Line
@@ -323,8 +323,8 @@ All creatures can be expressed in a single stat line.
 
 1. L# or \#HD: Indicates level for a player character or retainer / hit dice for monsters
 2. HP \#: Indicates hit protection. 
-3. AD \# (*armor, if applicable*): Armored Defense stat, followed by any modifying armor pieces
-4. WD \# (*wards, if applicable*): Warded Defense stat followed by any modifying wards. 
+3. ADEF \# (*armor, if applicable*): Armored Defense stat, followed by any modifying armor pieces
+4. WDEF \# (*wards, if applicable*): Warded Defense stat followed by any modifying wards. 
 5. STR # DEX # WIL # INT #: The four ability in a row. Only lists the bonus. Add 10 to get the defense. When a stat line omits the ability, its bonus is 0. 
 6. MV # (#): Movement, in feet. The first number is exploration (10 minutes in a dungeon), second number combat movement (10 seconds). Usually omitted if it is 120 (40).
 7. Att: Attacks, usually followed by a to-hit bonus, a die (damage), and a parenthetical indicating the weapon, or spell. 
@@ -333,6 +333,6 @@ All creatures can be expressed in a single stat line.
 
 **Example:** 
 
-Ogden Dankworth. L2. HP 13. AD 13 (shield, helmet). WD 11 (haunted doll). STR 2 DEX 1 INT 1. Att 1 x 1d6 (short sword). Items: crowbar, rope, short sword 1d6, shield ad+1, helmet ad+1, fireball (spellbook), haunted doll md+1. Butcher: When you kill an enemy, you may immediately make another attack
+Ogden Dankworth. L2. HP 13. ADEF 13 (shield, helmet). WDEF 11 (haunted doll). STR 2 DEX 1 INT 1. Att 1 x 1d6 (short sword). Items: crowbar, rope, short sword 1d6, shield ad+1, helmet ad+1, fireball (spellbook), haunted doll md+1. Butcher: When you kill an enemy, you may immediately make another attack
 
-Mind Vampire. 5HD. AD 15. MD 15. Str 5, Int 7, Wil 5. Att 1 x +5 2d8 grappling, or psychic shock, or drain will. Psychic shock: 30' radius, WD save 15 or incapacitated, 2 uses. Drain will: atk +5, 1 grappled target, drains -1d6 wil.
+Mind Vampire. 5HD. ADEF 15. WDEF 15. Str 5, Int 7, Wil 5. Att 1 x +5 2d8 grappling, or psychic shock, or drain will. Psychic shock: 30' radius, +wdef save 15 or incapacitated, 2 uses. Drain will: atk +5, 1 grappled target, drains -1d6 wil.

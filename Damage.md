@@ -16,7 +16,7 @@ NPCs that are lowered to zero hit protection die.
 
 ## Zero Hit Protection
 
-When damage reduces heretic's hit protection to zero or below, the heretic marks an **omen** and rolls 1d6 + omens. On a 10 or higher, the heretic will **die**. On a 9 and below, refer to the omens table. 
+When damage reduces heretic's hit protection to zero or below, the heretic marks an **omen** and rolls 1d6 + omens. On a 10 or higher, the heretic will **die**. Refer to the omens table.
 
 ### Omens
 

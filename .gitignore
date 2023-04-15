@@ -4,6 +4,5 @@ _site
 .jekyll-metadata
 vendor
 .DS_Store
-_z_in_progress/*
-_z_in_progress
 *.afpub
+_z_in_progress/*.md

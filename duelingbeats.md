@@ -13,11 +13,11 @@ Resolving a duel is done in **beats**. Beats can represent any amount of time th
 
 When two parties are in a duel, follow the dueling beat procedure: 
 
-1. Secretly choose and reveal a [Strategy](#Strategy)
-	- [Parry](#Parry)
-	- [Push](#Push)
-	- [Feint](#Feint)
-2. Resolve [Action](#Action). Determine whether the duel should continue or not. 
+1. Secretly choose and reveal a [Strategy](#strategy)
+	- [Parry](#parry)
+	- [Push](#push)
+	- [Feint](#feint)
+2. Resolve [Action](#action). Determine whether the duel should continue or not. 
 
 ## Strategy
 

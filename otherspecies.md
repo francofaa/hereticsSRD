@@ -3,17 +3,18 @@ title: Other Species
 layout: default
 permalink: /otherspecies
 nav_order: 6
-parent: Character
+parent: Character Creation
+grand_parent: Character
 ---
 {% include toc.html %}
 
-# Other Species 
-
 > This is an optional rule. If using this, humans should also be choosable. Picking a human provides an extra ability point at [character creation](charactercreation). 
 
-The characters are assumed to be human; however, if the referee allows other non-human species in the game, the player may replace or supplement a background with abilities from their species. Other traits can be created in cooperation with the referee. The referee has final say if the species are appropriate to the setting: 
+# Other Species 
 
-- **Stone cunning**: You gain tremor sense for 10 x level minutes once per day
+The heretics are assumed to be human; however, if the referee allows other non-human species in the game, the player may replace or supplement a background with abilities from their species. Other traits can be created in cooperation with the referee. The referee has final say if the species are appropriate to the setting: 
+
+- **Stone cunning**: You gain tremor sense for 1 dungeon turn per level once per day
 - **Hearth born**: You are resistant to fire
 - **Burrower**: You can dig superhumanly fast
 - **Spiderclimb**: Your hands and feet stick to walls

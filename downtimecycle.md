@@ -13,13 +13,13 @@ Resolving downtime is done in **cycles**. Cycles can represent anywhere from a w
 
 When the party is doing downtime, follow the downtime cycle procedure: 
 
-1. Determine [Settlement Resources](#Settlement%20Resources)
-2. Characters [Rest and Upkeep](#Rest%20and%20Upkeep)
-3. [Downtime Hazard Die](#Downtime%20Hazard%20Die) determines what major events happen during the cycle
-4. Characters resolve [Free Actions](#Free%20Actions)
-5. Characters [Tracked Activities](#Tracked%20Activities)
-6. Characters resolve [Sacrifices](#Sacrifices)
-7. Referee resolves [Faction Activities](#Faction%20Activities)
+1. Determine [Settlement Resources](#settlement-resources)
+2. Characters [Rest and Upkeep](#rest-and-upkeep)
+3. [Downtime Hazard Die](#downtime-hazard-die) determines what major events happen during the cycle
+4. Characters resolve [Free Actions](#free-actions)
+5. Characters [Tracked Activities](#tracked-activities)
+6. Characters resolve [Sacrifices](#sacrifices)
+7. Referee resolves [Faction Activities](#faction-activities)
 
 When socializing with people in the world during downtime, disposition can be determined with a 2d6 roll, unless it is already obvious for whatever reason: 
 
@@ -71,10 +71,10 @@ Every cycle spent in a settlement, roll 1d6.
 | d6  | Event                                                                                                                                  |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | Encounter. The party encounters a random NPC who comes calling on them. Referee may have a table prepared for this.                    |
-| 2   | [Upheaval](#Upheavals). A dramatic upheaval impacts the settlement, inflicting a condition.                                            |
-| 3   | Signs. A [local shift](#Local%20Shifts) is foreshadowed (roll on local shift table) or a [rumor](#Rumors) is heard (roll for a rumor) |
-| 4   | [Local shift](#Local%20Shifts). Something in the atmosphere of the settlement changes.                                                 |
-| 5   | Alleviation. One or more [conditions](#Conditions) end.                                                                                |
+| 2   | [Upheaval](#upheavals). A dramatic upheaval impacts the settlement, inflicting a condition.                                            |
+| 3   | Signs. A [local shift](#local-shifts) is foreshadowed (roll on local shift table) or a [rumor](#rumors) is heard (roll for a rumor) |
+| 4   | [Local shift](#local-shifts). Something in the atmosphere of the settlement changes.                                                 |
+| 5   | Alleviation. One or more [conditions](#conditions) end.                                                                                |
 | 6   | Free. Nothing happens                                                                                                                  |
 
 ### Upheavals
@@ -151,10 +151,10 @@ Each player character may progress or initiate 1 tracked activity, which leads t
 - [Robberies and heists](robberiesandheists)
 - [Research and crafting](researchandcrafting)
 - [Training](training)
-- [Convalescing](Damage#Convalescing)
+- [Convalescing](Damage#convalescing)
 - Hunting down a specific rare item
 - Any wilderness activity
-- Alleviating a [condition](#Conditions)
+- Alleviating a [condition](#conditions)
 
 ## Sacrifices
 

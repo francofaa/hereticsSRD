@@ -10,13 +10,9 @@ tags: index
 
 Or *Oops, All Warlocks!*
 
-Version 0.6.1 (initial play testing materials)
+Version 0.7 (initial play testing materials)
 
 Franco A. Alvarado / [Root Devil](https://rootdevil.itch.io/)
-
-## Compatibility 
-
-These rules are intended to be compatible with adventures designed for games like those listed below. B/X modules or modules written to be B/X compatible should work as well. If that is not the case, let me know!
 
 ## Ludography
 
@@ -53,13 +49,17 @@ These rules are intended to be compatible with adventures designed for games lik
 - [level2janitor](https://level2janitor.blogspot.com/)
 - [Revenant Quill](https://www.revenant-quill.com/)
 
+## Compatibility 
 
+The rules in this document are intended to be compatible with adventures designed for tabletop role-playing games. You can use some or all of the procedures to adjudicate play or build characters, factions, and deities in your games.
 
 ## License
 
 You may publish free or commercial material based upon and/or declaring compatibility with *Heretics* without express written permission from the creators as long as you adhere to the following terms:
 
-If your product declares compatibility with *Heretics* you must state the following in your legal text and on any websites from which a commercial product is sold: “\[product name\] is an independent production by \[publisher name\] and is not affiliated with the creators of *Heretics*.”
+If your product declares compatibility with *Heretics* you must state the following in your legal text and on any websites from which a commercial product is sold: 
+
+> \[product name\] is an independent production by \[publisher name\] and is not affiliated with the creators of *Heretics*.
 
 The creators of *Heretics* take no responsibility for any legal claims against your product. 
 

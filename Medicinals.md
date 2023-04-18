@@ -9,15 +9,15 @@ nav_order: 4
 {% include toc.html %}
 
 # Medicinals
-Components can be foraged and combined into medicinals during [foraging](wildernesswatch#Foraging).
+Components can be foraged and combined into medicinals during [foraging](wildernesswatch#foraging).
 
 ## Crafting 
 
-The following table has 14 sample medicinals along with their application, effects, and recipes. Solvents can include oils, water, honey. Creating medicinals takes 10 minutes. All medicinals are 5 to a slot. For example, "Poultice 5/5".
+The following table has 14 sample medicinals along with their application, effects, and recipes. Solvents can include oils, water, honey. Creating medicinals takes 1 watch. All medicinals are 5 to a slot. For example, "Poultice 5/5".
 
-For creatures afflicted by diseases, combinations of medicinals below may be used to treat diseases, where sensible. Components can be combined in creative ways that the players or referee may determine is appropriate. Refer to [components](wildernesswatch#Components) for more. New components may also be invented and combined for other medicinals. 
+For creatures afflicted by diseases, combinations of medicinals below may be used to treat diseases, where sensible. Components can be combined in creative ways that the players or referee may determine is appropriate. Refer to [components](wildernesswatch#components) for more. New components may also be invented and combined for other medicinals. 
 
-When choosing starting equipment, roll 1d10, or choose from medicinals 1-10 and receive 5/5 of the medicinal 
+When choosing starting equipment, roll 1d10, or choose from medicinals 1-10 and receive 5/5 of the medicinal.
 
 | 1d10 | Medicinal           | Usage                                                                    | Effects                                                                                                                                                                                                                                                                      | Recipe                                                                 |
 | ---- | ------------------- | ------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |

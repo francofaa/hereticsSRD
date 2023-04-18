@@ -49,7 +49,11 @@ Focuses can grant magic dice. The dice from a focus is expended upon use and doe
 To negate the effects of a spell, a character may attempt to counterspell by burning magic dice. Remove magic dice up to your max from your pool until dawn. Make a spell attack +int plus the number of magic dice burned against the target's warded defense. On a success, the spell is negated. This is performed as a reaction to a spell as it is cast or on an ongoing effect of a spell.
 
 ### Coven Casting
-With a magical ritual and symbols (like string tied around fingers, rings, tattoos, etc), heretics may be bound together and **share** magic dice in a single pool. Heretics that follow different sources cannot coven cast together.
+With a magical ritual and symbols (like string tied around fingers, rings, tattoos, etc), heretics may be bound together and **share** magic dice in a single pool. Heretics that follow different sources cannot coven cast together. Heretics that take certain boons may not coven cast.
+
+### The Perfect Cast
+
+On a critical hit (natural 20), the spell works without fail. The caster may choose to remove 1 mishap or retain 1 magic die that would otherwise be expended. On a critical failure, no additional misfortune occurs. 
 
 ## Mishaps and Dooms
 
@@ -61,10 +65,33 @@ If four dice are the same, it counts as a triple. If five or more dice are the s
 
 Wards may also be broken to nullify mishaps and dooms. A +1 wdef ward is required to nullify a mishap. To nullify a doom, wards providing a cumulative +wdef of +3 must be destroyed. 
 
-The party's mishaps and doom tables are based on their [Source](Source). Dooms are progressive and can be removed with quests. 
+The party's mishaps and doom tables are based on their [Source](Source#spellcasting-mishaps-and-dooms). Dooms are progressive and can be removed with quests. 
+
+Unless otherwise stated, spells still work even when mishaps and dooms occur. 
+
+### Mishaps and Dooms Probability
+
+| \#d6 | Mishap chance (%) | Doom chance (%) |
+| ---- | ----------------- | --------------- |
+| 1    | 0                 | 0               |
+| 2    | 17                | 0               |
+| 3    | 44                | 3               |
+| 4    | 72                | 10              |
+| 5    | 96                | 19              |
+| 6    | 99                | 32              |
+| 7    | 100               | 47              |
+| 8    | 100               | 63              |
+| 9    | 100               | 78              |
+| 10   | 100               | 93              |
+| 11   | 100               | 98              |
+| 12   | 100               | 99              |
+| 13   | 100               | 100             |
+
 
 
 ## Wild Magic
 When casting magic, never be your main battery. Always use a buffer like a spellbook, artifact, focus, etc. 
 
 But if you must: You may use magic dice as a way to tap into the wild magic of the world. Describe an effect and choose a target, and the referee should adjudicate the results, which will be hazardous and may not work as expected, and mishaps and dooms will still apply as well and may become even worse. 
+
+Using a focus while casting wild magic will cause the effect to inhabit the focus rather than the caster. It may cause the focus to become dangerous, unpredictable, or otherwise unusable. 

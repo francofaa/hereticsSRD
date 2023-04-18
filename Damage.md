@@ -83,7 +83,7 @@ When a heretic dies, write down their fate on the back of the character sheet. T
 
 ### Convalescing
 
-Make note of any injury from the [omens](#Omens) table. All heretics who have gone below zero hit protection and been stabilized must rest. Heretics are recovered after a number of [downtime cycles](downtimecycle#Convalescing) rolled on the omens table.
+Make note of any injury from the [omens](#omens) table. All heretics who have gone below zero hit protection and been stabilized must rest. Heretics are recovered after a number of [downtime cycles](downtimecycle#convalescing) rolled on the omens table.
 
 ## Resting
 

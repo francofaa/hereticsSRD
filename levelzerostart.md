@@ -3,10 +3,13 @@ title: Level Zero Start
 layout: default
 permalink: /levelzerostart
 nav_order: 7
-parent: Character
+parent: Character Creation
+grand_parent: Character
 ---
 
 {% include toc.html %}
+
+> This is an optional rule for how to create level zero characters and funnel them into first level characters. 
 
 # Level Zero Start
 
@@ -18,7 +21,7 @@ To create a level zero character,
 2. All abilities start at 0 bonus / 10 defense. 
 3. Roll for one background
 4. Take 2 days' worth of rations, 2 torches, and 1 [weapon](MartialGear). 
-5. Roll all dice to determine [Traits](charactercreation#Traits)
+5. Roll all dice to determine [Traits](charactercreation#traits)
 
 ## Advancing to Level 1
 

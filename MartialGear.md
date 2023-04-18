@@ -10,7 +10,7 @@ nav_order: 3
 
 # Martial Gear
 
-Armor, shields, and weapons have additional rules and specific costs whereas most common gear can be assumed to cost 1d10 (5) coins.
+Armor, shields, and weapons have additional rules and specific costs whereas most common gear can be assumed to cost 1d10 (5) coins. 
 
 ## Armor
 
@@ -33,25 +33,25 @@ When a character is hit by a melee or missile attack and they carry a shield, th
 
 ## Weapons
 
-| weapon            | dmg  | slots | hands    | cost | tags                                             | dmg type                        |
-| ----------------- | ---- | ----- | -------- | ---- | ------------------------------------------------ | ------------------------------- |
-| unarmed strike    | =str | 0     | n/a      | n/a  |                                                  | bludgeoning                     |
-| war hammer        | 1d8  | 2     | 2h       | 100  | crushing, sweeping                               | bludgeoning                     |
-| long sword        | 1d8  | 2     | 2h       | 100  | parrying, sweeping                               | piercing, slashing              |
-| battle axe        | 1d8  | 2     | 2h       | 100  | shoving, sweeping                                | slashing, bludgeoning           |
-| halberd, pole axe | 1d8  | 3     | 2h       | 100  | reach, double-edged, shoving                     | piercing, slashing, bludgeoning |
-| mace, flail       | 1d6  | 2     | 1h or 2h | 50   | versatile, crushing, sweeping                    | piercing, bludgeoning           |
-| crossbow          | 1d8  | 2     | 2h        | 500  | loading, 300/1200r                               | piercing                        |
-| cudgel            | 1d4  | 1     | 1h       | 5    |                                                  | bludgeoning                     |
-| staff             | 1d4  | 1     | 1h or 2h | 5    | reach (2h), versatile                                        | bludgeoning                     |
-| dagger            | 1d6  | 1     | 1h       | 50   | concealable, subtle, dual-wield, thrown (20/60r) | piercing, slashing              |
-| pick axe          | 1d6  | 1     | 1h       | 5    |                                                  | piercing                        |
-| scythe            | 1d8  | 2     | 2h       | 50   | shoving, sweeping                                | piercing, slashing              |
-| short sword       | 1d6  | 2     | 1h or 2h | 50   | versatile, parrying                              | piercing, slashing              |
-| hand axe          | 1d6  | 2     | 1h or 2h | 50   | versatile, thrown (20/60r), dual-wield           | slashing, bludgeoning           |
-| spear             | 1d6  | 2     | 1h or 2h | 50   | versatile, thrown (20/60r), reach (2h)               | piercing, bludgeoning           |
-| sling             | 1d6  | 1     | 1h        | 5    | concealable, 60/240r                             | bludgeoning                     |
-| bow               | 1d6  | 2     | 2h        | 50   | 150/600r                                         | piercing                        |
+| weapon            | dmg  | slots | hands    | cost | tags                                         | dmg type                        |
+| ----------------- | ---- | ----- | -------- | ---- | -------------------------------------------- | ------------------------------- |
+| unarmed strike    | =str | 0     | n/a      | n/a  |                                              | bludgeoning                     |
+| scythe            | 1d8  | 2     | 2h       | 50   | shoving, sweeping                            | piercing, slashing              |
+| crossbow          | 1d8  | 3     | 2h       | 500  | loading, armor-piercing, 4z                  | piercing                        |
+| halberd, pole axe | 1d8  | 3     | 2h       | 100  | reach, double-edged, shoving                 | piercing, slashing, bludgeoning |
+| battle axe        | 1d8  | 2     | 2h       | 100  | shoving, sweeping                            | slashing, bludgeoning           |
+| long sword        | 1d8  | 2     | 2h       | 100  | parrying, sweeping                           | piercing, slashing              |
+| war hammer        | 1d8  | 2     | 2h       | 100  | crushing, sweeping                           | bludgeoning                     |
+| bow               | 1d6  | 2     | 2h       | 50   | 3z                                           | piercing                        |
+| sling             | 1d6  | 1     | 1h       | 5    | concealable, 2z                              | bludgeoning                     |
+| spear             | 1d6  | 1     | 1h or 2h | 50   | versatile, thrown (1z), reach (2h)           | piercing, bludgeoning           |
+| hand axe          | 1d6  | 1     | 1h or 2h | 50   | versatile, thrown (1z), dual-wield           | slashing, bludgeoning           |
+| short sword       | 1d6  | 1     | 1h or 2h | 50   | versatile, parrying                          | piercing, slashing              |
+| pick axe          | 1d6  | 1     | 1h       | 5    |                                              | piercing                        |
+| dagger            | 1d6  | 1     | 1h       | 50   | concealable, subtle, dual-wield, thrown (1z) | piercing, slashing              |
+| mace, flail       | 1d6  | 1     | 1h or 2h | 50   | versatile, crushing, sweeping                | piercing, bludgeoning           |
+| staff             | 1d4  | 1     | 1h or 2h | 5    | reach (2h), versatile                        | bludgeoning                     |
+| cudgel            | 1d4  | 1     | 1h       | 5    |                                              | bludgeoning                     |
 
 Improvised weapon attacks usually inflict 1d4 damage.
 
@@ -73,9 +73,10 @@ On a tag trigger, if your weapon has multiple tags, choose one to trigger.
 - *Parrying:* On a 20 or higher that hits, the attacker's armored defense is increased by their +str bonus the next time the attacker is attacked. 
 - *Crushing:* On a 20 or higher that hits, the target's armored defense is reduced by the attacker's +str bonus the next time the target is attacked.
 - *Double-edged:* On a 20 or higher that hits, the attacker may make another attack with the butt of the polearm, inflicting 1d4 damage.
-- *Thrown:* This weapon can be thrown at the stated range. Otherwise weapons are thrown at 10/20 foot range.
-- *Reach*: This weapon has a 10 foot reach *only when* wielded with 2 hands. 
-   - The spear and staff only have 10 foot reach when wielded with 2 hands even though it can also be wielded in 1 hand.
+- *Thrown:* This weapon can be thrown at the stated range.
+- *Reach*: Only when this weapon is wielded in two hands, the wielder does not need to disengage to avoid opportunity attacks. 
+   - The spear and staff only have the reach property when wielded with 2 hands even though they can also be wielded in 1 hand.
 - *Loading*: Requires 1 round to reload.
-- *#/#r*: Range for a ranged weapon. The first number represents the maximum near range, the second the maximum far range, in feet. Between the near and far range, attacks are made at disadvantage. Beyond the far range, the attack always misses.
+- \#z: Range for a ranged or thrown weapon, in zones. Beyond this range, the attack is made at disadvantage. The attack may miss if it is too distant.
 - *Sweeping*: When the attacker rolls maximum damage on a hit, they may roll another attack at an adjacent foe.
+- *Armor-piercing:* Attacks made with this weapon ignore mundane, non-natural armor and hit the dexterity defense of the target rather than the armored def (adef).

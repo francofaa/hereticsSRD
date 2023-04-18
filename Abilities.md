@@ -28,13 +28,13 @@ Physical, forceful
 *Power, heartiness, physicality, endurance*
 
 ### Static
-- **Maximum [Load](Inventory#Inventory%20and%20Load)**, equal to strength defense
+- **Maximum [Load](Inventory#inventory-and-load)**, equal to strength defense
 
 ### Actions
-- [Attacks](MartialGear#Weapons) that are powerful or obvious 
+- [Attacks](MartialGear#weapons) that are powerful or obvious 
 - Feats of strength
 - Brawling
-- Recovery during [short rests](Damage#Resting)
+- Recovery during [short rests](Damage#resting)
 - Shoving
 - Resisting poison
 - Recovering from disease
@@ -51,8 +51,6 @@ Physical, graceful
 ### Static 
 - **Armored defense**, equal to dexterity defense plus any armor, or equal to armor only
 - **Maximum ammo**, equal to dexterity defense
-- **Movement**
-   - All characters start with 40' of combat movement and 120' of exploration movement. Any penalties to dex reduce movement, 5 feet per bonus point.
 
 #### Armored Defense 
 Armored defense represents your ability to avoid damage via reflexes, dodging, or just actual armor. It is equal to your dexterity defense and may be modified by light armor, shields, and helmets or replaced entirely by heavy armor (which can still be modified by shields and helmets).
@@ -65,7 +63,7 @@ Armored defense represents your ability to avoid damage via reflexes, dodging, o
    - Doing a backflip
    - Trip
    - Disarm
-   - Taking something out of [deep inventory](Inventory#Quick%20Slots%20and%20Deep%20Slots) during combat
+   - Taking something out of [deep inventory](Inventory#quick-slots-and-deep-slots) during combat
    - Dodging around an enemy
    - Escaping from binds
    - Sliding under and past a gargantuan monster
@@ -91,9 +89,6 @@ Warded defense represents your ability to resist spell damage and effects via sh
 - Performing
 - Commanding retainers
 - Resisting a spell effect
-
-
-
 
 ## Intelligence
 

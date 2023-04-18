@@ -12,18 +12,19 @@ parent: Character
 
 Characters level up to 10. The following table describes the total XP needed at each level: 
 
-| Level | XP Total | Total Boons | Total Ability Points |
-| ----- | -------- | ----------- | -------------------- |
-| 1     | 0        | 0           | 2                    |
-| 2     | 2,000    | 1           | 4                    |
-| 3     | 4,000    | 1           | 6                    |
-| 4     | 8,000    | 2           | 8                    |
-| 5     | 16,000   | 2           | 10                   |
-| 6     | 32,000   | 3           | 12                   |
-| 7     | 64,000   | 3           | 14                   |
-| 8     | 125,000  | 4           | 16                   |
-| 9     | 250,000  | 4           | 18                   |
-| 10    | 500,000  | 5           | 20                   |
+| Level | XP Total | Total Hit Dice | Total Boons | Total Ability Points |
+| ----- | -------- | -------------- | ----------- | -------------------- |
+| 1     | 0        | 1              | 0           | 2                    |
+| 2     | 2,000    | 2              | 1           | 4                    |
+| 3     | 4,000    | 3              | 1           | 6                    |
+| 4     | 6,000    | 4              | 2           | 8                    |
+| 5     | 9,000    | 5              | 2           | 10                   |
+| 6     | 12,000   | 6              | 3           | 12                   |
+| 7     | 15,000   | 7              | 3           | 14                   |
+| 8     | 20,000   | 8              | 4           | 16                   |
+| 9     | 25,000   | 9              | 4           | 18                   |
+| 10    | 30,000   | 10             | 5           | 20                   |
+
 
 1. You receive 2 improvement points to spend. These improvement points can be used to increase 2 *different* abilities by 1 point each. Improvements spent in this way increase both the bonus and defense of an ability. Abilities cannot be increased beyond +10/20 def.
 2. [Boons and graces](Boons)
@@ -34,7 +35,7 @@ Characters level up to 10. The following table describes the total XP needed at 
 
 ## Experience Points
 
-Experience points are gained for sacrificing treasures and coins to your [Source](Source). These must be treasures and coins looted, stolen, or otherwise earned from adventuring (as opposed to found coins and coins earned from honest labor). Sacrificing treasures and coins is done during [Sacrifices](downtimecycle#Sacrifices) during a downtime cycle.
+Experience points are gained for sacrificing treasures and coins to your [Source](Source). These must be treasures and coins looted, stolen, or otherwise earned from adventuring (as opposed to found coins and coins earned from honest labor). Sacrificing treasures and coins is done during [Sacrifices](downtimecycle#sacrifices) during a downtime cycle.
 
 ### Other Sources of Experience Points
 

@@ -26,7 +26,7 @@ Spells are cast from written words and diagrams, thereby removing the need for t
 
 Wards augment Warded defense. Starting wards are very simple, likely made by the character, local religious figures, wise folks, or stumbled upon. 
 
-Characters may not start with stronger wards than wd+1.
+Characters may not start with stronger wards than wdef+1.
 
 Examples: 
 
@@ -37,18 +37,14 @@ Examples:
 
 ### Breaking Wards
 
-Wards can be broken to nullify the effects of a spell on the wielder (and only the wielder) as a reaction to a spell. Other magical items do not have this ability, unless specified.
-
-For example, if a fireball is cast in an area and the target has a ward that they wish to break as a reaction to avoid all damage from the fireball, they may do so; however, anyone or anything else in that area of effect is still affected. Basically, this is not a free counterspell but a magical bubble. 
-
-Wards may also be broken to nullify mishaps and dooms. A +1 wdef ward is required to nullify a mishap. To nullify a doom, wards providing a cumulative +wdef of +3 must be destroyed. 
+Wards may be broken to nullify mishaps and dooms. A +1 wdef ward is required to nullify a mishap. To nullify a doom, wards providing a cumulative +wdef of +3 must be destroyed. 
 
 Broken wards cannot be repaired. 
 
 
 ## Focuses
 
-Magical focuses, such as orbs, wands, or staves, may grant special powers. Generally, a focus could grant a number of non-renewable magic dice per day (that is, magic dice that do not return to your pool regardless of the result). Focuses can also make casting [Wild Magic](spellcasting#Wild%20Magic) safer. Casting a specific effect using wild magic and a focus may result in that new magical effect inhabiting the focus and becoming a spell. The player and referee may work together to create a new spell. 
+Magical focuses, such as orbs, wands, or staves, may grant special powers. Generally, a focus could grant a number of non-renewable magic dice per day (that is, magic dice that do not return to your pool regardless of the result). Focuses can also make casting [Wild Magic](spellcasting#wild-magic) safer. Casting a specific effect using wild magic and a focus may result in that new magical effect inhabiting the focus and becoming a spell. The player and referee may work together to create a new spell. 
 
 Examples: 
 

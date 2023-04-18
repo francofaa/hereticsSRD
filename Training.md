@@ -14,7 +14,7 @@ During a [downtime cycle](downtimecycle), characters may choose to make progress
 
 Learning a certain trade from an instructor costs time, training, and coin. 
 
-Choose a [background](charactercreation#Gear) trade or make up a background with the referee. The player and referee should agree to what abilities the character will receive upon the various stages of training.
+Choose a [background](charactercreation#gear) trade or make up a background with the referee. The player and referee should agree to what abilities the character will receive upon the various stages of training.
 
 The character rolls 1d20 + a relevant ability and compares the result to the table below. The character may attempt 1 training session per downtime cycle.
 

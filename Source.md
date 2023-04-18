@@ -2,31 +2,32 @@
 title: Source
 layout: default
 permalink: /Source
-nav_order: 1
-parent: Character
+nav_order: 0
+parent: Party
 ---
 {% include toc.html %}
 
 # Source
 
-The party receives their power from a Source, an unknowable entity. The Source can be named anything and does not have to be a deity. It may be a spirit or a powerful or unknowable creature from another dimension. Whatever it is, the characters worship it or try to appease it in order to keep their powers. 
+The party receives their power from a Source, an unknowable entity. The Source can be named anything and does not have to be a deity. It may be a local spirit or a powerful or unknowable creature from another dimension. Whatever it is, the heretics worship it or try to appease it in order to keep their powers.
 
-A Source is built by the following procedure: 
+A Source is built by following the procedures below, in any order: 
 
-1. Determine [Aspects](#Aspects)
-2. Determine [Spellcasting Mishaps and Dooms](#Spellcasting%20Mishaps%20and%20Dooms)
-3. Determine [Preferred Sacrifice](#Preferred%20Sacrifice)
-4. Determine [Trappings](#Trappings)
-	1. [Symbols](#Symbols)
-	2. [Means of Devotion](#Means%20of%20Devotion)
-	3. [Communication](#Communication)
-5. Determine [Form](#Form)
+1. Determine [Aspects](#aspects)
+	1. Determine [Blessings and Curses](#blessings-and-curses)
+	2. Determine [Spellcasting Mishaps and Dooms](#spellcasting-mishaps-and-dooms)
+3. Determine [Preferred Sacrifice](#preferred-sacrifice)
+4. Determine [Trappings](#trappings)
+	1. [Symbols](#symbols)
+	2. [Means of Devotion](#means-of-devotion)
+	3. [Communication](#communication)
+5. Determine [Form](#form)
 
-Name and appearance can be determined at any point. 
+Name, appearance, and holidays can be determined at any point, but can be greatly informed by the results of the procedure. The facts of the Source should be recorded and maintained by the referee and players together. 
 
 ## Aspects
 
-Roll d12 three times to build out the aspects of the Source, re-rolling repeats:
+Roll d12 three times to establish three different aspects of the Source, re-rolling repeats. For now, make note only of the aspect:
 
 | d12 | Aspect               | Curse | Blessing                                                                                  | Mishap                                                                                                                                                                           | Doom Sequence                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | --- | -------------------- | ----- | ----------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -43,25 +44,21 @@ Roll d12 three times to build out the aspects of the Source, re-rolling repeats:
 | 11  | War                  | DEX   | Today, whenever you inflict damage, add 1d4 of the same damage type.                      | Every weapon attack against you has advantage for *dice* rounds.                                                                                                                 | 1: You are unable to use a weapon or cast a spell for one day. 2: Armor and weapons become heavy for you. When you carry them, your speed is reduced to 0. 3: Ethereal warriors appear in the clouds and hunt you until you are dead. They attack anyone in their way. They return into the clouds only after their task is complete.                                                                                                     |
 | 12  | Nature               | INT   | Today, when you expend all of your magic dice, you instantly receive them all back, once. | Plants and vines erupt from your hands and feet, entangling creatures in a 40' radius if they fail a +dex save vs your wil def. Plants go away in *dice* minutes.                | 1: You cough up leaves for *dice* rounds, unable to do anything else. 2: Your skin becomes like bark. You gain +1 to your +adef. 3: You become a tree.                                                                                                                                                                                                                                                                                    |
 
-### Blessings
+### Blessings and Curses
 
-These may be bestowed upon a heretic for whatever reason. These are separate from [Boons](Boons) and [Omens](Damage#Omens). Blessings and curses are associated with the aspects in the table. Curses impact the indicated ability by applying a -1 penalty to the ability for 1 day. 
+These may be bestowed upon a heretic for whatever reason. Blessings and curses are associated with the Source's aspects. Curses impact the indicated ability by applying a -1 penalty for 1 day. 
 
-### Out of Favor
+### Spellcasting Mishaps and Dooms
 
-When a heretic is at odds with their Source, the heretic no longer benefits from the boons gained through leveling. They must either reconcile (via a quest of some sort) or make a pact with a different Source to gain more boons. 
-
-## Spellcasting Mishaps and Dooms
-
-Build out the mishaps and dooms tables as you create the aspects and mark them down on the [Party](Party) document. All heretics will suffer from these mishaps and dooms. All heretics can cast spells.
+The referee should build out the mishaps and doom tables based on the aspects rolled and share these tables with the players. These should be marked on the [Party Tracker](PartyTracker) document. All heretics can suffer from these mishaps and dooms. All heretics can cast spells.
 
 Mishaps occur when doubles are rolled on magic dice. Dooms occur when triples are rolled on magic dice. Refer to [Spellcasting](spellcasting) for more information. This section describes how to build these tables.
 
-### Mishaps Table
+#### Mishaps Table
 
-Mishaps should be narrated as the result of overchanneling power from the Source, not as a punishment. 
+Mishaps should be narrated as the result of overchanneling power from the Source, not as a punishment.
 
-Build a table by taking the first, second, and third rolled [Aspects](#Aspects) of the party's source and slotting it in where indicated.
+Build a table by taking the first, second, and third rolled [Aspects](#aspects) of the party's source and slotting them in where indicated.
 
 | d6  | mishap                                                                          |
 | --- | ------------------------------------------------------------------------------- |
@@ -72,9 +69,11 @@ Build a table by taking the first, second, and third rolled [Aspects](#Aspects) 
 | 5   | *Third aspect*                                                                  |
 | 6   | Spell targets you (if harmful) or enemy (if beneficial) or fizzles (if neutral) |
 
-### Dooms Tables
+#### Dooms Tables
 
-The party will have 3 doom tables based on their [Aspects](#Aspects). The tripled number on the die corresponds to which table they will suffer the dooms from going forward: 
+Dooms should not be narrated as punishments from the Source but as interference from other sources of magic, corrupting the Source's channel to the heretic. Count dooms as they accumulate. 
+
+The party will have 3 doom tables based on their [Aspects](#aspects). The tripled number on the die corresponds to which table they will suffer the dooms from going forward: 
 
 - 1-2: 1st aspect dooms
 - 3-4: 2nd aspect dooms
@@ -82,15 +81,13 @@ The party will have 3 doom tables based on their [Aspects](#Aspects). The triple
 
 For example, if three 1's are rolled, the heretic will suffer the first doom from the 1st aspect table. Later, they roll three 6's. They still take their second doom from the 1st aspect table. This is because the dooms accumulate thematically.
 
-Dooms should not be narrated as punishments from the Source but as interference from other sources of magic, corrupting the Source's channel to the heretic. Count dooms as they accumulate. 
-
 | Count | dooms                                                            |
 | ----- | ---------------------------------------------------------------- |
 | 1st   | Mark 1 omen. +1 to *sum* and casting for spell that caused doom. |
 | 2nd   | +2 to *sum* and casting for spell that caused doom.              |
 | 3rd   |                                                                  |
 
-Dooms may be downgraded with quests or adventures. 
+Doom level may be downgraded with quests or adventures. 
 
 ## Preferred Sacrifice
 
@@ -128,7 +125,7 @@ Roll as many times as is desired to create the symbols associated with the Sourc
 
 ### Means of Devotion
 
-Initiating other converts may require some kind of devotion. 
+Initiating other converts may require some kind of devotion. These can be methods of celebrating the Source during holidays or organized worship, if applicable. 
 
 | d6  | Worship            |
 | --- | ------------------ |
@@ -150,7 +147,7 @@ Initiating other converts may require some kind of devotion.
 
 ### Communication 
 
-Your source communicates in mysterious ways. Choose or roll for 1-4.
+Your source communicates in mysterious ways. Choose or roll for 2-4.
 
 | d12 | Divination | Example                                                                                                                                                                                |
 | --- | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

@@ -13,13 +13,13 @@ Exploring a dungeon is done in **turns**. Each turn represents about 10 minutes.
 
 When a party is in a dungeon, follow the dungeon turn procedure: 
 
-1. Characters perform [Actions](#Actions). 
-	- [Searching](#Searching)
-	- [Movement](#Movement)
-	- [Resting](#Resting)
-	- [Harvesting Monster Parts](#Harvesting%20Monster%20Parts)
-	- [Leaving the Dungeon](#Leaving%20the%20Dungeon)
-2. [Dungeon Hazard Die](#Dungeon%20Hazard%20Die) determines what happens during the turn
+1. Characters perform [Actions](#actions). 
+	- [Searching](#searching)
+	- [Movement](#movement)
+	- [Resting](#resting)
+	- [Harvesting Monster Parts](#harvesting-monster-parts)
+	- [Leaving the Dungeon](#leaving-the-dungeon)
+2. [Dungeon Hazard Die](#dungeon-hazard-die) determines what happens during the turn
 
 ## Actions
 The party decides what action to take, like moving, searching, listening, entering a room. 
@@ -33,9 +33,9 @@ Characters may search for
 
 #### Light 
 
-Torches illuminate 40 feet and 10 feet of detail.
+Torches illuminate nearby objects (2 zones) and close details.
 
-Candles illuminate 20 feet and 5 feet of detail. 
+Candles illuminate close objects and details. 
 
 Lanterns function as candles and can be modified to illuminate a straight line rather than a radius. They cannot be blown out. 
 
@@ -43,15 +43,13 @@ Lanterns function as candles and can be modified to illuminate a straight line r
 
 ### Movement
 
-Characters move at a rate of 3 times their base speed. So a character that moves 40 feet in a combat turn moves 120 feet (24 five foot squares) in a dungeon turn, which represents **slow careful movement**, allowing for investigation of traps, secret doors, and treasure traps; listening for noises; and mapping the environment.
+Characters move at a rate of 3 times their base speed (3 zones total). So a character that moves 40 feet in a combat turn moves 120 feet (24 five foot squares) in a dungeon turn. This movement is **slow and careful**, allowing for investigation of traps, secret doors, and treasure traps; listening for noises; and mapping the environment.
 
-Characters **walking at a normal pace** may cover 2,400 feet (480 five foot squares) in a dungeon turn without the ability to perform other actions like searching. All encounters will happen with surprise and traps will spring on the characters. 
-
-Characters **running** may cover 4,800 feet (960 five foot squares). In addition to the penalties of walking, characters will also be unable to map their environment and candles will blow out. Running through already explored areas will be easier, but running into unknown areas is dangerous and disorienting. 
+Characters may move much faster than this. Technically, a character could cover 20 zones walking at a normal pace or 200 zones while running. Moving through already explored areas is easier but moving through unknown areas will trigger surprises and traps. 
 
 ### Resting
 
-Resting for 1 hour in the dungeon heals 1d8 + str bonus. Resting for 8 hours is not possible in a dungeon.
+Resting for 1 hour in the dungeon only heals 1d8 + str bonus. Resting for 8 hours is not possible in a dungeon.
 
 ### Harvesting Monster Parts
 
@@ -65,7 +63,7 @@ Sometimes there is insufficient time to escape a dungeon to a safe location duri
 
 The referee determines whether this is a **dangerous** or **arduous** journey. Players use their best skill to roll, describing how it helps their escape.
 
-DC = 10 + hour of travel + number of rooms from the exit of the dungeon, maximum of DC 20
+DC = 10 + length of travel + number of rooms from the exit of the dungeon, maximum of DC 20
 
 On a success, the characters return to camp. 
 
@@ -74,23 +72,20 @@ On a failure, the characters pay a cost:
 - Dangerous: 1d6 damage is inflicted for every 1 under the DC
 - Arduous: lose 1 item per 1 under the DC
 
-If a character is reduced to 0 flesh, they **die** or are left unconscious, suffering all of the effects of being reduced to 0. The referee picks what is dropped, starting with less valuable and less secure items, and working up to weapons, armor, spells, and magical items.
-
-
+If a character is reduced to 0 hit protection, they suffer an omen and are forced to make an omen roll. The referee picks what is dropped, starting with less valuable and less secure items, and working up to weapons, armor, spells, and magical items.
 
 ## Dungeon Hazard Die
 
 Every turn in a dungeon, roll 1d6. 
 
-
-| d6  | Result                                                                                                                 |
-| --- | ---------------------------------------------------------------------------------------------------------------------- |
-| 1   | Encounter. A wandering monster appears 2d6 x 10 feet away, moving toward the party. Roll 2d6 to determine disposition. |
-| 2   | Fatigue. Rest for 1 turn or make rolls at disadvantage.                                                                |
-| 3   | Signs. Characters find a clue or sign of wandering monster or factions.                                                |
-| 4   | Local effect. Something unique to the dungeon happens.                                                                 |
-| 5   | Depletion. Torches gutter out or lantern oil depletes by half.                                                                                                                       |
-| 6   | Free. Nothing happens.                                                                                                       |
+| d6  | Result                                                                                                                        |
+| --- | ----------------------------------------------------------------------------------------------------------------------------- |
+| 1   | Encounter. A wandering monster appears at a far distance, moving toward the party. Roll 2d6 to determine disposition.         |
+| 2   | Fatigue. Rest for 1 turn or become tired (no effect). If you are already tired, become exhausted, make rolls at disadvantage. |
+| 3   | Signs. Characters find a clue or sign of wandering monster or factions.                                                       |
+| 4   | Local effect. Something unique to the dungeon happens.                                                                        |
+| 5   | Depletion. Light sources dim. Dim light sources go out.                                                                       |
+| 6   | Free. Nothing happens.                                                                                                        |
 
 During the first 6 turns of a dungeon delve, nothing happens on a 4-6 to maintain verisimilitude (and avoid situations like torches guttering out on the first turn).
 

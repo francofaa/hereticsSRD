@@ -17,11 +17,11 @@ A monster's threat level is measured by their hit dice (HD). Hit dice are always
 
 These can be done in any order. 
 
-1. Roll 1d20 on the [Monster Threat](#Monster%20Threat) table to determine the threat level. 
-2. Roll 1d12 on the [Monster Species](#Monster%20Species) table to determine species
-3. Roll 1d8 on the [Monster Type](#Monster%20Type) table to determine the strategies, strengths, and weaknesses.
-4. Roll 1d12 as many times as is desired on the [Monster Abilities](#Monster%20Abilities) table to determine special abilities.
-5. Roll 2d4 on the [Monster Motivations](#Monster%20Motivations) to determine the monster's motivations, if they are a leader (or a lone actor).
+1. Roll 1d20 on the [Monster Threat](#monster-threat) table to determine the threat level. 
+2. Roll 1d12 on the [Monster Species](#monster-species) table to determine species
+3. Roll 1d8 on the [Monster Type](#monster-type) table to determine the strategies, strengths, and weaknesses.
+4. Roll 1d12 as many times as is desired on the [Monster Abilities](#monster-abilities) table to determine special abilities.
+5. Roll 2d4 on the [Monster Motivations](#monster-motivations) to determine the monster's motivations, if they are a leader (or a lone actor).
 
 
 ### Monster Conversion  

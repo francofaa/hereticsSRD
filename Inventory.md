@@ -34,17 +34,11 @@ md+*n*: This indicates a bonus to warded defense stat.
 
 *reach, concealable, versatile, subtle, thrown*, etc: These are additional modifiers to weapons with special effects. 
 
-*x*/*n*r: This indicates the range for an item in feet. The first number is the distance up to which an item can be thrown or fired, beyond which the item is thrown at disadvantage. The second number is as far as the item can be thrown or fired. Items with the thrown tag need this range number as well. 
-
 
 ## Quick Slots and Deep Slots
-Getting an item out of your inventory during [combat rounds](combatround) is considered a stunt (dexterity check) with a DC equal to the slot number. On a success the stunt allows the stunt to be a free action. Otherwise it takes an action. 
+Getting an item out of your inventory during [combat rounds](combatround) is considered a stunt (dexterity check) with a DC equal to the slot number. On a success the stunt allows the stunt to be a free action. Otherwise it takes an action.
 
-Quick slots do not require a stunt to take out. Quick slots must contain items that are actively in your hands. 
-
-## Encumbrance
-
-A character may choose to carry up to 5 items over their **maximum load** and be encumbered. An encumbered character takes a 5 foot movement penalty in combat and exploration for every slot over their limit and makes all rolls at disadvantage. 
+Quick slots do not require a stunt to swap into your hands. Swapping items in your quick slots can be done as a free action. There are three quick slots, two of which represent items in your hands.
 
 ## Food and Rations
 Food is counted in rations. Rations act as a unit, representing one full day's worth of meals. Rations should be counted as consumed during a long rest at the end of the day. 

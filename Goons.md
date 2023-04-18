@@ -19,7 +19,7 @@ Any number of hirelings can be hired by any character.
 
 ### Helpers
 
-0HD. HP 1. MV 120 (40). 
+0HD. HP 1.
 
 **Role**: Hauling treasure and equipment, bearing torches. 
 
@@ -31,7 +31,7 @@ Any number of hirelings can be hired by any character.
 
 ### Experts
 
-1HD. HP 2d4. INT 2. MV 120 (40).
+1HD. HP 2d4. INT 2. 
 
 **Role:** Provide services within their area of expertise. 
 
@@ -41,9 +41,9 @@ Any number of hirelings can be hired by any character.
 
 ### Mercenaries
 
-**Warrior.** 1HD. HP 2d4. AD 14 (helmet, shield, mail). STR 2. MV 120 (40). Att 1 x 1d6 (short sword).
+**Warrior.** 1HD. HP 2d4. AD 14 (helmet, shield, mail). STR 2. Att 1 x 1d6 (short sword).
 
-**Archer.** 1HD. HP 2d4. AD 13 (helmet, mail). STR 2. MV 120 (40). Att 1 x 1d6 (bow).
+**Archer.** 1HD. HP 2d4. AD 13 (helmet, mail). STR 2. Att 1 x 1d6 (bow).
 
 **Role**: Protect employer from harm in the wilderness. 
 
@@ -53,15 +53,15 @@ Any number of hirelings can be hired by any character.
 
 ## Retainers
 
-Retainers are a subset of goons that follow their employer with loyalty. 
+Retainers are a subset of goons that follow their employer with loyalty.
 
-**Sample stat line:** 1HD. HP 6. AD 13 (shield, helmet). WD 10. STR 1 DEX 1, INT 1. MV 120 (40). Att 1 x 1d6 (short sword) or 1 x spell. Items: Firebolt (spellbook).
+**Sample stat line:** 1HD. HP 6. AD 13 (shield, helmet). WD 10. STR 1 DEX 1, INT 1. Att 1 x 1d6 (short sword) or 1 x spell. Items: Firebolt (spellbook).
 
-A retainer's stats should be rolled ahead of time just like level 1 player character and populate the world. 
+A retainer's stats should be rolled ahead of time just like level 1 player character and populate the world. Retainers have no boons.
 
 **Avoids:** Retainers will only follow player characters of a higher level than they are. Therefore level 1 characters cannot hire retainers. 
 
-You can command retainers of HD up to your wil bonus. For example, a character with +2 wil may have one 2HD retainer or 2 1HD retainers.
+You can command retainers of HD up to your wil bonus. For example, a character with +2 wil may have one 2HD retainer or two 1HD retainers.
 
 **Role:** Everything a player character does. 
 

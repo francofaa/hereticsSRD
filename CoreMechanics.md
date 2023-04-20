@@ -55,18 +55,18 @@ Things that are heavy take up 2 or more slots. Full plate armor, for example, a 
 
 Distance is measured in zones. 
 
-- **Close:** If you are in a zone with someone, you are **close** and are in melee range. 
+- **Close:** If you are in a zone with someone, you are **close**. If you are targeted by or if you attempt a melee attack, you are in **melee**. 
 - **Nearby:** If you are 1 zone away, you are **nearby**. You can call over to creatures in zones that are nearby. You can get there in a round and still do something. 
 - **Far:** If you are 2 zones away, you are **far.** You can still see the whites of someone's eyes. You can get there in a round but you can't do much else. 
-- **Distant:** If you are 3 or more zones away, you are **distant.** You can make out the shape of someone. You can't get there in a round, but you can still see your target.
+- **Out of range:** If you are 3 zones away, you are **out of range.** You can make out the shape of someone. You can't get there in a round, but you can still see your target.
 
-Heretics can move 1 zone at a time and 2 zones if dashing.
+Heretics can move nearby (1 zone at a time) and far (2 zones) if using their action to move again. 
 
 If using a grid map, the distances below are from the origin:
 
 - **Close:** 1-2 units (5-10 feet)
 - **Nearby:** 5-8 units (25-40 feet)
 - **Far**: 12-18 units (60-90 feet)
-- **Distant:** 24+ units (120+ feet)
+- **Out of range:** 24+ units (120+ feet)
 
 On average, a zone is about 8 units or 40 feet. 

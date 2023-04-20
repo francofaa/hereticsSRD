@@ -48,7 +48,7 @@ The winning side of initiative acts first, followed by the losing side. Movement
 
 Narratively, attack rolls represent a series of attacks, feints, near-hits, wounds, parries, and so on.
 
-Melee attacks may be made within close range / 5-10 feet. Ranged attacks must be made from at least 1 zone away (nearby) and cannot be made within melee range. Make a melee or ranged attack by rolling 1d20 and adding the relevant bonus (usually str, but sometimes int or dex if doing a subtle or stealthy attack).
+Melee attacks may be made within close range / 5-10 feet. Ranged attacks cannot be made when in melee. Make a melee or ranged attack by rolling 1d20 and adding the relevant bonus (usually str, but sometimes int or dex if doing a subtle or stealthy attack).
 
 If this value is equal to or over the defender's armored defense score, the attack hits. The attacker then rolls the weapon's damage die, inflicting damage on the defender. 
 
@@ -86,7 +86,7 @@ Elemental damage can be measured in d6 (acid, fire, frost).
 
 ### Disengaging
 
-When an attacker leaves the zone of a creature, that creature may make an attack of opportunity as a reaction. If the attacker takes the disengage action, they will not provoke attacks of opportunity. Attackers wielding reach weapons do not take attacks of opportunity. 
+An attacker and defender are in melee when a melee attack has been made by one of them. When an attacker leaves the melee range of a defender, the defender may make an attack of opportunity as a reaction. If the attacker takes the disengage action, they will not provoke attacks of opportunity. Attackers wielding reach weapons do not take attacks of opportunity. 
 
 ### Spell casting
 
@@ -135,7 +135,7 @@ Actions can also be interactions with the environment. If the referee deems this
 
 The defender may act in response to the attacker during the attacker's phase of combat. Reactions are always situational. Common reactions are 
 
-- Attacks of opportunities on attackers exiting the melee zone without disengaging
+- Attacks of opportunities on attackers exiting melee without disengaging
 - Counterspelling using wild magic
 - Breaking one or more wards to prevent a mishap or doom
 - The inspiring boon reaction

@@ -2,7 +2,7 @@
 title: Mechanical Procedures
 layout: default
 permalink: /MechanicalProcedures
-nav_order: 7
+nav_order: 9
 has_children: true
 ---
 

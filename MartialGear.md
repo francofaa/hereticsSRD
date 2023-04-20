@@ -24,8 +24,8 @@ Note that full plate and half plate assume that mail and gambesons may be part o
 | helmet                         | +1    | 1     | head        | 40    |
 | gambeson, padding, cloth armor | +1    | 1     | body        | 60    |
 | brigandine, lamellar           | +2    | 1     | body        | 500   |
-| mail                           | +3    | 2     | body        | 1,200 |
-| half plate                     | =15   | 3     | body        | 4,000 |
+| mail, scale                    | +3    | 2     | body        | 1,200 |
+| half plate, splint             | =15   | 3     | body        | 4,000 |
 | full plate                     | =16   | 4     | body        | 8,000 |
 
 ### Sundering Shields
@@ -33,25 +33,25 @@ When a character is hit by a melee or missile attack and they carry a shield, th
 
 ## Weapons
 
-| weapon            | dmg  | slots | hands    | cost | tags                                         | dmg type                        |
-| ----------------- | ---- | ----- | -------- | ---- | -------------------------------------------- | ------------------------------- |
-| unarmed strike    | =str | 0     | n/a      | n/a  |                                              | bludgeoning                     |
-| scythe            | 1d8  | 2     | 2h       | 50   | shoving, sweeping                            | piercing, slashing              |
-| crossbow          | 1d8  | 3     | 2h       | 500  | loading, armor-piercing, 4z                  | piercing                        |
-| halberd, pole axe | 1d8  | 3     | 2h       | 100  | reach, double-edged, shoving                 | piercing, slashing, bludgeoning |
-| battle axe        | 1d8  | 2     | 2h       | 100  | shoving, sweeping                            | slashing, bludgeoning           |
-| long sword        | 1d8  | 2     | 2h       | 100  | parrying, sweeping                           | piercing, slashing              |
-| war hammer        | 1d8  | 2     | 2h       | 100  | crushing, sweeping                           | bludgeoning                     |
-| bow               | 1d6  | 2     | 2h       | 50   | 3z                                           | piercing                        |
-| sling             | 1d6  | 1     | 1h       | 5    | concealable, 2z                              | bludgeoning                     |
-| spear             | 1d6  | 1     | 1h or 2h | 50   | versatile, thrown (1z), reach (2h)           | piercing, bludgeoning           |
-| hand axe          | 1d6  | 1     | 1h or 2h | 50   | versatile, thrown (1z), dual-wield           | slashing, bludgeoning           |
-| short sword       | 1d6  | 1     | 1h or 2h | 50   | versatile, parrying                          | piercing, slashing              |
-| pick axe          | 1d6  | 1     | 1h       | 5    |                                              | piercing                        |
-| dagger            | 1d6  | 1     | 1h       | 50   | concealable, subtle, dual-wield, thrown (1z) | piercing, slashing              |
-| mace, flail       | 1d6  | 1     | 1h or 2h | 50   | versatile, crushing, sweeping                | piercing, bludgeoning           |
-| staff             | 1d4  | 1     | 1h or 2h | 5    | reach (2h), versatile                        | bludgeoning                     |
-| cudgel            | 1d4  | 1     | 1h       | 5    |                                              | bludgeoning                     |
+| weapon            | dmg  | slots | hands    | cost | tags                                             | dmg type                        |
+| ----------------- | ---- | ----- | -------- | ---- | ------------------------------------------------ | ------------------------------- |
+| unarmed strike    | =str | 0     | n/a      | n/a  |                                                  | bludgeoning                     |
+| war hammer        | 1d8  | 2     | 2h       | 100  | crushing, sweeping                               | bludgeoning                     |
+| long sword        | 1d8  | 2     | 2h       | 100  | parrying, sweeping                               | piercing, slashing              |
+| battle axe        | 1d8  | 2     | 2h       | 100  | shoving, sweeping                                | slashing, bludgeoning           |
+| halberd, pole axe | 1d8  | 3     | 2h       | 100  | reach, double-edged, shoving                     | piercing, slashing, bludgeoning |
+| crossbow          | 1d8  | 3     | 2h       | 500  | loading, armor-piercing, far                     | piercing                        |
+| scythe            | 1d8  | 2     | 2h       | 50   | shoving, sweeping                                | piercing, slashing              |
+| mace, flail       | 1d6  | 1     | 1h or 2h | 50   | versatile, crushing, sweeping                    | piercing, bludgeoning           |
+| dagger            | 1d6  | 1     | 1h       | 50   | concealable, subtle, dual-wield, thrown (nearby) | piercing, slashing              |
+| pick axe          | 1d6  | 1     | 1h       | 5    |                                                  | piercing                        |
+| short sword       | 1d6  | 1     | 1h or 2h | 50   | versatile, parrying                              | piercing, slashing              |
+| hand axe          | 1d6  | 1     | 1h or 2h | 50   | versatile, thrown (nearby), dual-wield           | slashing, bludgeoning           |
+| spear             | 1d6  | 1     | 1h or 2h | 50   | versatile, thrown (nearby), reach (2h)           | piercing, bludgeoning           |
+| bow               | 1d6  | 2     | 2h       | 50   | far                                              | piercing                        |
+| cudgel            | 1d4  | 1     | 1h       | 5    |                                                  | bludgeoning                     |
+| staff             | 1d4  | 1     | 1h or 2h | 5    | reach (2h), versatile                            | bludgeoning                     |
+| sling             | 1d4  | 1     | 1h       | 5    | concealable, far                                 | bludgeoning                     |
 
 Improvised weapon attacks usually inflict 1d4 damage.
 
@@ -77,6 +77,6 @@ On a tag trigger, if your weapon has multiple tags, choose one to trigger.
 - *Reach*: Only when this weapon is wielded in two hands, the wielder does not need to disengage to avoid opportunity attacks. 
    - The spear and staff only have the reach property when wielded with 2 hands even though they can also be wielded in 1 hand.
 - *Loading*: Requires 1 round to reload.
-- \#z: Range for a ranged or thrown weapon, in zones. Beyond this range, the attack is made at disadvantage. The attack may miss if it is too distant.
+- *Far, nearby:* Range for a ranged or thrown weapon. 
 - *Sweeping*: When the attacker rolls maximum damage on a hit, they may roll another attack at an adjacent foe.
 - *Armor-piercing:* Attacks made with this weapon ignore mundane, non-natural armor and hit the dexterity defense of the target rather than the armored def (adef).

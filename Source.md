@@ -14,13 +14,12 @@ The party receives their power from a Source, an unknowable entity. The Source c
 A Source is built by following the procedures below, in any order: 
 
 1. Determine [Aspects](#aspects)
-	1. Determine [Blessings and Curses](#blessings-and-curses)
-	2. Determine [Spellcasting Mishaps and Dooms](#spellcasting-mishaps-and-dooms)
+	- Determine [Blessings and Curses](#blessings-and-curses)
 3. Determine [Preferred Sacrifice](#preferred-sacrifice)
 4. Determine [Trappings](#trappings)
-	1. [Symbols](#symbols)
-	2. [Means of Devotion](#means-of-devotion)
-	3. [Communication](#communication)
+	- [Symbols](#symbols)
+	- [Means of Devotion](#means-of-devotion)
+	- [Communication](#communication)
 5. Determine [Form](#form)
 
 Name, appearance, and holidays can be determined at any point, but can be greatly informed by the results of the procedure. The facts of the Source should be recorded and maintained by the referee and players together. 
@@ -29,65 +28,25 @@ Name, appearance, and holidays can be determined at any point, but can be greatl
 
 Roll d12 three times to establish three different aspects of the Source, re-rolling repeats. For now, make note only of the aspect:
 
-| d12 | Aspect               | Curse | Blessing                                                                                  | Mishap                                                                                                                                                                           | Doom Sequence                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| --- | -------------------- | ----- | ----------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | Fertility            | INT   | Today, you may completely convince someone of a lie once.                                 | You make saves at disadvantage for *dice* minutes.                                                                                                                               | 1: You are haunted by a vision of an abomination for *dice* rounds. You are stunned and unable to do anything else. 2: A parasite begins gestating somewhere inside you. 3: The parasite bursts from your body, killing you instantly. It is hostile and hungry.                                                                                                                                                                          |
-| 2   | Hearth and Home      | DEX   | Today, take +1 when you roll with +dex.                                                   | All lights in a 40' radius sphere extinguish and torches are consumed.                                                                                                           | 1: You burn from within for *dice* rounds, unable to do anything else. 2: Your touch inflicts 1d6 fire damage. You and anything you are wearing or holding cannot be touched without inflicting this harm. 3: You explode into a conflagration, dying instantly and inflicting 8d6 fire damage to anyone within a 10 foot radius sphere. The fire is inescapable.                                                                         |
-| 3   | Revelry              | STR   | Today, when you eat rations, you restore 1 HP for every ration you eat.                   | You become ravenously hungry and cannot cast spells again until you eat 1 ration. This does not count toward your rations for the day.                                           | 1: You vomit for *dice* rounds, unable to do anything else. 2: You must eat three times as much food and drink to benefit from rest. 3: A pack of ravenous fey folk hunt you until you are captured and eaten alive. They attack anyone in their way. They fade into the fey realm only after their task is complete.                                                                                                                     |
-| 4   | Seas and Rivers      | STR   | Today, take +1 when you roll with +str.                                                   | Water fills a 10' radius sphere, magically suspended in the space. After *dice* minutes, the water gushes out.                                                                   | 1: You vomit seawater for *dice* rounds, unable to do anything else. 2: You cannot swim. 3: The tide rises to wherever you are. Merfolk, drowned corpses, and a sea monster hunt you down until you are dead. They attack anyone in their way. The waters recede and the monsters swim back down only after their task is complete.                                                                                                       |
-| 5   | Weather              | WIL   | Today, take +1 when you roll with +wil.                                                   | A wind storm fills a 10' radius sphere for *dice* rounds. Creatures in the area are immediately pushed *sum* feet away from you and are deafened by the noise for the duration.  | 1: You become a cloud for *dice* rounds, unable to do anything else. 2: Whenever you cast a spell, lightning strikes a creature within 100 feet at random for 3d6 lightning damage. 3: You become a hurricane. You roam the world forever, causing destruction.                                                                                                                                                                           |
-| 6   | Fortune              | WIL   | Today, You may turn any roll into a 20 once.                                              | The number *sum* becomes a critical failure when rolled on the d20. If *sum* is greater than 20, 20 is now a critical failure. This effect lasts until the next dawn.            | 1: Remove 1 omen from yourself. The nearest heretic receives it. This does not force an omen roll. 2: Whenever you roll a 20, it is a critical failure. 3: Your spell escapes. You are pulled into the object the spell was cast from. You become a spell.                                                                                                                                                                                |
-| 7   | Healing and Medicine | STR   | Today, you may fully restore HP once.                                                     | *sum* medicinals within a 10' radius sphere instantly rot.                                                                                                                       | 1: Medicine and healing does not work on you for one day. 2: Medicine and healing no longer work on you. You forget how to use medicinals and healing. All attempts at healing and using medicinals fail and may instead inflict harm. 3: You fall ill. You are contagious. Any creature within a 10 foot radius contracts the illness as well and must make a +str save versus your wil def or die in 1d4 weeks. You will die 1d4 weeks. |
-| 8   | Harvest              | WIL   | Today, you do not need to eat or drink.                                                   | *sum* rations and food within a 10' radius sphere instantly spoil.                                                                                                               | 1: All food tastes foul to you. 2: You cannot restore hit protection from eating, only from medicinals and magical healing. 3: Food cannot nourish you. You waste away slowly in 1d4 weeks. Everything you do is at disadvantage until then.                                                                                                                                                                                              |
-| 9   | Death                | DEX   | Today, you may negate all damage from a single attack once.                               | Your spirit escapes your body, which goes limp. As an action, you may make a +int save vs your wdef to return to your body. Otherwise your spirit cannot interact with anything. | 1: You fall to 0 hit protection, forcing an omen roll (shocking). 2: You become undead. Your spirit follows you on a tether. 3: Your spirit is severed from your body. Something else lives in your body now.                                                                                                                                                                                                                             |
-| 10  | Travel and Trade     | INT   | Today, take +1 when you roll with +int.                                                   | 1d10 x *sum + dice* coins disappear within a 40' radius sphere.                                                                                                                  | 1: You teleport to another plane for *sum* rounds. 2: The first time you fail a roll in a day, you are teleported to another plane of existence for 1d4 rounds. 3: You teleport to another plane of existence.                                                                                                                                                                                                                            |
-| 11  | War                  | DEX   | Today, whenever you inflict damage, add 1d4 of the same damage type.                      | Every weapon attack against you has advantage for *dice* rounds.                                                                                                                 | 1: You are unable to use a weapon or cast a spell for one day. 2: Armor and weapons become heavy for you. When you carry them, your speed is reduced to 0. 3: Ethereal warriors appear in the clouds and hunt you until you are dead. They attack anyone in their way. They return into the clouds only after their task is complete.                                                                                                     |
-| 12  | Nature               | INT   | Today, when you expend all of your magic dice, you instantly receive them all back, once. | Plants and vines erupt from your hands and feet, entangling creatures in a 40' radius if they fail a +dex save vs your wil def. Plants go away in *dice* minutes.                | 1: You cough up leaves for *dice* rounds, unable to do anything else. 2: Your skin becomes like bark. You gain +1 to your +adef. 3: You become a tree.                                                                                                                                                                                                                                                                                    |
+| d12 | Aspect               | Curse | Blessing                                                                                  |
+| --- | -------------------- | ----- | ----------------------------------------------------------------------------------------- |
+| 1   | Fertility            | INT   | Today, you may completely convince someone of a lie once.                                 |
+| 2   | Hearth and Home      | DEX   | Today, take +1 when you roll with +dex.                                                   |
+| 3   | Revelry              | STR   | Today, when you eat rations, you restore 1 HP for every ration you eat.                   |
+| 4   | Seas and Rivers      | STR   | Today, take +1 when you roll with +str.                                                   |
+| 5   | Weather              | WIL   | Today, take +1 when you roll with +wil.                                                   |
+| 6   | Fortune              | WIL   | Today, You may turn any roll into a 20 once.                                              |
+| 7   | Healing and Medicine | STR   | Today, you may fully restore HP once.                                                     |
+| 8   | Harvest              | WIL   | Today, you do not need to eat or drink.                                                   |
+| 9   | Death                | DEX   | Today, you may negate all damage from a single attack once.                               |
+| 10  | Travel and Trade     | INT   | Today, take +1 when you roll with +int.                                                   |
+| 11  | War                  | DEX   | Today, whenever you inflict damage, add 1d4 of the same damage type.                      |
+| 12  | Nature               | INT   | Today, when you expend all of your magic dice, you instantly receive them all back, once. |
 
 ### Blessings and Curses
 
 These may be bestowed upon a heretic for whatever reason. Blessings and curses are associated with the Source's aspects. Curses impact the indicated ability by applying a -1 penalty for 1 day. 
 
-### Spellcasting Mishaps and Dooms
-
-The referee should build out the mishaps and doom tables based on the aspects rolled and share these tables with the players. These should be marked on the [Party Tracker](PartyTracker) document. All heretics can suffer from these mishaps and dooms. All heretics can cast spells.
-
-Mishaps occur when doubles are rolled on magic dice. Dooms occur when triples are rolled on magic dice. Refer to [Spellcasting](spellcasting) for more information. This section describes how to build these tables.
-
-#### Mishaps Table
-
-Mishaps should be narrated as the result of overchanneling power from the Source, not as a punishment.
-
-Build a table by taking the first, second, and third rolled [Aspects](#aspects) of the party's source and slotting them in where indicated.
-
-| d6  | mishap                                                                          |
-| --- | ------------------------------------------------------------------------------- |
-| 1   | Magic dice only return to your pool on a 1-2 until the next dawn                |
-| 2   | Suffer 1d6 psychic damage                                                       |
-| 3   | *First aspect*                                                                  |
-| 4   | *Second aspect*                                                                 |
-| 5   | *Third aspect*                                                                  |
-| 6   | Spell targets you (if harmful) or enemy (if beneficial) or fizzles (if neutral) |
-
-#### Dooms Tables
-
-Dooms should not be narrated as punishments from the Source but as interference from other sources of magic, corrupting the Source's channel to the heretic. Count dooms as they accumulate. 
-
-The party will have 3 doom tables based on their [Aspects](#aspects). The tripled number on the die corresponds to which table they will suffer the dooms from going forward: 
-
-- 1-2: 1st aspect dooms
-- 3-4: 2nd aspect dooms
-- 5-6: 3rd aspect dooms
-
-For example, if three 1's are rolled, the heretic will suffer the first doom from the 1st aspect table. Later, they roll three 6's. They still take their second doom from the 1st aspect table. This is because the dooms accumulate thematically.
-
-| Count | dooms                                                            |
-| ----- | ---------------------------------------------------------------- |
-| 1st   | Mark 1 omen. +1 to *sum* and casting for spell that caused doom. |
-| 2nd   | +2 to *sum* and casting for spell that caused doom.              |
-| 3rd   |                                                                  |
-
-Doom level may be downgraded with quests or adventures. 
 
 ## Preferred Sacrifice
 

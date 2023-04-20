@@ -2,8 +2,8 @@
 title: Spell Casting
 layout: default
 permalink: /spellcasting
-parent: Accessories
-nav_order: 6
+parent: Magic
+nav_order: 3
 ---
 
 {% include toc.html %}
@@ -54,39 +54,6 @@ With a magical ritual and symbols (like string tied around fingers, rings, tatto
 ### The Perfect Cast
 
 On a critical hit (natural 20), the spell works without fail. The caster may choose to remove 1 mishap or retain 1 magic die that would otherwise be expended. On a critical failure, no additional misfortune occurs. 
-
-## Mishaps and Dooms
-
-If the caster rolls **doubles** on their magic dice, a magical mishap occurs with the spell behaving as written. If multiple doubles are rolled, the highest number takes precedence.
-
-If the caster rolls **triples** on their magic dice, they receive 1 doom. The spell occurs as written. 
-
-If four dice are the same, it counts as a triple. If five or more dice are the same, it counts as a triple and a double (mishap). 
-
-Wards may also be broken to nullify mishaps and dooms. A +1 wdef ward is required to nullify a mishap. To nullify a doom, wards providing a cumulative +wdef of +3 must be destroyed. 
-
-The party's mishaps and doom tables are based on their [Source](Source#spellcasting-mishaps-and-dooms). Dooms are progressive and can be removed with quests. 
-
-Unless otherwise stated, spells still work even when mishaps and dooms occur. 
-
-### Mishaps and Dooms Probability
-
-| \#d6 | Mishap chance (%) | Doom chance (%) |
-| ---- | ----------------- | --------------- |
-| 1    | 0                 | 0               |
-| 2    | 17                | 0               |
-| 3    | 44                | 3               |
-| 4    | 72                | 10              |
-| 5    | 96                | 19              |
-| 6    | 99                | 32              |
-| 7    | 100               | 47              |
-| 8    | 100               | 63              |
-| 9    | 100               | 78              |
-| 10   | 100               | 93              |
-| 11   | 100               | 98              |
-| 12   | 100               | 99              |
-| 13   | 100               | 100             |
-
 
 
 ## Wild Magic

@@ -19,6 +19,7 @@ When a player is creating a heretic, follow the character creation procedure to 
 5. [Traits](#traits)
 6. [Name](#name)
 7. [Languages](#languages)
+8. [Relationship to Source](#relationship-to-source)
 
 These steps are described in more detail below. 
 
@@ -76,9 +77,9 @@ Your secondary abilities are derived as follows:
 - From Intelligence
 	- Maximum supply = defense score (start with all of your supply)
 
-Movement is 1 zone of combat movement and 3 zones of exploration movement.
-
 Omens start at 0.
+
+> [Level zero](levelzerostart) characters do not use omens and die at 0 HP.
 
 ## Hit Protection 
 
@@ -88,14 +89,18 @@ Refer to [Damage](Damage) for more on hit protection.
 
 ## Gear
 
-Roll 1d4, 1d6, 1d8, 2d10 (10's and 1's places), 1d12, and 1d20 or choose from the lists below to determine the gear for your character. If there are blanks, the character receives nothing. 
+Roll 1d4, 1d6, 1d8, 2d10 (10's and 1's places), 1d12, and 1d20. Blanks indicate that the character receives nothing. 
 
-| d4  | Magical Gear                                                                       | Slots required |
-| --- | ---------------------------------------------------------------------------------- | -------------- |
-| 1   |                                                                                    |                |
-| 2   | 1 [medicinal](Medicinals) 5/5 (d10 table)                                          | 1              |
-| 3   | 1 wdef+1 [ward](magicalitems#wards)                                                | 1              |
-| 4   | 1 [spell](d100spells) (d100 table) & 1 [focus](magicalitems#focuses) (1 magic die) | 2              |
+**1d4:** [Magical gear](Magic)
+
+| d4  | Magical Gear                                                                       | Slots |
+| --- | ---------------------------------------------------------------------------------- | ----- |
+| 1   |                                                                                    |       |
+| 2   | 1 [medicinal](Medicinals) 5/5 (d10 table)                                          | 1     |
+| 3   | 1 wdef+1 [ward](magicalitems#wards)                                                | 1     |
+| 4   | 1 [spell](d100spells) (d100 table) & 1 [focus](magicalitems#focuses) (1 magic die) | 2     |
+
+**1d8 x 1d6:** [Inventory](Background gear)
 
 Roll 1d8 and 1d6 and cross reference the numbers to find your background. You get all the gear from your background. Each piece of gear takes up one slot.
 
@@ -116,81 +121,81 @@ Actions performed using skills or tools relevant to a heretic's background may n
 | 7     | Trader: valuable trinket, ink and quill, 2d6 x 10 coins | Tinker: grease, fine tools, scrap metal                        | Bounty-hunter: quiver of bolts, crossbow, dagger                | Cut-purse: dagger, disguise kit, ball bearings                       | Gambler: loaded dice or trick deck, mirror, 10 + 1d4! coin (exploding) | Apothecary: empty vials, antitoxin, shears              |
 | 8     | Messenger: traveling papers, lantern, bedroll           | Hedge witch: fetish wdef+1, 1 medicinal 5/5, mortar and pestle | Pit-fighter: cudgel, gambeson, net                              | Alchemist: potion brewing kit, ink and quill, antitoxin              | Blacksmith: hammer, metal file, bellows                                | Scholar: ink and quill, blank book, sealing wax         |
 
-[Shields and helmets](MartialGear#armor) add +1 to armored defense (adef).
+**1d10:** [Shields and helmets](MartialGear#armor) 
 
-| d10 | Armor           | Slots Required |
-| --- | --------------- | -------------- |
-| 1   |                 |                |
-| 2   |                 |                |
-| 3   |                 |                |
-| 4   |                 |                |
-| 5   |                 |                |
-| 6   | shield          | 1              |
-| 7   | shield          | 1              |
-| 8   | helmet          | 1              |
-| 9   | helmet          | 1              |
-| 10  | helmet & shield | 2              |
+| d10 | Armor           | Slots | adef bonus |
+| --- | --------------- | ----- | ---------- |
+| 1   |                 |       |            |
+| 2   |                 |       |            |
+| 3   |                 |       |            |
+| 4   |                 |       |            |
+| 5   |                 |       |            |
+| 6   | shield          | 1     | +1         |
+| 7   | shield          | 1     | +1         |
+| 8   | helmet          | 1     | +1         |
+| 9   | helmet          | 1     | +1         |
+| 10  | helmet & shield | 2     | +2         |
 
-[Armor](MartialGear#armor) augments armored defense (adef). 
+**1d00**: [Armor](MartialGear#armor) 
 
-| d00 | Armor                       | Slots Required | Armored Defense Bonus |
-| --- | --------------------------- | -------------- | --------------------- |
-| 10  |                             |                |                       |
-| 20  |                             |                |                       |
-| 30  |                             |                |                       |
-| 40  |                             |                |                       |
-| 50  |                             |                |                       |
-| 60  | gambeson, padding, or cloth | 1              | +1                    |
-| 70  | gambeson, padding, or cloth | 1              | +1                    |
-| 80  | brigandine or lamellar      | 1              | +2                    |
-| 90  | brigandine or lamellar      | 1              | +2                    |
-| 00  | mail                        | 2              | +3                    |
+| d00 | Armor                       | Slots | adef bonus |
+| --- | --------------------------- | ----- | ---------- |
+| 10  |                             |       |            |
+| 20  |                             |       |            |
+| 30  |                             |       |            |
+| 40  |                             |       |            |
+| 50  |                             |       |            |
+| 60  | gambeson, padding, or cloth | 1     | +1         |
+| 70  | gambeson, padding, or cloth | 1     | +1         |
+| 80  | brigandine or lamellar      | 1     | +2         |
+| 90  | brigandine or lamellar      | 1     | +2         |
+| 00  | mail or scale                        | 2     | +3         |
 
-[Weapons](MartialGear#weapons) have damage die, tags, and damage types. 
+**1d12:** [Weapons](MartialGear#weapons) 
 
-| d12 | Weapons             | Slots Required | Damage | Hands    |
-| --- | ------------------- | -------------- | ------ | -------- |
-| 1   |                     |                |        |          |
-| 2   | cudgel              | 1              | d4     | 1h       |
-| 3   | dagger              | 1              | d4     | 1h       |
-| 4   | staff               | 1              | d6     | 1h or 2h |
-| 5   | short sword         | 1              | d6     | 1h or 2h |
-| 6   | hand axe            | 1              | d6     | 1h or 2h |
-| 7   | spear               | 1              | d6     | 1h or 2h |
-| 8   | bow                 | 2              | d6     | 2h       |
-| 9   | sling               | 1              | d6     | 1h       |
-| 10  | crossbow            | 3              | d8     | 2h       |
-| 11  | mace or flail       | 1              | d6     | 1h or 2h |
-| 12  | pole axe or halberd | 3              | d8     | 2h       |
+| d12 | Weapons             | Slots | Hands    |
+| --- | ------------------- | ----- | -------- |
+| 1   |                     |       |          |
+| 2   | cudgel              | 1     | 1h       |
+| 3   | dagger              | 1     | 1h       |
+| 4   | staff               | 1     | 1h or 2h |
+| 5   | short sword         | 1     | 1h or 2h |
+| 6   | hand axe            | 1     | 1h or 2h |
+| 7   | spear               | 1     | 1h or 2h |
+| 8   | bow                 | 2     | 2h       |
+| 9   | sling               | 1     | 1h       |
+| 10  | crossbow            | 3     | 2h       |
+| 11  | mace or flail       | 1     | 1h or 2h |
+| 12  | pole axe or halberd | 3     | 2h       |
 
+**1d20:** [Adventuring gear](Inventory) 
 
-
-| d20 | Adventuring Gear             | Slots Required |
-| --- | ---------------------------- | -------------- |
-| 1   | rations 5/5                  | 1              |
-| 2   | rope 50 feet                 | 1              |
-| 3   | torches 3/3                  | 1              |
-| 4   | grappling hook               | 1              |
-| 5   | tent                         | 1              |
-| 6   | lantern; lantern oil 2/2     | 2              |
-| 7   | chalk 10/10                  | 1              |
-| 8   | pole 10 feet                 | 1              |
-| 9   | chain 10 feet                | 1              |
-| 10  | crowbar                      | 1              |
-| 11  | candles 10/10                | 1              |
-| 12  | caltrops 10/10               | 1              |
-| 13  | grease 10/10                 | 1              |
-| 14  | rope 50 feet; grappling hook | 2              |
-| 15  | net                          | 1              |
-| 16  | shovel                       | 1              |
-| 17  | bucket                       | 1              |
-| 18  | stakes 3/3; mallet           | 2              |
-| 19  | flask                        | 1              |
-| 20  | 3d6 x 10 coins               | 1              |
+| d20 | Adventuring Gear             | Slots |
+| --- | ---------------------------- | ----- |
+| 1   | rations 5/5                  | 1     |
+| 2   | rope 50 feet                 | 1     |
+| 3   | torches 3/3                  | 1     |
+| 4   | grappling hook               | 1     |
+| 5   | tent                         | 1     |
+| 6   | lantern; lantern oil 2/2     | 2     |
+| 7   | chalk 10/10                  | 1     |
+| 8   | pole 10 feet                 | 1     |
+| 9   | chain 10 feet                | 1     |
+| 10  | crowbar                      | 1     |
+| 11  | candles 10/10                | 1     |
+| 12  | caltrops 10/10               | 1     |
+| 13  | grease 10/10                 | 1     |
+| 14  | rope 50 feet; grappling hook | 2     |
+| 15  | net                          | 1     |
+| 16  | shovel                       | 1     |
+| 17  | bucket                       | 1     |
+| 18  | stakes 3/3; mallet           | 2     |
+| 19  | flask                        | 1     |
+| 20  | 3d6 x 10 coins               | 1     |
 
 ## Traits
 
-Roll 1d4, 1d6, 1d8, 2d10 (10's and 1's places), 1d12, and 1d20 or choose from the lists below to determine the character traits and relationships for your character. 
+Roll 1d4, 1d6, 1d8, 2d10 (10's and 1's places), 1d12, and 1d20 to determine the character traits and relationships for your character. 
 
 | d4  | Age                 |
 | --- | ------------------- |
@@ -198,6 +203,7 @@ Roll 1d4, 1d6, 1d8, 2d10 (10's and 1's places), 1d12, and 1d20 or choose from th
 | 2   | Young adult         |
 | 3   | Mature prime        |
 | 4   | Middle-aged         |
+
 
 
 | d6 | Clothes     |
@@ -209,6 +215,7 @@ Roll 1d4, 1d6, 1d8, 2d10 (10's and 1's places), 1d12, and 1d20 or choose from th
 | 5   | Foreign     |
 | 6   | Ceremonial  |
 
+
 | d8  | Speech     |
 | --- | ---------- |
 | 1   | Squeaky    |
@@ -219,7 +226,6 @@ Roll 1d4, 1d6, 1d8, 2d10 (10's and 1's places), 1d12, and 1d20 or choose from th
 | 6   | Drawling   |
 | 7   | Rapid-fire |
 | 8   | Monotone   |
-
 
 
 | d10 | Vice              |
@@ -234,6 +240,7 @@ Roll 1d4, 1d6, 1d8, 2d10 (10's and 1's places), 1d12, and 1d20 or choose from th
 | 8   | Vain              |
 | 9   | Bitter            |
 | 10  | Aggressive        |
+
 
 | d00 | Virtue      |
 | --- | ----------- |
@@ -264,7 +271,7 @@ Roll 1d4, 1d6, 1d8, 2d10 (10's and 1's places), 1d12, and 1d20 or choose from th
 | 11  | Demoted     |
 | 12  | None        |
 
-In addition to your connection as heretics and followers of the same source of power, you are also one of the following: 
+
 
 | d20 | Connection to the Character on my Left    |
 | --- | ----------------------------------------- |
@@ -288,6 +295,9 @@ In addition to your connection as heretics and followers of the same source of p
 | 18  | We fought on opposite sides of a conflict |
 | 19  | Former customer                           |
 | 20  | I lost a bet to them                      |
+
+
+
 
 ## Name
 
@@ -317,6 +327,20 @@ Every initial +1 to intelligence can be spent on an **uncommon language**.
 - Ancient: Old versions of the same languages
 - Monster (costs 2): Languages of anything but humans and humanoid species, such as fey languages, merfolk languages, goblin languages, and so on. The language should be assumed to be a language of that particular region. For example, a merfolk living 1,000 miles away probably does not speak the same language as the merfolk who taught you. In fact, if deemed appropriate by the referee, a merfolk living downstream may speak a completely different language as well.
 - Outsider (costs 3): Languages of creatures outside of this world
+
+## Relationship to Source
+
+Establish the relationship to the source. Consider the source as less of a deity and more of an aloof patron who communicates in mysterious unknowable ways. The only thing you know is that it grants you with power and that it promises more.
+
+
+| d6  | Relationship to the Source | Examples                                                 |
+| --- | -------------------------- | -------------------------------------------------------- |
+| 1   | Private                    | A hermit in the woods, keeper of a hidden shrine         |
+| 2   | Lapsed follower            | Holds a grudge, drifted apart, has a guilty conscience   |
+| 3   | Received a gift            | Received rain during a drought, coin in a difficult time |
+| 4   | Childhood friend           | Source was imaginary friend, mentor, parent              |
+| 5   | Owe a favor                | Asked for wealth, success, love                          |
+| 6   | New follower               | Learned of the source recently                           |
 
 
 ## Reading a Stat Line

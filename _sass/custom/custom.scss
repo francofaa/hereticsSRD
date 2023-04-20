@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Telugu:wght@400;500;600;700;800;900&family=Pirata+One&family=Roboto:ital,wght@0,400;0,500;0,700;0,900;1,400;1,500;1,700;1,900&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,700;1,400;1,700&family=Pirata+One&family=Roboto:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap');
 
 $bgc: #A9B44E;
 $bgch: darken($bgc, 15);
@@ -111,7 +111,7 @@ h4 {
 // // }
 
 .main {
-  font-family: 'Noto Serif Telugu', serif;
+  font-family: 'Noto Serif', serif;
 }
 
 .site-title, h1 {
@@ -198,4 +198,15 @@ blockquote {
   border-left: $bgch 3px solid;
   padding: 0.25rem 1rem;
   margin-left: 0;
+}
+
+details {
+  background-color: #f2f2f2;
+  padding: 6px;
+  // border: $th 1px solid;
+  border-radius: 3px;
+}
+
+summary {
+  font-style: italic;
 }

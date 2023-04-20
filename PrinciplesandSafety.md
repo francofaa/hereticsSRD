@@ -1,20 +1,12 @@
 ---
-title: Introduction
+title: Principles and Safety
 layout: default
-permalink: /Introduction
+permalink: /Principles
 nav_order: 2
 ---
 {% include toc.html %}
 
-# Introduction
-
-## Premise 
-
-The heretics are in a low magic world, secret followers of a mysterious [Source](Source), an entity that grants them power. They are seekers of forbidden and lost magical artifacts containing living spells. Make the world weird and beautiful. The Source communicates in strange patterns: fire, winds, the flight paths of birds. 
-
-The players may treat their Source like an aloof warlock patron that checks in every now and then and doesn't ask for much, or like an overly involved otherworldly entity on their shoulder, asking when they're gonna find that goat for the sacrifice, it's been weeks. 
-
-## General Principles 
+# Principles
 
 - **The referee is the world, not the adversary.** The referee must portray the rules, situations, narrative, and NPCs clearly, neutrally, and without subterfuge.
 - **No classes, just inventory.** No classes means everyone can cast spells, swing swords, charm merchants, and walk across a tightrope. Ultimately, what you have is what you can do. Inventory management is important but it is simplified with a slot system.
